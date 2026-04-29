@@ -1,0 +1,166 @@
+{
+  "meetings": [
+    {
+      "city": "Neustadt/Weinstraße",
+      "counts": {
+        "athletes": 580,
+        "clubs": 34,
+        "events": 96,
+        "heats": 294,
+        "relays": 31,
+        "sessions": 8
+      },
+      "course": "LCM",
+      "deadline": "2026-04-09",
+      "end_date": "2026-04-19",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "sha256": "c693a35b17c33361b584955e652f44ec823f3d5e0a82f448e346ab873ea97658",
+          "size_bytes": 445911,
+          "url": "meetings/332026/lxf_gesamt.lef"
+        }
+      },
+      "hostclub": "SC Neustadt/Weinstraße",
+      "meeting_id": "332026",
+      "name": "31. Weinstraßen-Schwimmwettkämpfe",
+      "nation": "GER",
+      "organizer": "SC Neustadt/Weinstraße",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-18",
+          "daytime": "09:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-18",
+          "daytime": "00:20",
+          "name": "",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-04-18",
+          "daytime": "01:00",
+          "name": "",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-04-18",
+          "daytime": "00:20",
+          "name": "",
+          "number": 4
+        },
+        {
+          "course": "",
+          "date": "2026-04-19",
+          "daytime": "09:00",
+          "name": "",
+          "number": 5
+        },
+        {
+          "course": "",
+          "date": "2026-04-19",
+          "daytime": "00:20",
+          "name": "",
+          "number": 6
+        },
+        {
+          "course": "",
+          "date": "2026-04-19",
+          "daytime": "01:00",
+          "name": "",
+          "number": 7
+        },
+        {
+          "course": "",
+          "date": "2026-04-19",
+          "daytime": "00:20",
+          "name": "",
+          "number": 8
+        }
+      ],
+      "start_date": "2026-04-18",
+      "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Stuttgart",
+      "counts": {
+        "athletes": 280,
+        "clubs": 67,
+        "events": 38,
+        "heats": 269,
+        "relays": 0,
+        "sessions": 3
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-03",
+      "facility": {
+        "name": "Sportbad NeckarPark",
+        "street": "Lenore-Volz-Strasse 2",
+        "zip": "70372 Stuttgart"
+      },
+      "files": {
+        "lef": {
+          "sha256": "dbce1891c0571b1e5f470b2d41aaf5887042f196bf6d9d37e00299bea1412dfd",
+          "size_bytes": 306036,
+          "url": "meetings/6152026/meldeergebnis.lef"
+        }
+      },
+      "hostclub": "Schwimmerbund Schwaben Stuttgart",
+      "meeting_id": "6152026",
+      "name": "Ba-Wü- und Süddt. Meisterschaften im Schwimm-Mehrkampf (SMK) 2026",
+      "nation": "GER",
+      "organizer": "SVW und BSV und SSV",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-01",
+          "daytime": "16:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-02",
+          "daytime": "09:30",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-03",
+          "daytime": "09:30",
+          "name": "Abschnitt 3",
+          "number": 3
+        }
+      ],
+      "start_date": "2026-05-01",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
+    }
+  ],
+  "schema_version": 1
+}
