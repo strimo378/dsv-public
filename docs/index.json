@@ -108,10 +108,10 @@
     {
       "city": "Stuttgart",
       "counts": {
-        "athletes": 280,
-        "clubs": 67,
+        "athletes": 285,
+        "clubs": 68,
         "events": 38,
-        "heats": 269,
+        "heats": 273,
         "relays": 0,
         "sessions": 3
       },
@@ -125,15 +125,15 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-04-26T22:04:12+00:00",
-          "sha256": "dbce1891c0571b1e5f470b2d41aaf5887042f196bf6d9d37e00299bea1412dfd",
-          "size_bytes": 306036,
+          "modified": "2026-04-30T06:14:45+00:00",
+          "sha256": "28aaaa15bf8ce5cbd838ae7ae571a505a6eeed5e01e01da39ca16cf4ef0e0fce",
+          "size_bytes": 310954,
           "url": "meetings/6152026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
-          "modified": "2026-04-26T22:04:12+00:00",
-          "sha256": "20f8ed95f456abd94926dbc4f256cf9c43e4bb8272826b702c851453db2fcb61",
-          "size_bytes": 666629,
+          "modified": "2026-04-30T06:14:45+00:00",
+          "sha256": "b320b6271cc5e5f6bbc14766cbe7a65000f97e59e7e028c6b7590a39278591d7",
+          "size_bytes": 671125,
           "url": "meetings/6152026/meldeergebnis.pdf"
         }
       },
