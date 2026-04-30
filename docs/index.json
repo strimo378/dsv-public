@@ -20,6 +20,7 @@
       },
       "files": {
         "lef": {
+          "modified": "2026-04-17T19:33:33+00:00",
           "sha256": "c693a35b17c33361b584955e652f44ec823f3d5e0a82f448e346ab873ea97658",
           "size_bytes": 445911,
           "url": "meetings/332026/lxf_gesamt.lef"
@@ -118,6 +119,7 @@
       },
       "files": {
         "lef": {
+          "modified": "2026-04-26T22:04:12+00:00",
           "sha256": "dbce1891c0571b1e5f470b2d41aaf5887042f196bf6d9d37e00299bea1412dfd",
           "size_bytes": 306036,
           "url": "meetings/6152026/meldeergebnis.lef"
