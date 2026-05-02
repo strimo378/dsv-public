@@ -54,7 +54,7 @@ jobs:
         run: |
           cd /tmp/dsv-app/flutter_app
           python3 << 'PYEOF'
-          import os, re, sys
+          import os, re, sys, textwrap
 
           commit_date = os.environ.get("COMMIT_DATE", "")
           flutter_lib = "/tmp/dsv-app/flutter_app/lib"
@@ -65,7 +65,7 @@ jobs:
           about_screen_path = os.path.join(flutter_lib, "screens", "about_screen.dart")
           os.makedirs(os.path.dirname(about_screen_path), exist_ok=True)
 
-          about_screen_code = f'''\
+          about_screen_code = textwrap.dedent(f"""\
           import 'package:flutter/material.dart';
 
           class AboutScreen extends StatelessWidget {{
@@ -98,7 +98,7 @@ jobs:
               );
             }}
           }}
-          '''
+          """)
 
           with open(about_screen_path, "w") as f:
               f.write(about_screen_code)
@@ -117,7 +117,8 @@ jobs:
                   if not fname.endswith(".dart"):
                       continue
                   fpath = os.path.join(root, fname)
-                  content = open(fpath).read()
+                  with open(fpath) as fh:
+                      content = fh.read()
                   if "openDrawer" in content or ("Drawer(" in content and "ListTile" in content):
                       target_file = fpath
                       target_content = content
@@ -170,8 +171,10 @@ jobs:
                     ),"""
 
           if "AboutScreen" not in target_content:
-              # Find position of last ListTile closing paren inside a Drawer block
-              # Simple heuristic: find all ListTile(... ), blocks and add after last one
+              # Find position of last ListTile closing paren inside a Drawer block.
+              # Note: this regex handles one level of nested parentheses, which covers
+              # most common Flutter ListTile usages. More deeply nested widgets
+              # would require a proper Dart parser.
               pattern = re.compile(
                   r'(ListTile\s*\([^)]*(?:\([^)]*\)[^)]*)*\)\s*,)',
                   re.DOTALL
@@ -187,22 +190,19 @@ jobs:
                   )
                   print("Inserted About ListTile after last existing ListTile")
               else:
-                  print("WARNING: Could not find ListTile pattern, trying Drawer body")
-                  # Fallback: find "Drawer(" and insert inside its child
-                  drawer_match = re.search(r'Drawer\s*\(', target_content)
-                  if drawer_match:
-                      insert_pos = drawer_match.end()
-                      target_content = (
-                          target_content[:insert_pos]
-                          + "\n        // TODO: Add About ListTile here\n"
-                          + target_content[insert_pos:]
-                      )
+                  print("ERROR: Could not find a ListTile pattern in the drawer file.", file=sys.stderr)
+                  print(f"  File: {target_file}", file=sys.stderr)
+                  print("  Please add the About ListTile manually.", file=sys.stderr)
+                  sys.exit(1)
 
           with open(target_file, "w") as f:
               f.write(target_content)
           print(f"Updated: {target_file}")
           print("Done patching Flutter app.")
           PYEOF
+
+          # Format the modified Dart files
+          flutter format lib/
 
       - name: Build APK
         run: |
