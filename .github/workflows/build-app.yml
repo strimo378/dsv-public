@@ -1,0 +1,224 @@
+name: "Add About Screen and Rebuild APK"
+
+# This workflow clones the private source repository, adds the About screen
+# to the hamburger menu, rebuilds the APK, and commits it here.
+#
+# Prerequisites:
+#   1. Add a secret named DSV_APP_TOKEN to the `copilot` environment in this
+#      repository's Settings → Environments → copilot → Environment secrets.
+#      The token must have read access to strimo378/dsv-app.
+#   2. Trigger this workflow manually from the Actions tab.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout dsv-public
+        uses: actions/checkout@v4
+
+      - name: Clone dsv-app (private source repo)
+        env:
+          DSV_APP_TOKEN: ${{ secrets.DSV_APP_TOKEN }}
+        run: |
+          git clone https://x-access-token:${DSV_APP_TOKEN}@github.com/strimo378/dsv-app.git /tmp/dsv-app
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: "stable"
+          channel: "stable"
+          cache: true
+
+      - name: Install Flutter dependencies
+        run: |
+          cd /tmp/dsv-app/flutter_app
+          flutter pub get
+
+      - name: Get commit date
+        id: get-date
+        run: |
+          DATE=$(git -C /tmp/dsv-app log -1 --format="%ci" | cut -d' ' -f1)
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+          echo "Commit date: $DATE"
+
+      - name: Patch Flutter app – add About screen
+        env:
+          COMMIT_DATE: ${{ steps.get-date.outputs.date }}
+        run: |
+          cd /tmp/dsv-app/flutter_app
+          python3 << 'PYEOF'
+          import os, re, sys
+
+          commit_date = os.environ.get("COMMIT_DATE", "")
+          flutter_lib = "/tmp/dsv-app/flutter_app/lib"
+
+          # ------------------------------------------------------------------ #
+          # 1. Create the About screen Dart file
+          # ------------------------------------------------------------------ #
+          about_screen_path = os.path.join(flutter_lib, "screens", "about_screen.dart")
+          os.makedirs(os.path.dirname(about_screen_path), exist_ok=True)
+
+          about_screen_code = f'''\
+          import 'package:flutter/material.dart';
+
+          class AboutScreen extends StatelessWidget {{
+            const AboutScreen({{super.key}});
+
+            @override
+            Widget build(BuildContext context) {{
+              return Scaffold(
+                appBar: AppBar(
+                  title: const Text('Über die App'),
+                ),
+                body: Padding(
+                  padding: const EdgeInsets.all(24.0),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        'Schwimmwettkampf Begleiter',
+                        style: Theme.of(context).textTheme.headlineSmall,
+                      ),
+                      const SizedBox(height: 16),
+                      const Text('Stand (App-Datum):'),
+                      Text(
+                        '{commit_date}',
+                        style: Theme.of(context).textTheme.bodyLarge,
+                      ),
+                    ],
+                  ),
+                ),
+              );
+            }}
+          }}
+          '''
+
+          with open(about_screen_path, "w") as f:
+              f.write(about_screen_code)
+          print(f"Created: {about_screen_path}")
+
+          # ------------------------------------------------------------------ #
+          # 2. Find the file containing the Drawer / NavigationDrawer
+          # ------------------------------------------------------------------ #
+          target_file = None
+          target_content = None
+
+          for root, dirs, files in os.walk(flutter_lib):
+              # Skip generated files
+              dirs[:] = [d for d in dirs if d not in ['.dart_tool', 'build']]
+              for fname in files:
+                  if not fname.endswith(".dart"):
+                      continue
+                  fpath = os.path.join(root, fname)
+                  content = open(fpath).read()
+                  if "openDrawer" in content or ("Drawer(" in content and "ListTile" in content):
+                      target_file = fpath
+                      target_content = content
+                      print(f"Found drawer file: {fpath}")
+                      break
+              if target_file:
+                  break
+
+          if not target_file:
+              print("ERROR: Could not find drawer file", file=sys.stderr)
+              sys.exit(1)
+
+          # ------------------------------------------------------------------ #
+          # 3. Add AboutScreen import if not present
+          # ------------------------------------------------------------------ #
+          # Determine the relative import path
+          rel_path = os.path.relpath(about_screen_path, flutter_lib)
+          import_stmt = f"import '{rel_path}';"
+
+          if import_stmt not in target_content:
+              # Insert after the last existing import
+              last_import = max(
+                  (m.end() for m in re.finditer(r"^import .+;$", target_content, re.MULTILINE)),
+                  default=0
+              )
+              target_content = (
+                  target_content[:last_import]
+                  + "\n" + import_stmt
+                  + target_content[last_import:]
+              )
+              print(f"Added import: {import_stmt}")
+
+          # ------------------------------------------------------------------ #
+          # 4. Add About ListTile inside the Drawer
+          #    Strategy: find the last ListTile inside a Drawer and insert after
+          # ------------------------------------------------------------------ #
+          about_tile = """
+                    ListTile(
+                      leading: const Icon(Icons.info_outline),
+                      title: const Text('Über die App'),
+                      onTap: () {
+                        Navigator.pop(context);
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (_) => const AboutScreen(),
+                          ),
+                        );
+                      },
+                    ),"""
+
+          if "AboutScreen" not in target_content:
+              # Find position of last ListTile closing paren inside a Drawer block
+              # Simple heuristic: find all ListTile(... ), blocks and add after last one
+              pattern = re.compile(
+                  r'(ListTile\s*\([^)]*(?:\([^)]*\)[^)]*)*\)\s*,)',
+                  re.DOTALL
+              )
+              matches = list(pattern.finditer(target_content))
+              if matches:
+                  last_match = matches[-1]
+                  insert_pos = last_match.end()
+                  target_content = (
+                      target_content[:insert_pos]
+                      + about_tile
+                      + target_content[insert_pos:]
+                  )
+                  print("Inserted About ListTile after last existing ListTile")
+              else:
+                  print("WARNING: Could not find ListTile pattern, trying Drawer body")
+                  # Fallback: find "Drawer(" and insert inside its child
+                  drawer_match = re.search(r'Drawer\s*\(', target_content)
+                  if drawer_match:
+                      insert_pos = drawer_match.end()
+                      target_content = (
+                          target_content[:insert_pos]
+                          + "\n        // TODO: Add About ListTile here\n"
+                          + target_content[insert_pos:]
+                      )
+
+          with open(target_file, "w") as f:
+              f.write(target_content)
+          print(f"Updated: {target_file}")
+          print("Done patching Flutter app.")
+          PYEOF
+
+      - name: Build APK
+        run: |
+          cd /tmp/dsv-app/flutter_app
+          flutter build apk --release
+
+      - name: Copy APK to dsv-public
+        run: |
+          cp /tmp/dsv-app/flutter_app/build/app/outputs/flutter-apk/app-release.apk \
+             docs/android/dsv-app.apk
+
+      - name: Commit and push updated APK
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Actions"
+          git add docs/android/dsv-app.apk
+          DATE=$(git -C /tmp/dsv-app log -1 --format="%ci" | cut -d' ' -f1)
+          git commit -m "Add About screen to hamburger menu (app date: $DATE)"
+          git push
