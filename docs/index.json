@@ -176,6 +176,223 @@
       "timing": "AUTOMATIC"
     },
     {
+      "city": "Mönchengladbach",
+      "counts": {
+        "athletes": 339,
+        "clubs": 61,
+        "events": 46,
+        "heats": 227,
+        "relays": 0,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "2026-05-01",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-09T22:53:00+00:00",
+          "sha256": "35daa996775099c48912f6d36949413cfc3cfb9f613999413eaa9fec90cc2429",
+          "size_bytes": 319630,
+          "url": "meetings/3792026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-09T22:53:00+00:00",
+          "sha256": "713a9b2bdac5ee8788f791b707bd012620c4da2c3a5dd8b9eb94e47406a5e874",
+          "size_bytes": 763598,
+          "url": "meetings/3792026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Schwimmverband Nordrhein-Westfalen e.V.",
+      "meeting_id": "3792026",
+      "name": "Nordrhein-Westfälischer Schwimm-Mehrkampf der Jahrgänge 2014 bis 2016",
+      "nation": "GER",
+      "organizer": "MSV 01 e.V.",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-09",
+          "daytime": "09:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-09",
+          "daytime": "14:30",
+          "name": "",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "09:00",
+          "name": "",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "14:30",
+          "name": "",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Bad Kreuznach",
+      "counts": {
+        "athletes": 297,
+        "clubs": 22,
+        "events": 79,
+        "heats": 292,
+        "relays": 6,
+        "sessions": 4
+      },
+      "course": "SCM",
+      "deadline": "2026-05-02",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-09T22:53:17+00:00",
+          "sha256": "c167df3f571f71cd932ab7f269b3ad772a35f5504c3d34c03f8b3fc709974ae9",
+          "size_bytes": 363432,
+          "url": "meetings/5632026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-09T22:53:17+00:00",
+          "sha256": "de546ae7a35690d4a52593c59ecd2b7449bb31b0e149cd4545e4d5fa9f6ac35e",
+          "size_bytes": 533402,
+          "url": "meetings/5632026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SFC Nahetal 05 e.V.",
+      "meeting_id": "5632026",
+      "name": "Kreuznacher Stadtwerke-Cup 2026",
+      "nation": "GER",
+      "organizer": "SFC Nahetal 05 e.V.",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-09",
+          "daytime": "09:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-09",
+          "daytime": "01:00",
+          "name": "",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "08:30",
+          "name": "",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "01:00",
+          "name": "",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Berlin",
+      "counts": {
+        "athletes": 280,
+        "clubs": 57,
+        "events": 30,
+        "heats": 115,
+        "relays": 43,
+        "sessions": 2
+      },
+      "course": "LCM",
+      "deadline": "2026-04-29",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-09T22:53:32+00:00",
+          "sha256": "63566a0556ea28ca897f78a551b6b35cdb5191eb604b9af7275bbf3dbc355fb7",
+          "size_bytes": 212633,
+          "url": "meetings/6672026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-09T22:53:32+00:00",
+          "sha256": "ca2afeec71e491396547176d948e6926803aa28e48f09d7582d65f5ba17e0159",
+          "size_bytes": 190332,
+          "url": "meetings/6672026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Berliner Schwimm-Verband e.V., FS Schwimmen",
+      "meeting_id": "6672026",
+      "name": "14. Int. Berlin-Masters-Cup",
+      "nation": "GER",
+      "organizer": "Berliner Schwimm-Verband e.V., FS Schwimmen",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-09",
+          "daytime": "14:30",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "10:00",
+          "name": "",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
       "city": "Freiburg",
       "counts": {
         "athletes": 439,
