@@ -174,6 +174,83 @@
       "start_date": "2026-05-01",
       "status": "SEEDED",
       "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Freiburg",
+      "counts": {
+        "athletes": 439,
+        "clubs": 56,
+        "events": 32,
+        "heats": 283,
+        "relays": 39,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "Westbad Freiburg",
+        "street": "Ensisheimerstrasse 9",
+        "zip": "79110"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-09T01:59:17+00:00",
+          "sha256": "613c91ff4aa673bc6312ce8e1e014946743abdb2070170d06ea6d334c407a50f",
+          "size_bytes": 325689,
+          "url": "meetings/7052026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-09T01:59:17+00:00",
+          "sha256": "a03f43c0cfa16fb3da020fc0238a1696d7203974c5b3bfa89852e485d829faed",
+          "size_bytes": 451615,
+          "url": "meetings/7052026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SSV Freiburg e.V.",
+      "meeting_id": "7052026",
+      "name": "Baden-Württembergische Jahrgangsmeisterschaften",
+      "nation": "GER",
+      "organizer": "BSV e.V. und SVW e.V.",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-09",
+          "daytime": "09:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-09",
+          "daytime": "01:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-10",
+          "daytime": "09:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-10",
+          "daytime": "01:00",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
     }
   ],
   "schema_version": 1
