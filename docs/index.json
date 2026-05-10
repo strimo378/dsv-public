@@ -176,6 +176,216 @@
       "timing": "AUTOMATIC"
     },
     {
+      "city": "Braunschweig",
+      "counts": {
+        "athletes": 716,
+        "clubs": 130,
+        "events": 64,
+        "heats": 36,
+        "relays": 58,
+        "sessions": 5
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "Sportbad Heidberg",
+        "street": "Sachsendamm 10",
+        "zip": "38124 Braunschweig"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-10T02:05:43+00:00",
+          "sha256": "99435576c3cb781a39fbd4edd74978444ed8339afdeb983d24c44c423c5b38d2",
+          "size_bytes": 429212,
+          "url": "meetings/772026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-10T02:05:43+00:00",
+          "sha256": "426e287dcfc4dc79801f8e56103239da092aed2e69f1385f3556a752d06caa1e",
+          "size_bytes": 609955,
+          "url": "meetings/772026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SSG Braunschweig",
+      "meeting_id": "772026",
+      "name": "Norddeutsche Meisterschaften 2026",
+      "nation": "GER",
+      "organizer": "Norddeutscher Schwimmverband",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-08",
+          "daytime": "15:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-09",
+          "daytime": "09:30",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-09",
+          "daytime": "",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-10",
+          "daytime": "09:30",
+          "name": "Abschnitt 4",
+          "number": 4
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-10",
+          "daytime": "",
+          "name": "Abschnitt 5",
+          "number": 5
+        }
+      ],
+      "start_date": "2026-05-08",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Plettenberg",
+      "counts": {
+        "athletes": 420,
+        "clubs": 30,
+        "events": 28,
+        "heats": 269,
+        "relays": 29,
+        "sessions": 2
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-09",
+      "facility": {
+        "name": "AquaMagis",
+        "street": "Böddinghauser Feld 1",
+        "zip": "58840 Plettenberg"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-09T23:43:15+00:00",
+          "sha256": "b7d570a4aee6f57cd20288e128f1b2db0a5fc3af9368a6817cfd544a92cfb455",
+          "size_bytes": 275066,
+          "url": "meetings/2042026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-09T23:43:15+00:00",
+          "sha256": "f32d29e7f0c13fa82b301aa90a434ff0c890c35757537f588cbc5f2e4f7ad2a2",
+          "size_bytes": 969929,
+          "url": "meetings/2042026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Schwimmverein Plettenberg 1951 e.V.",
+      "meeting_id": "2042026",
+      "name": "AquaMagis-Cup 2026",
+      "nation": "GER",
+      "organizer": "Schwimmverein Plettenberg 1951 e.V.",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-09",
+          "daytime": "09:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-09",
+          "daytime": "13:50",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Bochum",
+      "counts": {
+        "athletes": 455,
+        "clubs": 22,
+        "events": 48,
+        "heats": 155,
+        "relays": 9,
+        "sessions": 2
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-09",
+      "facility": {
+        "name": "Uni-Bad Bochum-Querenburg",
+        "street": "Huestadtring 157",
+        "zip": "44801 Bochum"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-10T00:02:02+00:00",
+          "sha256": "bc9c42dc534904677a720353b04683979f2a40496e332ea288da29246973a965",
+          "size_bytes": 277083,
+          "url": "meetings/2502026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-10T00:02:02+00:00",
+          "sha256": "e6f125c24b7cf9502b10096022a3e44db0a902d091ee5adc28b8bcd6022586e1",
+          "size_bytes": 1047058,
+          "url": "meetings/2502026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SV Delphin 58 Wattenscheid",
+      "meeting_id": "2502026",
+      "name": "44. \"Herbert Scholven\" Mehrkampf-Pokalschwimmen",
+      "nation": "GER",
+      "organizer": "SV Delphin 58 Wattenscheid",
+      "pool": {
+        "lanemax": 9,
+        "lanemin": 0,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-09",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-09",
+          "daytime": "",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
+    },
+    {
       "city": "Mönchengladbach",
       "counts": {
         "athletes": 339,
@@ -250,6 +460,139 @@
       ],
       "start_date": "2026-05-09",
       "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Ismaning",
+      "counts": {
+        "athletes": 275,
+        "clubs": 22,
+        "events": 70,
+        "heats": 120,
+        "relays": 36,
+        "sessions": 1
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-09",
+      "facility": {
+        "name": "Hallenbad Ismaning",
+        "street": "Erich-Zeitler-Str. 6",
+        "zip": "85737 Ismaning"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-10T01:07:02+00:00",
+          "sha256": "52c053ed04e66811c420e9eb6c641832d3a825b9378bbb824d667ad5134038ed",
+          "size_bytes": 155539,
+          "url": "meetings/4372026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-10T01:07:02+00:00",
+          "sha256": "d439f297bc414818862096aef4bb6a05627249b169f8ba64b966e913e7011a73",
+          "size_bytes": 195897,
+          "url": "meetings/4372026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SV Solidarität Ismaning e.V.",
+      "meeting_id": "4372026",
+      "name": "OMP Frühjahsdurchgang 2026",
+      "nation": "GER",
+      "organizer": "Bayerischer Schwimmverband - Bezirk I - Oberbayern",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-09",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Immenstadt",
+      "counts": {
+        "athletes": 254,
+        "clubs": 23,
+        "events": 36,
+        "heats": 36,
+        "relays": 36,
+        "sessions": 4
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "Hallenbad Immenstadt",
+        "street": "Allgäuer Str. 15",
+        "zip": "87509 Immenstadt"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-10T01:34:57+00:00",
+          "sha256": "8b7d018f2d98364cadb38b17781219e1eabae1218f9876424321de203466cbeb",
+          "size_bytes": 204632,
+          "url": "meetings/5412026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-10T01:34:57+00:00",
+          "sha256": "fcaca2f5f5ad2995180815d496d3095dd35258c1fb3b4781768df30c067c4cb0",
+          "size_bytes": 242180,
+          "url": "meetings/5412026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "TV 1860 Immenstadt",
+      "meeting_id": "5412026",
+      "name": "Bezirks-Jahrgangsmeisterschaften und Bezirksmeisterschaften der Masters 2026",
+      "nation": "GER",
+      "organizer": "Bayerischer Schwimmverband e. V. Bezirk VII Schwaben",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-09",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-09",
+          "daytime": "",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-10",
+          "daytime": "09:30",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-10",
+          "daytime": "",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "SEEDED",
       "timing": "AUTOMATIC"
     },
     {
@@ -328,6 +671,69 @@
       "start_date": "2026-05-09",
       "status": "",
       "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Hildesheim",
+      "counts": {
+        "athletes": 525,
+        "clubs": 59,
+        "events": 19,
+        "heats": 121,
+        "relays": 10,
+        "sessions": 2
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-09",
+      "facility": {
+        "name": "Wasserparadies Hildesheim",
+        "street": "Marie-Wagenknecht-Straße 1",
+        "zip": "31134 Hildesheim"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-10T01:40:59+00:00",
+          "sha256": "04754c46e7282c83ad240129248c6d3a974b80860d5a66f6a6e177ac7b3785f6",
+          "size_bytes": 224383,
+          "url": "meetings/6222026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-10T01:40:59+00:00",
+          "sha256": "de50fc656f038c09e3c56bac6b85a00860964cbf837ba31ea5bae451bea3b086",
+          "size_bytes": 227668,
+          "url": "meetings/6222026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Eintracht Hildesheim",
+      "meeting_id": "6222026",
+      "name": "Landes-Mastersmeisterschaften 2026",
+      "nation": "GER",
+      "organizer": "Landesschwimmverband Niedersachsen e.V. & Bezirksschwimmverband Braunschweig",
+      "pool": {
+        "lanemax": 7,
+        "lanemin": 2,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-09",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-09",
+          "daytime": "13:57",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "SEEDED",
+      "timing": "MANUAL"
     },
     {
       "city": "Berlin",
@@ -412,13 +818,13 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-09T13:31:11+00:00",
+          "modified": "2026-05-09T23:31:17+00:00",
           "sha256": "75a9b591984bb5d675ea5af40e13f22d730ce85d88714e085822c3e209e19738",
           "size_bytes": 339203,
           "url": "meetings/7052026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
-          "modified": "2026-05-09T01:59:17+00:00",
+          "modified": "2026-05-09T23:31:17+00:00",
           "sha256": "a03f43c0cfa16fb3da020fc0238a1696d7203974c5b3bfa89852e485d829faed",
           "size_bytes": 451615,
           "url": "meetings/7052026/meldeergebnis.pdf"
@@ -468,6 +874,230 @@
       "start_date": "2026-05-09",
       "status": "SEEDED",
       "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Kassel",
+      "counts": {
+        "athletes": 329,
+        "clubs": 42,
+        "events": 36,
+        "heats": 201,
+        "relays": 4,
+        "sessions": 5
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "Auebad Kassel",
+        "street": "Auedamm 21",
+        "zip": "34121 Kassel"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-10T01:50:55+00:00",
+          "sha256": "ac02b5f3d7d13c61f274c811017bccd605f63010b17fa37f8b47bffdd9d942de",
+          "size_bytes": 264325,
+          "url": "meetings/7122026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-10T01:50:55+00:00",
+          "sha256": "31f513504f32dc5448ec81d998764aec11ac5e1070c819eb9e91142b40243a6a",
+          "size_bytes": 339912,
+          "url": "meetings/7122026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Kasseler Schwimmverein",
+      "meeting_id": "7122026",
+      "name": "Hessische Jg.-Meisterschaften 2026 (Langbahn für die 2007-2012)",
+      "nation": "GER",
+      "organizer": "HSV",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-09",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-09",
+          "daytime": "11:49",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-09",
+          "daytime": "14:16",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "09:30",
+          "name": "Abschnitt 4",
+          "number": 4
+        },
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "12:15",
+          "name": "Abschnitt 5",
+          "number": 5
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Saarbrücken",
+      "counts": {
+        "athletes": 168,
+        "clubs": 28,
+        "events": 80,
+        "heats": 112,
+        "relays": 4,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "Hallenbad Sportcampus",
+        "street": "Hermann-Neuberger-Str. 1",
+        "zip": "66123 Saarbrücken"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-10T02:11:59+00:00",
+          "sha256": "ff5bcc67772b1ede5726207808d9c9913ba1b07d8558ab140077ce3de98676b2",
+          "size_bytes": 174008,
+          "url": "meetings/8372026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-10T02:11:59+00:00",
+          "sha256": "fba7ccfcf14272be1d2a90dec67b12373b956c37ee713a039a8f218664afb5a0",
+          "size_bytes": 229304,
+          "url": "meetings/8372026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Saarländischer Schwimm Bund e.V.",
+      "meeting_id": "8372026",
+      "name": "Saarlandmeisterschaften 2026 Langbahn",
+      "nation": "GER",
+      "organizer": "Saarländischer Schwimm Bund e.V.",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-09",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-09",
+          "daytime": "14:16",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-10",
+          "daytime": "09:30",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-10",
+          "daytime": "14:19",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-09",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Hallenbad der Stadt Lage",
+      "counts": {
+        "athletes": 38,
+        "clubs": 13,
+        "events": 34,
+        "heats": 69,
+        "relays": 5,
+        "sessions": 2
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-05-10",
+      "facility": {
+        "name": "Hallenbad der Stadt Lage",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-10T00:40:14+00:00",
+          "sha256": "b81ee917ef055ee7522dd748f6c4ef0ff30588bb8484bd8a00e7da55a61f5889",
+          "size_bytes": 34492,
+          "url": "meetings/3722026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-10T00:40:14+00:00",
+          "sha256": "1f12e22779b41a62bd9d0e11e0ff0e5701f0315869c64a9e0667b6ee36bc424d",
+          "size_bytes": 505826,
+          "url": "meetings/3722026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "TG Lage",
+      "meeting_id": "3722026",
+      "name": "Offene OWL-Meisterschaften \"Masters\"",
+      "nation": "GER",
+      "organizer": "SV OWL e. V.",
+      "pool": {
+        "lanemax": 4,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-10",
+          "daytime": "13:49",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-10",
+      "status": "SEEDED",
+      "timing": ""
     }
   ],
   "schema_version": 1
