@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LENEX xmlns:dsvapp="https://stripfsoftware.de/dsvapp/lenex" version="3.0">
+  <CONSTRUCTOR name="dsv-app" version="1.0" />
+  <MEETS>
+    <MEET name="TuRs Hexentanz" city="Schwimmhalle Prohlis" nation="GER" organizer="SWV TuR Dresden e.V." hostclub="SWV TuR Dresden e.V." status="SEEDED">
+      <FACILITY name="Schwimmhalle Prohlis" nation="GER" />
+      <AGEDATE type="YEAR" value="2026-01-01" />
+      <POOL lanemin="1" lanemax="6" />
+      <SESSIONS>
+        <SESSION number="1" date="2026-04-25" name="Abschnitt 1" status="SEEDED" daytime="09:00" endtime="12:10" officialmeeting="08:30" warmupfrom="08:15">
+          <EVENTS>
+            <EVENT eventid="1" number="1" order="1" gender="F" round="TIM" status="SEEDED" daytime="09:00" dsvapp:endDaytime="09:05">
+              <SWIMSTYLE name="25m Freistil weiblich" distance="25" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="2" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="3" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="1001" number="1" daytime="09:00" dsvapp:endDaytime="09:01" />
+                <HEAT heatid="1002" number="2" daytime="09:01" dsvapp:endDaytime="09:02" />
+                <HEAT heatid="1003" number="3" daytime="09:02" dsvapp:endDaytime="09:03" />
+                <HEAT heatid="1004" number="4" daytime="09:03" dsvapp:endDaytime="09:05" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="2" number="2" order="2" gender="M" round="TIM" status="SEEDED" daytime="09:05" dsvapp:endDaytime="09:11">
+              <SWIMSTYLE name="25m Freistil männlich" distance="25" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="2" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="3" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="2001" number="1" daytime="09:05" dsvapp:endDaytime="09:06" />
+                <HEAT heatid="2002" number="2" daytime="09:06" dsvapp:endDaytime="09:08" />
+                <HEAT heatid="2003" number="3" daytime="09:08" dsvapp:endDaytime="09:09" />
+                <HEAT heatid="2004" number="4" daytime="09:09" dsvapp:endDaytime="09:10" />
+                <HEAT heatid="2005" number="5" daytime="09:10" dsvapp:endDaytime="09:11" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="3" number="101" order="3" gender="F" round="TIM" status="SEEDED" daytime="09:11" dsvapp:endDaytime="09:15">
+              <SWIMSTYLE name="25m Kraulbeine weiblich" distance="25" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="6" agemax="6" name="Year 2020" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="3001" number="1" daytime="09:11" dsvapp:endDaytime="09:13" />
+                <HEAT heatid="3002" number="2" daytime="09:13" dsvapp:endDaytime="09:15" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="4" number="102" order="4" gender="M" round="TIM" status="SEEDED" daytime="09:15" dsvapp:endDaytime="09:16">
+              <SWIMSTYLE name="25m Kraulbeine männlich" distance="25" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="7" agemax="7" name="Year 2019" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="4001" number="1" daytime="09:15" dsvapp:endDaytime="09:16" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="5" number="3" order="5" gender="F" round="TIM" status="SEEDED" daytime="09:16" dsvapp:endDaytime="09:24">
+              <SWIMSTYLE name="50m Schmetterling weiblich" distance="50" stroke="FLY" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="19" agemax="19" name="Year 2007" />
+                <AGEGROUP agegroupid="2" agemin="17" agemax="17" name="Year 2009" />
+                <AGEGROUP agegroupid="3" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="4" agemin="15" agemax="15" name="Year 2011" />
+                <AGEGROUP agegroupid="5" agemin="14" agemax="14" name="Year 2012" />
+                <AGEGROUP agegroupid="6" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="7" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="8" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="9" agemin="10" agemax="10" name="Year 2016" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="5001" number="1" daytime="09:16" dsvapp:endDaytime="09:18" />
+                <HEAT heatid="5002" number="2" daytime="09:18" dsvapp:endDaytime="09:20" />
+                <HEAT heatid="5003" number="3" daytime="09:20" dsvapp:endDaytime="09:21" />
+                <HEAT heatid="5004" number="4" daytime="09:21" dsvapp:endDaytime="09:23" />
+                <HEAT heatid="5005" number="5" daytime="09:23" dsvapp:endDaytime="09:24" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="6" number="4" order="6" gender="M" round="TIM" status="SEEDED" daytime="09:24" dsvapp:endDaytime="09:27">
+              <SWIMSTYLE name="50m Schmetterling männlich" distance="50" stroke="FLY" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="12" agemax="12" name="Year 2014" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="6001" number="1" daytime="09:24" dsvapp:endDaytime="09:26" />
+                <HEAT heatid="6002" number="2" daytime="09:26" dsvapp:endDaytime="09:27" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="7" number="5" order="7" gender="F" round="TIM" status="SEEDED" daytime="09:27" dsvapp:endDaytime="09:32">
+              <SWIMSTYLE name="25m Rücken weiblich" distance="25" stroke="BACK" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="2" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="3" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="7001" number="1" daytime="09:27" dsvapp:endDaytime="09:29" />
+                <HEAT heatid="7002" number="2" daytime="09:29" dsvapp:endDaytime="09:30" />
+                <HEAT heatid="7003" number="3" daytime="09:30" dsvapp:endDaytime="09:31" />
+                <HEAT heatid="7004" number="4" daytime="09:31" dsvapp:endDaytime="09:32" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="8" number="6" order="8" gender="M" round="TIM" status="SEEDED" daytime="09:32" dsvapp:endDaytime="09:38">
+              <SWIMSTYLE name="25m Rücken männlich" distance="25" stroke="BACK" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="2" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="3" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="8001" number="1" daytime="09:32" dsvapp:endDaytime="09:34" />
+                <HEAT heatid="8002" number="2" daytime="09:34" dsvapp:endDaytime="09:35" />
+                <HEAT heatid="8003" number="3" daytime="09:35" dsvapp:endDaytime="09:36" />
+                <HEAT heatid="8004" number="4" daytime="09:36" dsvapp:endDaytime="09:38" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="9" number="103" order="9" gender="F" round="TIM" status="SEEDED" daytime="09:38" dsvapp:endDaytime="09:40">
+              <SWIMSTYLE name="25m Rückenbeine weiblich" distance="25" stroke="BACK" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="7" agemax="7" name="Year 2019" />
+                <AGEGROUP agegroupid="2" agemin="6" agemax="6" name="Year 2020" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="9001" number="1" daytime="09:38" dsvapp:endDaytime="09:39" />
+                <HEAT heatid="9002" number="2" daytime="09:39" dsvapp:endDaytime="09:40" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="10" number="104" order="10" gender="M" round="TIM" status="SEEDED" daytime="09:40" dsvapp:endDaytime="09:57">
+              <SWIMSTYLE name="25m Rückenbeine männlich" distance="25" stroke="BACK" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="7" agemax="7" name="Year 2019" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="10001" number="1" daytime="09:40" dsvapp:endDaytime="09:57" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="11" number="7" order="11" gender="F" round="TIM" status="SEEDED" daytime="09:57" dsvapp:endDaytime="10:11">
+              <SWIMSTYLE name="50m Brust weiblich" distance="50" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="2" agemin="15" agemax="15" name="Year 2011" />
+                <AGEGROUP agegroupid="3" agemin="14" agemax="14" name="Year 2012" />
+                <AGEGROUP agegroupid="4" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="5" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="6" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="7" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="8" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="9" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="11001" number="1" daytime="09:57" dsvapp:endDaytime="09:59" />
+                <HEAT heatid="11002" number="2" daytime="09:59" dsvapp:endDaytime="10:01" />
+                <HEAT heatid="11003" number="3" daytime="10:01" dsvapp:endDaytime="10:03" />
+                <HEAT heatid="11004" number="4" daytime="10:03" dsvapp:endDaytime="10:05" />
+                <HEAT heatid="11005" number="5" daytime="10:05" dsvapp:endDaytime="10:06" />
+                <HEAT heatid="11006" number="6" daytime="10:06" dsvapp:endDaytime="10:08" />
+                <HEAT heatid="11007" number="7" daytime="10:08" dsvapp:endDaytime="10:10" />
+                <HEAT heatid="11008" number="8" daytime="10:10" dsvapp:endDaytime="10:11" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="12" number="8" order="12" gender="M" round="TIM" status="SEEDED" daytime="10:11" dsvapp:endDaytime="10:23">
+              <SWIMSTYLE name="50m Brust männlich" distance="50" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="39" agemax="39" name="Year 1987" />
+                <AGEGROUP agegroupid="2" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="3" agemin="14" agemax="14" name="Year 2012" />
+                <AGEGROUP agegroupid="4" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="5" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="6" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="7" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="8" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="9" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="12001" number="1" daytime="10:11" dsvapp:endDaytime="10:13" />
+                <HEAT heatid="12002" number="2" daytime="10:13" dsvapp:endDaytime="10:15" />
+                <HEAT heatid="12003" number="3" daytime="10:15" dsvapp:endDaytime="10:17" />
+                <HEAT heatid="12004" number="4" daytime="10:17" dsvapp:endDaytime="10:19" />
+                <HEAT heatid="12005" number="5" daytime="10:19" dsvapp:endDaytime="10:21" />
+                <HEAT heatid="12006" number="6" daytime="10:21" dsvapp:endDaytime="10:23" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="13" number="105" order="13" gender="F" round="TIM" status="SEEDED" daytime="10:23" dsvapp:endDaytime="10:23">
+              <SWIMSTYLE name="25m Brustbeine weiblich" distance="25" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="7" agemax="7" name="Year 2019" />
+                <AGEGROUP agegroupid="2" agemin="6" agemax="6" name="Year 2020" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="13001" number="1" daytime="10:23" dsvapp:endDaytime="10:23" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="14" number="106" order="14" gender="M" round="TIM" status="SEEDED" dsvapp:endDaytime="10:39">
+              <SWIMSTYLE name="25m Brustbeine männlich" distance="25" stroke="BREAST" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="15" number="9" order="15" gender="F" round="TIM" status="SEEDED" daytime="10:39" dsvapp:endDaytime="10:48">
+              <SWIMSTYLE name="100m Freistil weiblich" distance="100" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="19" agemax="19" name="Year 2007" />
+                <AGEGROUP agegroupid="2" agemin="17" agemax="17" name="Year 2009" />
+                <AGEGROUP agegroupid="3" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="4" agemin="15" agemax="15" name="Year 2011" />
+                <AGEGROUP agegroupid="5" agemin="14" agemax="14" name="Year 2012" />
+                <AGEGROUP agegroupid="6" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="7" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="8" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="9" agemin="10" agemax="10" name="Year 2016" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="15001" number="1" daytime="10:39" dsvapp:endDaytime="10:42" />
+                <HEAT heatid="15002" number="2" daytime="10:42" dsvapp:endDaytime="10:44" />
+                <HEAT heatid="15003" number="3" daytime="10:44" dsvapp:endDaytime="10:46" />
+                <HEAT heatid="15004" number="4" daytime="10:46" dsvapp:endDaytime="10:48" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="16" number="10" order="16" gender="M" round="TIM" status="SEEDED" daytime="10:48" dsvapp:endDaytime="10:54">
+              <SWIMSTYLE name="100m Freistil männlich" distance="100" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="2" agemin="15" agemax="15" name="Year 2011" />
+                <AGEGROUP agegroupid="3" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="4" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="5" agemin="11" agemax="11" name="Year 2015" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="16001" number="1" daytime="10:48" dsvapp:endDaytime="10:51" />
+                <HEAT heatid="16002" number="2" daytime="10:51" dsvapp:endDaytime="10:54" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="17" number="107" order="17" gender="F" round="TIM" status="SEEDED" daytime="10:54" dsvapp:endDaytime="10:55">
+              <SWIMSTYLE name="25m Rücken weiblich" distance="25" stroke="BACK" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="6" agemax="6" name="Year 2020" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="17001" number="1" daytime="10:54" dsvapp:endDaytime="10:55" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="18" number="108" order="18" gender="M" round="TIM" status="SEEDED" daytime="10:55" dsvapp:endDaytime="10:57">
+              <SWIMSTYLE name="25m Rücken männlich" distance="25" stroke="BACK" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="7" agemax="7" name="Year 2019" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="18001" number="1" daytime="10:55" dsvapp:endDaytime="10:57" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="19" number="11" order="19" gender="F" round="TIM" status="SEEDED" daytime="10:57" dsvapp:endDaytime="11:07">
+              <SWIMSTYLE name="50m Rücken weiblich" distance="50" stroke="BACK" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="2" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="3" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="4" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="5" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="6" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="7" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="19001" number="1" daytime="10:57" dsvapp:endDaytime="10:59" />
+                <HEAT heatid="19002" number="2" daytime="10:59" dsvapp:endDaytime="11:01" />
+                <HEAT heatid="19003" number="3" daytime="11:01" dsvapp:endDaytime="11:02" />
+                <HEAT heatid="19004" number="4" daytime="11:02" dsvapp:endDaytime="11:04" />
+                <HEAT heatid="19005" number="5" daytime="11:04" dsvapp:endDaytime="11:06" />
+                <HEAT heatid="19006" number="6" daytime="11:06" dsvapp:endDaytime="11:07" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="20" number="12" order="20" gender="M" round="TIM" status="SEEDED" daytime="11:07" dsvapp:endDaytime="11:31">
+              <SWIMSTYLE name="50m Rücken männlich" distance="50" stroke="BACK" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="2" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="3" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="4" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="5" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="20001" number="1" daytime="11:07" dsvapp:endDaytime="11:09" />
+                <HEAT heatid="20002" number="2" daytime="11:09" dsvapp:endDaytime="11:11" />
+                <HEAT heatid="20003" number="3" daytime="11:11" dsvapp:endDaytime="11:13" />
+                <HEAT heatid="20004" number="4" daytime="11:13" dsvapp:endDaytime="11:15" />
+                <HEAT heatid="20005" number="5" daytime="11:15" dsvapp:endDaytime="11:31" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="21" number="109" order="21" gender="F" round="TIM" status="SEEDED" daytime="11:31" dsvapp:endDaytime="11:33">
+              <SWIMSTYLE name="25m Brust weiblich" distance="25" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="6" agemax="6" name="Year 2020" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="21001" number="1" daytime="11:31" dsvapp:endDaytime="11:33" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="22" number="110" order="22" gender="M" round="TIM" status="SEEDED" daytime="11:33" dsvapp:endDaytime="11:34">
+              <SWIMSTYLE name="25m Brust männlich" distance="25" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="7" agemax="7" name="Year 2019" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="22001" number="1" daytime="11:33" dsvapp:endDaytime="11:34" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="23" number="13" order="23" gender="F" round="TIM" status="SEEDED" daytime="11:34" dsvapp:endDaytime="11:42">
+              <SWIMSTYLE name="50m Freistil weiblich" distance="50" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="2" agemin="15" agemax="15" name="Year 2011" />
+                <AGEGROUP agegroupid="3" agemin="14" agemax="14" name="Year 2012" />
+                <AGEGROUP agegroupid="4" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="5" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="6" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="7" agemin="10" agemax="10" name="Year 2016" />
+                <AGEGROUP agegroupid="8" agemin="9" agemax="9" name="Year 2017" />
+                <AGEGROUP agegroupid="9" agemin="8" agemax="8" name="Year 2018" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="23001" number="1" daytime="11:34" dsvapp:endDaytime="11:36" />
+                <HEAT heatid="23002" number="2" daytime="11:36" dsvapp:endDaytime="11:38" />
+                <HEAT heatid="23003" number="3" daytime="11:38" dsvapp:endDaytime="11:39" />
+                <HEAT heatid="23004" number="4" daytime="11:39" dsvapp:endDaytime="11:41" />
+                <HEAT heatid="23005" number="5" daytime="11:41" dsvapp:endDaytime="11:42" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="24" number="14" order="24" gender="M" round="TIM" status="SEEDED" daytime="11:42" dsvapp:endDaytime="11:49">
+              <SWIMSTYLE name="50m Freistil männlich" distance="50" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="2" agemin="15" agemax="15" name="Year 2011" />
+                <AGEGROUP agegroupid="3" agemin="14" agemax="14" name="Year 2012" />
+                <AGEGROUP agegroupid="4" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="5" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="6" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="7" agemin="10" agemax="10" name="Year 2016" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="24001" number="1" daytime="11:42" dsvapp:endDaytime="11:44" />
+                <HEAT heatid="24002" number="2" daytime="11:44" dsvapp:endDaytime="11:46" />
+                <HEAT heatid="24003" number="3" daytime="11:46" dsvapp:endDaytime="11:47" />
+                <HEAT heatid="24004" number="4" daytime="11:47" dsvapp:endDaytime="11:49" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="25" number="15" order="25" gender="F" round="TIM" status="SEEDED" daytime="11:49" dsvapp:endDaytime="12:04">
+              <SWIMSTYLE name="100m Lagen weiblich" distance="100" stroke="MEDLEY" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="19" agemax="19" name="Year 2007" />
+                <AGEGROUP agegroupid="2" agemin="17" agemax="17" name="Year 2009" />
+                <AGEGROUP agegroupid="3" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="4" agemin="15" agemax="15" name="Year 2011" />
+                <AGEGROUP agegroupid="5" agemin="14" agemax="14" name="Year 2012" />
+                <AGEGROUP agegroupid="6" agemin="13" agemax="13" name="Year 2013" />
+                <AGEGROUP agegroupid="7" agemin="12" agemax="12" name="Year 2014" />
+                <AGEGROUP agegroupid="8" agemin="11" agemax="11" name="Year 2015" />
+                <AGEGROUP agegroupid="9" agemin="10" agemax="10" name="Year 2016" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="25001" number="1" daytime="11:49" dsvapp:endDaytime="11:52" />
+                <HEAT heatid="25002" number="2" daytime="11:52" dsvapp:endDaytime="11:54" />
+                <HEAT heatid="25003" number="3" daytime="11:54" dsvapp:endDaytime="11:57" />
+                <HEAT heatid="25004" number="4" daytime="11:57" dsvapp:endDaytime="12:00" />
+                <HEAT heatid="25005" number="5" daytime="12:00" dsvapp:endDaytime="12:02" />
+                <HEAT heatid="25006" number="6" daytime="12:02" dsvapp:endDaytime="12:04" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="26" number="16" order="26" gender="M" round="TIM" status="SEEDED" daytime="12:04" dsvapp:endDaytime="12:10">
+              <SWIMSTYLE name="100m Lagen männlich" distance="100" stroke="MEDLEY" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="14" agemax="14" name="Year 2012" />
+                <AGEGROUP agegroupid="2" agemin="11" agemax="11" name="Year 2015" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="26001" number="1" daytime="12:04" dsvapp:endDaytime="12:07" />
+                <HEAT heatid="26002" number="2" daytime="12:07" dsvapp:endDaytime="12:10" />
+                <HEAT heatid="26003" number="3" daytime="12:10" dsvapp:endDaytime="12:10" />
+              </HEATS>
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+      </SESSIONS>
+      <CLUBS>
+        <CLUB name="Dresdner Delphine e.V." nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="127" firstname="Lea" lastname="Böttger" birthdate="2010-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="23" agegroupid="1" entrytime="00:00:33.67" heatid="23005" lane="4" />
+                <ENTRY eventid="25" agegroupid="3" entrytime="00:01:33.51" heatid="25005" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="87" firstname="Anouk" lastname="Duwe" birthdate="2012-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="3" entrytime="00:00:43.00" heatid="11008" lane="4" />
+                <ENTRY eventid="15" agegroupid="5" entrytime="00:01:22.00" heatid="15003" lane="2" />
+                <ENTRY eventid="23" agegroupid="3" entrytime="00:00:34.00" heatid="23005" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="98" firstname="Jaron Ernst" lastname="Fischer" birthdate="2010-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="2" entrytime="00:00:45.08" heatid="12006" lane="3" />
+                <ENTRY eventid="24" agegroupid="1" entrytime="00:00:34.24" heatid="24004" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="89" firstname="Sunna Björk" lastname="Friese" birthdate="2011-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="2" entrytime="00:00:46.97" heatid="11008" lane="6" />
+                <ENTRY eventid="15" agegroupid="4" entrytime="00:01:18.23" heatid="15004" lane="2" />
+                <ENTRY eventid="25" agegroupid="4" entrytime="00:01:33.16" heatid="25005" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="85" firstname="Sophia" lastname="Kromnik" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="5" entrytime="00:00:49.53" heatid="11007" lane="5" />
+                <ENTRY eventid="15" agegroupid="7" entrytime="00:01:29.75" heatid="15002" lane="3" />
+                <ENTRY eventid="23" agegroupid="5" entrytime="00:00:38.12" heatid="23004" lane="5" />
+                <ENTRY eventid="25" agegroupid="7" entrytime="00:01:42.65" heatid="25004" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="50" firstname="Tessa Marie" lastname="Kunze" birthdate="2013-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="6" entrytime="00:00:45.02" heatid="5003" lane="6" />
+                <ENTRY eventid="11" agegroupid="4" entrytime="00:00:49.50" heatid="11007" lane="2" />
+                <ENTRY eventid="15" agegroupid="6" entrytime="00:01:26.24" heatid="15003" lane="5" />
+                <ENTRY eventid="19" agegroupid="2" entrytime="00:00:47.82" heatid="19005" lane="5" />
+                <ENTRY eventid="25" agegroupid="6" entrytime="00:01:33.04" heatid="25005" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="79" firstname="Magdalena" lastname="Lindner" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="6" entrytime="00:00:53.49" heatid="11006" lane="2" />
+                <ENTRY eventid="15" agegroupid="8" entrytime="00:01:31.59" heatid="15002" lane="4" />
+                <ENTRY eventid="23" agegroupid="6" entrytime="00:00:40.68" heatid="23004" lane="1" />
+                <ENTRY eventid="25" agegroupid="8" entrytime="00:01:43.09" heatid="25004" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="111" firstname="Michael" lastname="Lindner" birthdate="2013-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="16" agegroupid="3" entrytime="00:01:18.91" heatid="16002" lane="2" />
+                <ENTRY eventid="24" agegroupid="4" entrytime="00:00:34.89" heatid="24004" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="57" firstname="Mia" lastname="Pöche" birthdate="2011-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="4" entrytime="00:00:38.51" heatid="5005" lane="6" />
+                <ENTRY eventid="11" agegroupid="2" entrytime="00:00:46.04" heatid="11008" lane="1" />
+                <ENTRY eventid="15" agegroupid="4" entrytime="00:01:19.15" heatid="15004" lane="1" />
+                <ENTRY eventid="25" agegroupid="4" entrytime="00:01:28.86" heatid="25006" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="112" firstname="Artemii" lastname="Riabtsev" birthdate="2011-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="16" agegroupid="2" entrytime="00:01:11.66" heatid="16002" lane="3" />
+                <ENTRY eventid="24" agegroupid="2" entrytime="00:00:32.22" heatid="24004" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="52" firstname="Sarah" lastname="Schreiber" birthdate="2010-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="3" entrytime="00:00:38.13" heatid="5005" lane="1" />
+                <ENTRY eventid="11" agegroupid="1" entrytime="00:00:44.45" heatid="11008" lane="2" />
+                <ENTRY eventid="15" agegroupid="3" entrytime="00:01:27.12" heatid="15003" lane="1" />
+                <ENTRY eventid="19" agegroupid="1" entrytime="00:00:45.51" heatid="19005" lane="2" />
+                <ENTRY eventid="23" agegroupid="1" entrytime="00:00:37.46" heatid="23004" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="99" firstname="Ivan" lastname="Shevchenko" birthdate="2010-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="2" entrytime="00:00:46.00" heatid="12006" lane="4" />
+                <ENTRY eventid="16" agegroupid="1" entrytime="00:01:12.00" heatid="16002" lane="4" />
+                <ENTRY eventid="24" agegroupid="1" entrytime="00:00:31.13" heatid="24004" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="45" firstname="Tara" lastname="Stillfried" birthdate="2012-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="5" entrytime="00:00:42.47" heatid="5003" lane="1" />
+                <ENTRY eventid="11" agegroupid="3" entrytime="00:00:52.18" heatid="11006" lane="4" />
+                <ENTRY eventid="15" agegroupid="5" entrytime="00:01:18.31" heatid="15004" lane="5" />
+                <ENTRY eventid="25" agegroupid="5" entrytime="00:01:30.06" heatid="25005" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="96" firstname="Vincent" lastname="Zeh" birthdate="2013-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="4" entrytime="00:00:50.00" heatid="12006" lane="1" />
+                <ENTRY eventid="16" agegroupid="3" entrytime="00:01:25.00" heatid="16002" lane="5" />
+                <ENTRY eventid="24" agegroupid="4" entrytime="00:00:37.00" heatid="24004" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB name="Dresdner SC 1898" nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="26" firstname="Yasin Elias" lastname="Cherbagi" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:29.60" heatid="2003" lane="5" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:26.22" heatid="8004" lane="1" />
+                <ENTRY eventid="12" agegroupid="9" entrytime="00:01:06.91" heatid="12004" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="37" firstname="Gero" lastname="Drzymala" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:23.77" heatid="2005" lane="4" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:27.49" heatid="8002" lane="3" />
+                <ENTRY eventid="12" agegroupid="9" entrytime="00:01:15.00" heatid="12002" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="33" firstname="Hannes Willi" lastname="Engelmann" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:29.00" heatid="2004" lane="6" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:26.31" heatid="8004" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="2" firstname="Myrto Canon" lastname="Falla" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:33.10" heatid="1002" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="9" firstname="Franka" lastname="Gburek" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:28.20" heatid="1003" lane="2" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:28.60" heatid="7003" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="21" firstname="Edgar Moritz" lastname="Haase" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:35.40" heatid="2002" lane="1" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:30.40" heatid="8002" lane="6" />
+                <ENTRY eventid="12" agegroupid="9" entrytime="00:01:08.73" heatid="12003" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="4" firstname="Johanna" lastname="Henoch" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:30.50" heatid="1002" lane="3" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:27.35" heatid="7003" lane="4" />
+                <ENTRY eventid="11" agegroupid="9" entrytime="00:01:09.03" heatid="11003" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="12" firstname="Alexandra" lastname="Henseler" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:29.70" heatid="1003" lane="5" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:24.13" heatid="7004" lane="4" />
+                <ENTRY eventid="11" agegroupid="9" entrytime="00:01:05.56" heatid="11004" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="90" firstname="Friedrich" lastname="Kählig" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="9" entrytime="00:01:35.00" heatid="12001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="27" firstname="Gabriel" lastname="Labuschke" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:31.30" heatid="2003" lane="6" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:29.00" heatid="8002" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="22" firstname="Nio" lastname="Leister" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:31.10" heatid="2003" lane="1" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:29.90" heatid="8002" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="28" firstname="Elias" lastname="Leonhardt" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:28.70" heatid="2004" lane="1" />
+                <ENTRY eventid="12" agegroupid="9" entrytime="00:01:00.17" heatid="12004" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="5" firstname="Luna" lastname="Meyer" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:30.60" heatid="1002" lane="4" />
+                <ENTRY eventid="11" agegroupid="9" entrytime="00:01:09.27" heatid="11003" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="61" firstname="Kristina" lastname="Moor" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:25.50" heatid="7004" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="51" firstname="Laila" lastname="Neubauer" birthdate="2013-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="6" entrytime="00:00:40.19" heatid="5004" lane="1" />
+                <ENTRY eventid="11" agegroupid="4" entrytime="00:00:47.37" heatid="11007" lane="3" />
+                <ENTRY eventid="19" agegroupid="2" entrytime="00:00:45.00" heatid="19005" lane="4" />
+                <ENTRY eventid="23" agegroupid="4" entrytime="00:00:44.05" heatid="23003" lane="4" />
+                <ENTRY eventid="25" agegroupid="6" entrytime="00:01:36.94" heatid="25004" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="25" firstname="Franz" lastname="Petzold" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:29.30" heatid="2003" lane="4" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:23.77" heatid="8004" lane="4" />
+                <ENTRY eventid="12" agegroupid="9" entrytime="00:01:08.00" heatid="12003" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="10" firstname="Amalia" lastname="Preußner" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:26.20" heatid="1003" lane="3" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:26.90" heatid="7003" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="11" firstname="Julia" lastname="Reins" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:27.50" heatid="1003" lane="4" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:31.00" heatid="7003" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="3" firstname="Mariella Egea" lastname="Richter" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:32.80" heatid="1002" lane="2" />
+                <ENTRY eventid="11" agegroupid="9" entrytime="00:01:20.00" heatid="11002" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="13" firstname="Lucy" lastname="Rothnauer" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:29.90" heatid="1003" lane="6" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:25.72" heatid="7004" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="73" firstname="Leila" lastname="Schild" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="9" entrytime="00:01:08.00" heatid="11003" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="39" firstname="Pepe" lastname="Schöne" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:25.10" heatid="2005" lane="6" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:23.47" heatid="8004" lane="3" />
+                <ENTRY eventid="12" agegroupid="9" entrytime="00:01:07.65" heatid="12004" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="29" firstname="Ben" lastname="Sembdner" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:27.70" heatid="2004" lane="2" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:24.00" heatid="8004" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB name="Post SV Dresden" nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="75" firstname="Laura" lastname="Graichen" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="5" entrytime="00:01:03.06" heatid="11004" lane="1" />
+                <ENTRY eventid="19" agegroupid="3" entrytime="00:00:52.86" heatid="19004" lane="5" />
+                <ENTRY eventid="23" agegroupid="5" entrytime="00:00:52.47" heatid="23002" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="56" firstname="Josephine" lastname="Hauptmann" birthdate="2007-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="1" entrytime="00:00:38.02" heatid="5005" lane="5" />
+                <ENTRY eventid="15" agegroupid="1" entrytime="00:01:20.37" heatid="15004" lane="6" />
+                <ENTRY eventid="25" agegroupid="1" entrytime="00:01:26.72" heatid="25006" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="1" firstname="Ilsa-Kalea" lastname="Hildebrandt" birthdate="2016-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="1" entrytime="00:00:00.00" heatid="1001" lane="1" />
+                <ENTRY eventid="11" agegroupid="7" entrytime="00:01:01.21" heatid="11004" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="72" firstname="Luna Marie" lastname="Krenkel" birthdate="2016-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="7" entrytime="00:01:09.39" heatid="11003" lane="1" />
+                <ENTRY eventid="23" agegroupid="7" entrytime="00:00:55.43" heatid="23001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="91" firstname="Pepe Walter" lastname="Nitzsche" birthdate="2016-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="7" entrytime="00:01:05.31" heatid="12004" lane="2" />
+                <ENTRY eventid="20" agegroupid="3" entrytime="00:00:58.23" heatid="20003" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="117" firstname="Johanna" lastname="Obst" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="19" agegroupid="4" entrytime="00:00:49.83" heatid="19005" lane="6" />
+                <ENTRY eventid="23" agegroupid="6" entrytime="00:00:44.56" heatid="23003" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="34" firstname="Eugen" lastname="Pobirtschenko" birthdate="2016-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="1" entrytime="00:00:24.95" heatid="2005" lane="1" />
+                <ENTRY eventid="12" agegroupid="7" entrytime="00:00:57.43" heatid="12005" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="88" firstname="Hanna" lastname="Reller" birthdate="2012-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="3" entrytime="00:00:45.49" heatid="11008" lane="5" />
+                <ENTRY eventid="15" agegroupid="5" entrytime="00:01:20.41" heatid="15003" lane="3" />
+                <ENTRY eventid="23" agegroupid="3" entrytime="00:00:36.10" heatid="23005" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="62" firstname="Nikolai" lastname="Shishkov" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:42.13" heatid="8001" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="114" firstname="Finja Anja" lastname="Stade" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="19" agegroupid="7" entrytime="00:01:38.22" heatid="19001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="113" firstname="Elisabeth" lastname="Steincke" birthdate="2020-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="17" agegroupid="1" entrytime="00:00:42.25" heatid="17001" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="122" firstname="Max" lastname="Stuhldreher" birthdate="2014-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="20" agegroupid="1" entrytime="00:00:54.59" heatid="20004" lane="1" />
+                <ENTRY eventid="24" agegroupid="5" entrytime="00:00:46.94" heatid="24003" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="121" firstname="Frederik Raphael" lastname="Ullrich" birthdate="2015-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="20" agegroupid="2" entrytime="00:00:58.59" heatid="20003" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="38" firstname="Ognyan" lastname="Zhechkov" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:24.81" heatid="2005" lane="5" />
+                <ENTRY eventid="12" agegroupid="9" entrytime="00:01:05.76" heatid="12004" lane="5" />
+                <ENTRY eventid="20" agegroupid="5" entrytime="00:00:59.54" heatid="20003" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB name="SG Klotzsche" nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="123" firstname="Lukas" lastname="Barthel" birthdate="2014-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="20" agegroupid="1" entrytime="00:00:46.17" heatid="20004" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="59" firstname="Tim" lastname="Bode" birthdate="2014-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="6" agegroupid="1" entrytime="00:00:48.83" heatid="6002" lane="1" />
+                <ENTRY eventid="24" agegroupid="5" entrytime="00:00:39.86" heatid="24003" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="116" firstname="Clara" lastname="Dobberstein" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="19" agegroupid="3" entrytime="00:00:44.63" heatid="19005" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="71" firstname="Myrto Canon" lastname="Falla" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="9" entrytime="00:00:00.00" heatid="11001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="41" firstname="Lilo" lastname="Friedrichs" birthdate="2020-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="3" agegroupid="1" entrytime="00:00:51.35" heatid="3002" lane="1" />
+                <ENTRY eventid="13" agegroupid="2" entrytime="00:00:00.00" heatid="13001" lane="5" />
+                <ENTRY eventid="21" agegroupid="1" entrytime="00:00:00.00" heatid="21001" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="100" firstname="Robert" lastname="Friedrichs" birthdate="1987-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="1" entrytime="00:00:48.00" heatid="12006" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="60" firstname="Clara" lastname="Geßner" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:00.00" heatid="7001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="80" firstname="Carla" lastname="Goede" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="6" entrytime="00:00:51.00" heatid="11006" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="109" firstname="Frida" lastname="Gutte" birthdate="2012-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="15" agegroupid="5" entrytime="00:01:27.87" heatid="15003" lane="6" />
+                <ENTRY eventid="23" agegroupid="3" entrytime="00:00:34.95" heatid="23005" lane="1" />
+                <ENTRY eventid="25" agegroupid="5" entrytime="00:01:30.00" heatid="25006" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="82" firstname="Saskia" lastname="Helm" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="6" entrytime="00:00:55.24" heatid="11006" lane="6" />
+                <ENTRY eventid="19" agegroupid="4" entrytime="00:00:55.22" heatid="19003" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="128" firstname="Johanna" lastname="Holz" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="25" agegroupid="8" entrytime="00:00:00.00" heatid="25001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="58" firstname="Arthur" lastname="Janik" birthdate="2014-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="6" agegroupid="1" entrytime="00:00:56.25" heatid="6001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="46" firstname="Leoni" lastname="Kirschner" birthdate="2011-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="4" entrytime="00:00:41.93" heatid="5003" lane="2" />
+                <ENTRY eventid="15" agegroupid="4" entrytime="00:01:21.67" heatid="15003" lane="4" />
+                <ENTRY eventid="23" agegroupid="2" entrytime="00:00:34.78" heatid="23005" lane="5" />
+                <ENTRY eventid="25" agegroupid="4" entrytime="00:01:31.06" heatid="25005" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="126" firstname="Liah" lastname="Kirschner" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="23" agegroupid="6" entrytime="00:00:58.57" heatid="23001" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="83" firstname="Helena" lastname="Koch" birthdate="2013-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="4" entrytime="00:00:49.69" heatid="11007" lane="1" />
+                <ENTRY eventid="25" agegroupid="6" entrytime="00:02:00.00" heatid="25002" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="48" firstname="Sophia" lastname="Kunke" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="7" entrytime="00:00:41.42" heatid="5003" lane="4" />
+                <ENTRY eventid="25" agegroupid="7" entrytime="00:01:46.58" heatid="25004" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="118" firstname="Nora" lastname="Mehlig" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="19" agegroupid="3" entrytime="00:00:42.43" heatid="19006" lane="1" />
+                <ENTRY eventid="25" agegroupid="7" entrytime="00:01:52.73" heatid="25003" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="49" firstname="Viktoria" lastname="Menzel" birthdate="2012-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="5" entrytime="00:00:42.00" heatid="5003" lane="5" />
+                <ENTRY eventid="23" agegroupid="3" entrytime="00:00:37.00" heatid="23004" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="40" firstname="Mara" lastname="Miersch" birthdate="2020-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="3" agegroupid="1" entrytime="00:00:00.00" heatid="3001" lane="1" />
+                <ENTRY eventid="9" agegroupid="2" entrytime="00:00:00.00" heatid="9001" lane="1" />
+                <ENTRY eventid="13" agegroupid="2" entrytime="00:00:00.00" heatid="13001" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="105" firstname="Pia" lastname="Roch" birthdate="2020-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="13" agegroupid="2" entrytime="00:00:00.00" heatid="13001" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="43" firstname="Alexandra" lastname="Schneider" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="8" entrytime="00:00:00.00" heatid="5001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB name="SV Weixdorf e.V." nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="31" firstname="Hannes" lastname="Baum" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:26.83" heatid="2004" lane="4" />
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:25.29" heatid="8004" lane="5" />
+                <ENTRY eventid="20" agegroupid="5" entrytime="00:00:56.46" heatid="20003" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="14" firstname="Joanna" lastname="Baum" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:25.82" heatid="1004" lane="1" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:23.68" heatid="7004" lane="3" />
+                <ENTRY eventid="19" agegroupid="7" entrytime="00:00:56.19" heatid="19003" lane="1" />
+                <ENTRY eventid="23" agegroupid="9" entrytime="00:01:02.33" heatid="23001" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="19" firstname="Annabell Hannelore" lastname="Jonscher" birthdate="2016-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="1" entrytime="00:00:26.00" heatid="1004" lane="6" />
+                <ENTRY eventid="7" agegroupid="1" entrytime="00:00:29.84" heatid="7003" lane="1" />
+                <ENTRY eventid="19" agegroupid="5" entrytime="00:00:55.15" heatid="19003" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="35" firstname="Benjamin Tong Xi" lastname="Liepke" birthdate="2017-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="2" entrytime="00:00:24.00" heatid="2005" lane="2" />
+                <ENTRY eventid="12" agegroupid="8" entrytime="00:00:57.91" heatid="12004" lane="3" />
+                <ENTRY eventid="20" agegroupid="4" entrytime="00:00:48.77" heatid="20004" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="104" firstname="Leni" lastname="Menzer" birthdate="2019-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="13" agegroupid="1" entrytime="00:00:38.99" heatid="13001" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="68" firstname="Marc" lastname="Pietrzyk" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="8" agegroupid="3" entrytime="00:00:28.06" heatid="8002" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="24" firstname="Elias" lastname="Schulze" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:29.02" heatid="2003" lane="3" />
+                <ENTRY eventid="20" agegroupid="5" entrytime="00:00:59.00" heatid="20003" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="8" firstname="Clea" lastname="Thieme" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:29.73" heatid="1003" lane="1" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:29.33" heatid="7003" lane="5" />
+                <ENTRY eventid="23" agegroupid="9" entrytime="00:01:06.00" heatid="23001" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="42" firstname="Ned" lastname="Veizi" birthdate="2019-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="4" agegroupid="1" entrytime="00:00:34.40" heatid="4001" lane="6" />
+                <ENTRY eventid="18" agegroupid="1" entrytime="00:00:29.28" heatid="18001" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="15" firstname="Anne" lastname="Wilhelm" birthdate="2017-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="2" entrytime="00:00:24.00" heatid="1004" lane="2" />
+                <ENTRY eventid="7" agegroupid="2" entrytime="00:00:26.00" heatid="7004" lane="1" />
+                <ENTRY eventid="11" agegroupid="8" entrytime="00:01:00.50" heatid="11004" lane="4" />
+                <ENTRY eventid="19" agegroupid="6" entrytime="00:00:54.86" heatid="19003" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB name="SWV TuR Dresden" nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="55" firstname="Haley" lastname="Bräuer" birthdate="2013-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="6" entrytime="00:00:35.68" heatid="5005" lane="4" />
+                <ENTRY eventid="23" agegroupid="4" entrytime="00:00:31.11" heatid="23005" lane="3" />
+                <ENTRY eventid="25" agegroupid="6" entrytime="00:01:17.77" heatid="25006" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="66" firstname="Curt Pius" lastname="Bungert" birthdate="2017-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="8" agegroupid="2" entrytime="00:00:34.78" heatid="8001" lane="5" />
+                <ENTRY eventid="12" agegroupid="8" entrytime="00:01:10.00" heatid="12003" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="103" firstname="Leonie" lastname="Busch" birthdate="2019-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="13" agegroupid="1" entrytime="00:00:36.72" heatid="13001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="63" firstname="Moritz" lastname="Busch" birthdate="2016-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="8" agegroupid="1" entrytime="00:00:34.66" heatid="8001" lane="2" />
+                <ENTRY eventid="24" agegroupid="7" entrytime="00:01:28.61" heatid="24001" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="54" firstname="Stella" lastname="Domke" birthdate="2009-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="2" entrytime="00:00:34.68" heatid="5005" lane="3" />
+                <ENTRY eventid="15" agegroupid="2" entrytime="00:01:09.15" heatid="15004" lane="3" />
+                <ENTRY eventid="25" agegroupid="2" entrytime="00:01:20.80" heatid="25006" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="32" firstname="Balthasar" lastname="Fischer" birthdate="2016-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="1" entrytime="00:00:27.76" heatid="2004" lane="5" />
+                <ENTRY eventid="12" agegroupid="7" entrytime="00:01:09.92" heatid="12003" lane="2" />
+                <ENTRY eventid="24" agegroupid="7" entrytime="00:00:54.34" heatid="24002" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="65" firstname="Niklas" lastname="Franzke" birthdate="2017-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="8" agegroupid="2" entrytime="00:00:32.00" heatid="8001" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="30" firstname="Ben" lastname="Friebel" birthdate="2017-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="2" entrytime="00:00:25.99" heatid="2004" lane="3" />
+                <ENTRY eventid="8" agegroupid="2" entrytime="00:00:30.21" heatid="8002" lane="1" />
+                <ENTRY eventid="12" agegroupid="8" entrytime="00:00:56.36" heatid="12005" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="18" firstname="Romy" lastname="Gniech" birthdate="2016-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="1" entrytime="00:00:24.19" heatid="1004" lane="5" />
+                <ENTRY eventid="7" agegroupid="1" entrytime="00:00:26.13" heatid="7004" lane="6" />
+                <ENTRY eventid="19" agegroupid="5" entrytime="00:00:56.77" heatid="19003" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="107" firstname="Victoria" lastname="Graf" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="15" agegroupid="8" entrytime="00:01:39.93" heatid="15002" lane="1" />
+                <ENTRY eventid="19" agegroupid="4" entrytime="00:00:55.31" heatid="19003" lane="5" />
+                <ENTRY eventid="23" agegroupid="6" entrytime="00:00:42.12" heatid="23003" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="94" firstname="Alexander" lastname="Grienig" birthdate="2015-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="6" entrytime="00:00:51.31" heatid="12005" lane="4" />
+                <ENTRY eventid="20" agegroupid="2" entrytime="00:00:52.78" heatid="20004" lane="5" />
+                <ENTRY eventid="26" agegroupid="2" entrytime="00:01:56.04" heatid="26002" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="7" firstname="Hannah" lastname="Harmatschek" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="3" entrytime="00:00:35.00" heatid="1002" lane="6" />
+                <ENTRY eventid="7" agegroupid="3" entrytime="00:00:34.00" heatid="7002" lane="1" />
+                <ENTRY eventid="23" agegroupid="9" entrytime="00:01:05.00" heatid="23001" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="76" firstname="Eileen" lastname="Heinze" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="5" entrytime="00:01:00.00" heatid="11004" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="16" firstname="Nila" lastname="Hoffmeister" birthdate="2016-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="1" entrytime="00:00:21.12" heatid="1004" lane="3" />
+                <ENTRY eventid="19" agegroupid="5" entrytime="00:00:53.99" heatid="19004" lane="6" />
+                <ENTRY eventid="23" agegroupid="7" entrytime="00:00:45.58" heatid="23003" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="108" firstname="Johanna" lastname="Holz" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="15" agegroupid="8" entrytime="00:01:36.20" heatid="15002" lane="2" />
+                <ENTRY eventid="19" agegroupid="4" entrytime="00:00:52.16" heatid="19004" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="92" firstname="Arthur" lastname="Janik" birthdate="2014-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="5" entrytime="00:00:51.72" heatid="12005" lane="2" />
+                <ENTRY eventid="16" agegroupid="4" entrytime="00:01:28.09" heatid="16002" lane="1" />
+                <ENTRY eventid="20" agegroupid="1" entrytime="00:00:46.62" heatid="20004" lane="4" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="47" firstname="Leonie Johanna" lastname="Jurke" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="7" entrytime="00:00:41.41" heatid="5003" lane="3" />
+                <ENTRY eventid="23" agegroupid="5" entrytime="00:00:37.64" heatid="23004" lane="2" />
+                <ENTRY eventid="25" agegroupid="7" entrytime="00:01:32.47" heatid="25005" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="53" firstname="Franka" lastname="Lukoschat" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="7" entrytime="00:00:36.64" heatid="5005" lane="2" />
+                <ENTRY eventid="11" agegroupid="5" entrytime="00:00:39.93" heatid="11008" lane="3" />
+                <ENTRY eventid="15" agegroupid="7" entrytime="00:01:13.78" heatid="15004" lane="4" />
+                <ENTRY eventid="25" agegroupid="7" entrytime="00:01:21.85" heatid="25006" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="81" firstname="Ida" lastname="Lukoschat" birthdate="2016-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="7" entrytime="00:00:53.60" heatid="11006" lane="5" />
+                <ENTRY eventid="15" agegroupid="9" entrytime="00:01:41.38" heatid="15002" lane="6" />
+                <ENTRY eventid="25" agegroupid="9" entrytime="00:01:45.53" heatid="25004" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="102" firstname="Margaretha" lastname="Müller" birthdate="2019-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="13" agegroupid="1" entrytime="00:00:42.00" heatid="13001" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="110" firstname="Gustav" lastname="Rödl" birthdate="2015-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="16" agegroupid="5" entrytime="00:01:56.66" heatid="16001" lane="1" />
+                <ENTRY eventid="20" agegroupid="2" entrytime="00:00:54.61" heatid="20004" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="64" firstname="Jarosch" lastname="Seifert" birthdate="2017-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="8" agegroupid="2" entrytime="00:00:30.90" heatid="8001" lane="3" />
+                <ENTRY eventid="12" agegroupid="8" entrytime="00:01:10.00" heatid="12003" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="124" firstname="Aleksejs" lastname="Svitnevs" birthdate="2014-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="20" agegroupid="1" entrytime="00:00:44.18" heatid="20005" lane="1" />
+                <ENTRY eventid="24" agegroupid="5" entrytime="00:00:37.93" heatid="24004" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="67" firstname="Daniel" lastname="Teplý" birthdate="2016-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="8" agegroupid="1" entrytime="00:00:48.00" heatid="8001" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="125" firstname="Ned" lastname="Veizi" birthdate="2019-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="22" agegroupid="1" entrytime="00:00:49.81" heatid="22001" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="74" firstname="Greta" lastname="Wattebled" birthdate="2018-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="9" entrytime="00:01:10.00" heatid="11003" lane="6" />
+                <ENTRY eventid="19" agegroupid="7" entrytime="00:01:05.00" heatid="19002" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="23" firstname="Daryl" lastname="Zirkler" birthdate="2017-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="2" entrytime="00:00:29.53" heatid="2003" lane="2" />
+                <ENTRY eventid="8" agegroupid="2" entrytime="00:00:26.99" heatid="8003" lane="1" />
+                <ENTRY eventid="12" agegroupid="8" entrytime="00:01:10.00" heatid="12003" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB name="USV TU Dresden e.V." nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="78" firstname="Carolin" lastname="Dittrich" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="6" entrytime="00:00:53.71" heatid="11006" lane="1" />
+                <ENTRY eventid="15" agegroupid="8" entrytime="00:01:38.58" heatid="15002" lane="5" />
+                <ENTRY eventid="23" agegroupid="6" entrytime="00:00:40.70" heatid="23004" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="93" firstname="Daniel" lastname="Grünwald" birthdate="2013-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="4" entrytime="00:00:51.14" heatid="12005" lane="3" />
+                <ENTRY eventid="24" agegroupid="4" entrytime="00:00:44.92" heatid="24003" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="101" firstname="Maximilian" lastname="Jentzsch" birthdate="2014-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="5" entrytime="00:00:50.98" heatid="12006" lane="6" />
+                <ENTRY eventid="16" agegroupid="4" entrytime="00:01:41.53" heatid="16002" lane="6" />
+                <ENTRY eventid="24" agegroupid="5" entrytime="00:00:46.72" heatid="24003" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="84" firstname="Mathilda" lastname="Krusch" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="5" entrytime="00:00:48.72" heatid="11007" lane="4" />
+                <ENTRY eventid="19" agegroupid="3" entrytime="00:00:49.46" heatid="19005" lane="1" />
+                <ENTRY eventid="23" agegroupid="5" entrytime="00:00:45.29" heatid="23003" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="120" firstname="Friedrich" lastname="Kählig" birthdate="2017-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="20" agegroupid="4" entrytime="00:01:10.01" heatid="20002" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="17" firstname="Eleonora" lastname="Meyer" birthdate="2016-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="1" entrytime="00:00:23.00" heatid="1004" lane="4" />
+                <ENTRY eventid="11" agegroupid="7" entrytime="00:00:58.53" heatid="11005" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="115" firstname="Nele" lastname="Mühlenberg" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="19" agegroupid="4" entrytime="00:00:50.71" heatid="19004" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="86" firstname="Johanna" lastname="Schmidt" birthdate="2014-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="5" entrytime="00:00:50.44" heatid="11007" lane="6" />
+                <ENTRY eventid="19" agegroupid="3" entrytime="00:00:52.99" heatid="19004" lane="1" />
+                <ENTRY eventid="23" agegroupid="5" entrytime="00:00:47.72" heatid="23003" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="106" firstname="Alexandra" lastname="Schneider" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="15" agegroupid="8" entrytime="00:01:55.99" heatid="15001" lane="3" />
+                <ENTRY eventid="19" agegroupid="4" entrytime="00:00:51.25" heatid="19004" lane="4" />
+                <ENTRY eventid="25" agegroupid="8" entrytime="00:01:50.00" heatid="25004" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="36" firstname="Tilo" lastname="Senske" birthdate="2018-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="3" entrytime="00:00:21.38" heatid="2005" lane="3" />
+                <ENTRY eventid="20" agegroupid="5" entrytime="00:01:00.00" heatid="20003" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="95" firstname="Elias Tobias" lastname="Stade" birthdate="2015-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="6" entrytime="00:00:51.85" heatid="12005" lane="5" />
+                <ENTRY eventid="24" agegroupid="6" entrytime="00:00:42.41" heatid="24003" lane="2" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="6" firstname="Finja Anja" lastname="Stade" birthdate="2017-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="1" agegroupid="2" entrytime="00:00:32.96" heatid="1002" lane="5" />
+                <ENTRY eventid="11" agegroupid="8" entrytime="00:01:06.90" heatid="11003" lane="3" />
+                <ENTRY eventid="23" agegroupid="8" entrytime="00:01:03.96" heatid="23001" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="77" firstname="Xara" lastname="Volenec" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="11" agegroupid="6" entrytime="00:01:02.84" heatid="11004" lane="5" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="97" firstname="Benjamin" lastname="Zönnchen" birthdate="2012-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="3" entrytime="00:00:46.77" heatid="12006" lane="2" />
+                <ENTRY eventid="24" agegroupid="3" entrytime="00:00:38.74" heatid="24003" lane="3" />
+                <ENTRY eventid="26" agegroupid="1" entrytime="00:01:40.00" heatid="26003" lane="1" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB name="Unknown" nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="119" firstname="Curt Pius" lastname="Bungert" birthdate="2016-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="20" agegroupid="3" entrytime="00:01:30.00" heatid="20001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="129" firstname="Ben" lastname="Friebel" birthdate="2015-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="26" agegroupid="2" entrytime="00:02:15.29" heatid="26001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="70" firstname="Aaron" lastname="Hintz" birthdate="2019-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="10" agegroupid="1" entrytime="00:00:34.00" heatid="10001" lane="6" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="44" firstname="Sophia" lastname="Kromnik" birthdate="2016-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="5" agegroupid="9" entrytime="00:00:56.67" heatid="5002" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="69" firstname="Leni" lastname="Menzer" birthdate="2019-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="9" agegroupid="1" entrytime="00:00:34.20" heatid="9002" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="20" firstname="Jarosch" lastname="Seifert" birthdate="2016-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="2" agegroupid="1" entrytime="00:00:57.44" heatid="2001" lane="3" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+      </CLUBS>
+    </MEET>
+  </MEETS>
+</LENEX>

@@ -106,6 +106,846 @@
       "timing": "AUTOMATIC"
     },
     {
+      "city": "Sportbad Neckarpark",
+      "counts": {
+        "athletes": 1093,
+        "clubs": 92,
+        "events": 76,
+        "heats": 665,
+        "relays": 0,
+        "sessions": 5
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "Sportbad Neckarpark",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T07:42:37+00:00",
+          "sha256": "16faeb7aab80ca50c02c2acff92f4bbc50473fb615aa4b25a37b3fcb5fe40120",
+          "size_bytes": 889586,
+          "url": "meetings/1002026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T06:52:47+00:00",
+          "sha256": "f66b7aef5ee63871db22c77a327bae63fe1bfc68eb6da349f332b7277ebfae82",
+          "size_bytes": 786111,
+          "url": "meetings/1002026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SV Cannstatt 1898 e.V.",
+      "meeting_id": "1002026",
+      "name": "50. International Dr. Otto-Fahr Swim-Meeting",
+      "nation": "GER",
+      "organizer": "SV Cannstatt 1898 e.V.",
+      "pool": {
+        "lanemax": 16,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-24",
+          "daytime": "16:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "08:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "01:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "08:00",
+          "name": "Abschnitt 4",
+          "number": 4
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "01:00",
+          "name": "Abschnitt 5",
+          "number": 5
+        }
+      ],
+      "start_date": "2026-04-24",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Stendal",
+      "counts": {
+        "athletes": 170,
+        "clubs": 8,
+        "events": 21,
+        "heats": 113,
+        "relays": 15,
+        "sessions": 2
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-25",
+      "facility": {
+        "name": "AltOa Freizeitbad",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T07:20:27+00:00",
+          "sha256": "ee525f79a7b9b0f5ed989a0b576f89fee0d93d85a04fc3fe51de5d234cc61c52",
+          "size_bytes": 128740,
+          "url": "meetings/1832026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T07:20:27+00:00",
+          "sha256": "83bbb1c6887de04d05924c0521e4b962aad9fc27d578ed8b9d62c43f46739d52",
+          "size_bytes": 86388,
+          "url": "meetings/1832026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SV Wasserfreunde Stendal",
+      "meeting_id": "1832026",
+      "name": "10. Einladungswettkampf",
+      "nation": "GER",
+      "organizer": "SV Wasserfreunde Stendal",
+      "pool": {
+        "lanemax": 6,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "13:30",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Hallenbad in der Sportschule der Bundeswehr in Warendorf",
+      "counts": {
+        "athletes": 1667,
+        "clubs": 51,
+        "events": 32,
+        "heats": 427,
+        "relays": 9,
+        "sessions": 4
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "Hallenbad in der Sportschule der Bundeswehr in Warendorf",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:45:58+00:00",
+          "sha256": "df45b6c80338fc42b4b28f793bf23ff7656d46fcf1e78c2519c2e4aca0895ace",
+          "size_bytes": 739011,
+          "url": "meetings/1862026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:45:58+00:00",
+          "sha256": "dec105fb62d9331a85f81f07ec913470288c1f0500a31a4806b2228c75b0ccf5",
+          "size_bytes": 654929,
+          "url": "meetings/1862026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Warendorfer SU - Abtl. Schwimmen",
+      "meeting_id": "1862026",
+      "name": "44. Sparkassen - Pokalschwimmen",
+      "nation": "GER",
+      "organizer": "Warendorfer SU",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "01:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "09:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "01:00",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Wiesbaden",
+      "counts": {
+        "athletes": 274,
+        "clubs": 7,
+        "events": 38,
+        "heats": 217,
+        "relays": 0,
+        "sessions": 5
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "Hallenbad Kleinfelchen",
+        "street": "Hollerbornstraße 9",
+        "zip": "65197 Wiesbaden"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T06:45:16+00:00",
+          "sha256": "c21f51473e5e3b47c17fba65d156dec26d6a619a6a28cc334d2a4a340096195f",
+          "size_bytes": 244778,
+          "url": "meetings/2272026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T06:45:16+00:00",
+          "sha256": "8e29aee029fc553cde71b39d494edd61005f16a55a584ef5d26dfb96986e1fbc",
+          "size_bytes": 275130,
+          "url": "meetings/2272026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SC Wiesbaden 1911",
+      "meeting_id": "2272026",
+      "name": "Wiesbadener Frühjahrsschwimmfest",
+      "nation": "GER",
+      "organizer": "SC Wiesbaden 1911",
+      "pool": {
+        "lanemax": 6,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "09:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "00:45",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "09:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "00:45",
+          "name": "Abschnitt 4",
+          "number": 4
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "00:10",
+          "name": "Abschnitt 5",
+          "number": 5
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Walzbachbad Weingarten",
+      "counts": {
+        "athletes": 280,
+        "clubs": 17,
+        "events": 26,
+        "heats": 224,
+        "relays": 33,
+        "sessions": 2
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-25",
+      "facility": {
+        "name": "Walzbachbad Weingarten",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T07:35:06+00:00",
+          "sha256": "b4ef5e5c48b272dbb2dfdc53ebff6c7992d7ef5c804cac0512a24a5bde8eccb5",
+          "size_bytes": 206419,
+          "url": "meetings/4502026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T07:26:59+00:00",
+          "sha256": "82e0caeb36ad79512b78ae9ec107e704706afef2aa5742b2d931ae082af33446",
+          "size_bytes": 256710,
+          "url": "meetings/4502026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "FVgg 1906 e.V. Weingarten Abt. Schwimmen",
+      "meeting_id": "4502026",
+      "name": "18. Nachwuchsschwimmfest der FVgg 1906 e.V. Weingarten",
+      "nation": "GER",
+      "organizer": "FVgg 1906 e.V. Weingarten Abt. Schwimmen",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "09:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "13:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Sportschwimmkomplex Freiberger Platz",
+      "counts": {
+        "athletes": 471,
+        "clubs": 16,
+        "events": 36,
+        "heats": 285,
+        "relays": 0,
+        "sessions": 3
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "Sportschwimmkomplex Freiberger Platz",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:46:09+00:00",
+          "sha256": "6038dea6c5cccff43beb80fdb0c37df7863b9ed01fddc14fa63352448c5c84f2",
+          "size_bytes": 381208,
+          "url": "meetings/4852026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:46:09+00:00",
+          "sha256": "1e2cbf4de10f172b314b4babc3e1ae5fd6da893107f2ad84c1936daeb8faa2f9",
+          "size_bytes": 598945,
+          "url": "meetings/4852026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "USV TU Dresden e.V. - Abt. Schwimmen",
+      "meeting_id": "4852026",
+      "name": "Bezirksmeisterschaften der Jahrgänge 2018 u.ä. des Schwimmbezirks Dresden",
+      "nation": "GER",
+      "organizer": "Schwimmbezirk Dresden e.V.",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "14:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "09:30",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "00:50",
+          "name": "Abschnitt 3",
+          "number": 3
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Vitusbad",
+      "counts": {
+        "athletes": 769,
+        "clubs": 34,
+        "events": 56,
+        "heats": 213,
+        "relays": 0,
+        "sessions": 4
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "Vitusbad",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:46:20+00:00",
+          "sha256": "6b0f6afd09e8407373588d624789604f2292b4ce4651b182b04dd0ce765d6658",
+          "size_bytes": 374749,
+          "url": "meetings/6052026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:46:20+00:00",
+          "sha256": "62cdda81afb1b0737dc1991277e782d01700ebfc09abd33423baa82c38e6cc82",
+          "size_bytes": 3433093,
+          "url": "meetings/6052026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Mönchengladbacher Schwimmverein 1901 e.V.",
+      "meeting_id": "6052026",
+      "name": "18. NEW Swim Meeting",
+      "nation": "GER",
+      "organizer": "Startgemeinschaft Mönchengladbach (SGMG)",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "09:15",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "01:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "09:15",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "01:00",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Schwimmhalle Prohlis",
+      "counts": {
+        "athletes": 129,
+        "clubs": 8,
+        "events": 26,
+        "heats": 84,
+        "relays": 0,
+        "sessions": 1
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-25",
+      "facility": {
+        "name": "Schwimmhalle Prohlis",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T06:45:20+00:00",
+          "sha256": "91c7b8aad50aacf9532a13a0e381bbef42ccf9c16aa35729a6470a08d9dafa5b",
+          "size_bytes": 81834,
+          "url": "meetings/6062026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T06:45:20+00:00",
+          "sha256": "08d6d4de74bc35a8fd38059039b2c4e6cba79039c105793fa5a86effba17aa8b",
+          "size_bytes": 89574,
+          "url": "meetings/6062026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SWV TuR Dresden e.V.",
+      "meeting_id": "6062026",
+      "name": "TuRs Hexentanz",
+      "nation": "GER",
+      "organizer": "SWV TuR Dresden e.V.",
+      "pool": {
+        "lanemax": 6,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "09:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Essen",
+      "counts": {
+        "athletes": 210,
+        "clubs": 8,
+        "events": 40,
+        "heats": 142,
+        "relays": 0,
+        "sessions": 2
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "Schwimmzentrum Essen-Rüttenscheid",
+        "street": "Von-Einem Strasse 77",
+        "zip": "45130 Essen"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:46:25+00:00",
+          "sha256": "520aae02531573b6cb44fd22836c1ffdba9575d941912973992029d02b01adc1",
+          "size_bytes": 147218,
+          "url": "meetings/7232026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:46:25+00:00",
+          "sha256": "24b917b8cd5768f76dc50fc2de297acdb2c972d35eb7679f02d5790564ff63d7",
+          "size_bytes": 430982,
+          "url": "meetings/7232026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Polizei-Sportverein Essen",
+      "meeting_id": "7232026",
+      "name": "Schwimm-Mehrkampf 2026 des Bezirk-Ruhrgebiet im SV NRW",
+      "nation": "GER",
+      "organizer": "Bezirk-Ruhrgebiet im SV NRW",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-04-25",
+          "daytime": "14:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-04-26",
+          "daytime": "10:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Landesleistungszentrum Hamburg",
+      "counts": {
+        "athletes": 197,
+        "clubs": 70,
+        "events": 32,
+        "heats": 256,
+        "relays": 0,
+        "sessions": 3
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "Landesleistungszentrum Hamburg",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:46:35+00:00",
+          "sha256": "95a72ea55cf818565c967e1ce109e6ad6d2599c353b87e8f8d975debdc3c6a11",
+          "size_bytes": 227717,
+          "url": "meetings/762026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:46:35+00:00",
+          "sha256": "de511b1f3c499f0f96cd1f79e07f9292f5ec073ff5b35183ccdf71e55ffadc25",
+          "size_bytes": 542271,
+          "url": "meetings/762026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Hamburger Schwimmverband e.V.",
+      "meeting_id": "762026",
+      "name": "Norddeutsche Mehrkampfmeisterschaften 2026",
+      "nation": "GER",
+      "organizer": "Norddeutscher Schwimmverband e.V.",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 3,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-25",
+          "daytime": "12:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "09:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "01:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        }
+      ],
+      "start_date": "2026-04-25",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Steinfurt-Borghorst",
+      "counts": {
+        "athletes": 219,
+        "clubs": 17,
+        "events": 19,
+        "heats": 165,
+        "relays": 16,
+        "sessions": 2
+      },
+      "course": "SCM",
+      "deadline": "2026-04-12",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T06:45:10+00:00",
+          "sha256": "f9bce49b6ebab8fb739a456ed694efc624281fd35268d1ca96f4fbb51026df4e",
+          "size_bytes": 310114,
+          "url": "meetings/1722026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T06:45:10+00:00",
+          "sha256": "cf9008cc3d3721e95e9210829b765de3b2b1c48c5fbeac462739a8035d5542b7",
+          "size_bytes": 141814,
+          "url": "meetings/1722026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SV Olympia Borghorst 1948 e.V.",
+      "meeting_id": "1722026",
+      "name": "37. Jungküken- und Kükenschwimmfest 2026",
+      "nation": "GER",
+      "organizer": "SV Olympia Borghorst 1948 e.V.",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "10:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-04-26",
+          "daytime": "00:30",
+          "name": "",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-04-26",
+      "status": "",
+      "timing": ""
+    },
+    {
+      "city": "Marienberg",
+      "counts": {
+        "athletes": 93,
+        "clubs": 2,
+        "events": 26,
+        "heats": 152,
+        "relays": 0,
+        "sessions": 3
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-04-26",
+      "facility": {
+        "name": "Aqua Marien",
+        "street": "Hammergasse 24",
+        "zip": "09526"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T07:35:07+00:00",
+          "sha256": "1d9a3dad6c23033764af2ee4e0ba0fd96a7adf193a949cb123d272fe3d59540f",
+          "size_bytes": 110360,
+          "url": "meetings/8752026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T07:13:42+00:00",
+          "sha256": "ac4989a7fcef84de89fd32f2eab958c440eb73f86247f3dd0f764a4ecd9f1d38",
+          "size_bytes": 149192,
+          "url": "meetings/8752026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Schwimmteam Erzgebirge",
+      "meeting_id": "8752026",
+      "name": "Erzgebirgsspiele Schwimmen - Vorkampf MEK",
+      "nation": "GER",
+      "organizer": "Kreissportbund Erzgebirge",
+      "pool": {
+        "lanemax": 4,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-04-26",
+          "daytime": "09:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "SCM",
+          "date": "2026-04-26",
+          "daytime": "12:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "SCM",
+          "date": "2026-04-26",
+          "daytime": "14:45",
+          "name": "Abschnitt 3",
+          "number": 3
+        }
+      ],
+      "start_date": "2026-04-26",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
       "city": "Stuttgart",
       "counts": {
         "athletes": 285,
@@ -1098,6 +1938,293 @@
       "start_date": "2026-05-10",
       "status": "SEEDED",
       "timing": ""
+    },
+    {
+      "city": "Esslingen",
+      "counts": {
+        "athletes": 307,
+        "clubs": 19,
+        "events": 28,
+        "heats": 247,
+        "relays": 9,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-17",
+      "facility": {
+        "name": "Hallen-Freibad Berkheim",
+        "street": "Köngener Straße 50-52",
+        "zip": "73734 Esslingen"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:13:22+00:00",
+          "sha256": "62c552412d33fc51b6a26ecdbdc0206df64d3b583d7f6c0c4529cc9a0cd4aa1d",
+          "size_bytes": 264479,
+          "url": "meetings/2302026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:13:22+00:00",
+          "sha256": "ebb49884cadb193f186fb1b13267c273f1dd98543df8dd001084d5719ef85d83",
+          "size_bytes": 479978,
+          "url": "meetings/2302026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "TSV Berkheim Schwimmen",
+      "meeting_id": "2302026",
+      "name": "3. Int. Michael Felchle Schwimmfest powered by SWE",
+      "nation": "GER",
+      "organizer": "TSV Berkheim (Mitglied der SSG Filder-Neckar-Teck)",
+      "pool": {
+        "lanemax": 6,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-16",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-16",
+          "daytime": "13:42",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-17",
+          "daytime": "09:30",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-17",
+          "daytime": "12:43",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Dortmund",
+      "counts": {
+        "athletes": 727,
+        "clubs": 109,
+        "events": 34,
+        "heats": 333,
+        "relays": 0,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "2026-05-05",
+      "end_date": "2026-05-17",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:12:02+00:00",
+          "sha256": "01395a80b71fe92aa27df46d581df769e4802e41e3f780c7fe6bb12771d9b17d",
+          "size_bytes": 468874,
+          "url": "meetings/3802026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:12:02+00:00",
+          "sha256": "a403fcd09ee464fb686daac86b0803faadf8ca46c5f615475398597c4d6fe52e",
+          "size_bytes": 826263,
+          "url": "meetings/3802026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Schwimmverband Nordrhein-Westfalen e.V.",
+      "meeting_id": "3802026",
+      "name": "Nordrhein-Westfälische Jahrgangs-Meisterschaften",
+      "nation": "GER",
+      "organizer": "Startgemeinschaft Dortmund e.V.",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-16",
+          "daytime": "10:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-16",
+          "daytime": "14:30",
+          "name": "",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-17",
+          "daytime": "10:00",
+          "name": "",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-17",
+          "daytime": "13:45",
+          "name": "",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Hannover",
+      "counts": {
+        "athletes": 437,
+        "clubs": 48,
+        "events": 55,
+        "heats": 252,
+        "relays": 7,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "2026-05-04",
+      "end_date": "2026-05-17",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:12:30+00:00",
+          "sha256": "484ca4ddfcbd0d05d3d5247684b42e7a8c29be85cfbac725a65263ba81464b51",
+          "size_bytes": 341641,
+          "url": "meetings/6622026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:12:30+00:00",
+          "sha256": "70875527b2f71c119348dcfa3996f9d3a811e8356aaaa71d0fae119610efd3f0",
+          "size_bytes": 1026647,
+          "url": "meetings/6622026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Wassersportfreunde von 1898 Hannover e.V.",
+      "meeting_id": "6622026",
+      "name": "16. W98 Hannover Diapolo Meet",
+      "nation": "GER",
+      "organizer": "Wassersportfreunde von 1898 Hannover e.V.",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-16",
+          "daytime": "09:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-16",
+          "daytime": "01:00",
+          "name": "",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-17",
+          "daytime": "09:00",
+          "name": "",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-17",
+          "daytime": "01:00",
+          "name": "",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Bremen",
+      "counts": {
+        "athletes": 75,
+        "clubs": 7,
+        "events": 17,
+        "heats": 48,
+        "relays": 6,
+        "sessions": 1
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-17",
+      "facility": {
+        "name": "Sportbad Bremen-Grohn",
+        "street": "Friedrich-Humbert-Str. 22",
+        "zip": "28759 Bremen"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-12T01:12:13+00:00",
+          "sha256": "451241be689d869dfdb4d43a32a4a646a4281f24ac04ad87e2574271612d58fb",
+          "size_bytes": 51374,
+          "url": "meetings/5422026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-12T01:12:13+00:00",
+          "sha256": "94896783a680c5f997432aafe1bc10ab48c3e1579ae0922987278f5eb2ef7ae5",
+          "size_bytes": 173116,
+          "url": "meetings/5422026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SG Aumund Vegesack",
+      "meeting_id": "5422026",
+      "name": "\"Hund 2026\" mit Staffelwertung und kgW",
+      "nation": "GER",
+      "organizer": "SG Aumund Vegesack",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-17",
+          "daytime": "10:45",
+          "name": "Abschnitt 1",
+          "number": 1
+        }
+      ],
+      "start_date": "2026-05-17",
+      "status": "SEEDED",
+      "timing": "MANUAL"
     }
   ],
   "schema_version": 1
