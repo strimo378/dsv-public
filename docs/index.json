@@ -1879,8 +1879,8 @@
     {
       "city": "Hallenbad der Stadt Lage",
       "counts": {
-        "athletes": 38,
-        "clubs": 13,
+        "athletes": 71,
+        "clubs": 15,
         "events": 34,
         "heats": 69,
         "relays": 5,
@@ -1896,9 +1896,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-10T00:40:14+00:00",
-          "sha256": "b81ee917ef055ee7522dd748f6c4ef0ff30588bb8484bd8a00e7da55a61f5889",
-          "size_bytes": 34492,
+          "modified": "2026-05-12T17:35:25+00:00",
+          "sha256": "48e264b823c10152b6397b0cca8b6810681ccb51a71899bdd5d58a8a00bbeb14",
+          "size_bytes": 74252,
           "url": "meetings/3722026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1914,7 +1914,7 @@
       "nation": "GER",
       "organizer": "SV OWL e. V.",
       "pool": {
-        "lanemax": 4,
+        "lanemax": 5,
         "lanemin": 1,
         "temperature": null,
         "type": null
@@ -1930,7 +1930,7 @@
         {
           "course": "",
           "date": "2026-05-10",
-          "daytime": "13:49",
+          "daytime": "01:00",
           "name": "Abschnitt 2",
           "number": 2
         }
