@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<LENEX version="3.0">
+<LENEX xmlns:dsvapp="https://stripfsoftware.de/dsvapp/lenex" version="3.0">
   <CONSTRUCTOR name="dsv-app" version="1.0" />
   <MEETS>
     <MEET name="Norddeutsche Meisterschaften 2026" city="Braunschweig" nation="GER" course="LCM" organizer="Norddeutscher Schwimmverband" hostclub="SSG Braunschweig" timing="AUTOMATIC" status="SEEDED">
       <FACILITY name="Sportbad Heidberg" street="Sachsendamm 10" zip="38124" city="Braunschweig" nation="GER" />
       <AGEDATE type="YEAR" value="2026-01-01" />
       <SESSIONS>
-        <SESSION number="1" date="2026-05-08" name="Abschnitt 1" status="SEEDED" daytime="15:00" officialmeeting="14:20" warmupfrom="13:30" course="LCM">
+        <SESSION number="1" date="2026-05-08" name="Abschnitt 1" status="SEEDED" daytime="15:00" endtime="18:45" officialmeeting="14:20" warmupfrom="13:30" course="LCM">
           <EVENTS>
-            <EVENT eventid="1" number="1" order="1" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="1" number="1" order="1" gender="F" round="PRE" status="SEEDED" daytime="15:00" dsvapp:endDaytime="15:21">
               <SWIMSTYLE name="200m Brust weiblich (Vorlauf)" distance="200" stroke="BREAST" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="27" agemax="27" name="Year 1999" />
@@ -23,10 +23,10 @@
                 <AGEGROUP agegroupid="10" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="1001" number="1" />
+                <HEAT heatid="1001" number="1" daytime="15:00" dsvapp:endDaytime="15:21" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="2" number="2" order="2" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="2" number="2" order="2" gender="M" round="PRE" status="SEEDED" daytime="15:21" dsvapp:endDaytime="15:40">
               <SWIMSTYLE name="200m Brust männlich (Vorlauf)" distance="200" stroke="BREAST" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="28" agemax="28" name="Year 1998" />
@@ -39,10 +39,10 @@
                 <AGEGROUP agegroupid="8" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="2001" number="1" />
+                <HEAT heatid="2001" number="1" daytime="15:21" dsvapp:endDaytime="15:40" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="3" number="3" order="3" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="3" number="3" order="3" gender="F" round="PRE" status="SEEDED" daytime="15:40" dsvapp:endDaytime="15:50">
               <SWIMSTYLE name="200m Schmetterling weiblich (Vorlauf)" distance="200" stroke="FLY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="20" agemax="20" name="Year 2006" />
@@ -55,10 +55,10 @@
                 <AGEGROUP agegroupid="8" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="3001" number="1" />
+                <HEAT heatid="3001" number="1" daytime="15:40" dsvapp:endDaytime="15:50" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="4" number="4" order="4" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="4" number="4" order="4" gender="M" round="PRE" status="SEEDED" daytime="15:50" dsvapp:endDaytime="16:28">
               <SWIMSTYLE name="200m Schmetterling männlich (Vorlauf)" distance="200" stroke="FLY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="21" agemax="21" name="Year 2005" />
@@ -71,10 +71,10 @@
                 <AGEGROUP agegroupid="8" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="4001" number="1" />
+                <HEAT heatid="4001" number="1" daytime="15:50" dsvapp:endDaytime="16:28" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="5" number="5" order="5" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="5" number="5" order="5" gender="F" round="PRE" status="SEEDED" daytime="16:28" dsvapp:endDaytime="16:41">
               <SWIMSTYLE name="50m Rücken weiblich (Vorlauf)" distance="50" stroke="BACK" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="24" agemax="24" name="Year 2002" />
@@ -91,10 +91,10 @@
                 <AGEGROUP agegroupid="12" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="5001" number="1" />
+                <HEAT heatid="5001" number="1" daytime="16:28" dsvapp:endDaytime="16:41" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="6" number="6" order="6" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="6" number="6" order="6" gender="M" round="PRE" status="SEEDED" daytime="16:41" dsvapp:endDaytime="16:58">
               <SWIMSTYLE name="50m Rücken männlich (Vorlauf)" distance="50" stroke="BACK" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="28" agemax="28" name="Year 1998" />
@@ -111,10 +111,10 @@
                 <AGEGROUP agegroupid="12" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="6001" number="1" />
+                <HEAT heatid="6001" number="1" daytime="16:41" dsvapp:endDaytime="16:58" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="7" number="7" order="7" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="7" number="7" order="7" gender="F" round="PRE" status="SEEDED" daytime="16:58" dsvapp:endDaytime="17:24">
               <SWIMSTYLE name="100m Freistil weiblich (Vorlauf)" distance="100" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="22" agemax="22" name="Year 2004" />
@@ -128,10 +128,10 @@
                 <AGEGROUP agegroupid="9" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="7001" number="1" />
+                <HEAT heatid="7001" number="1" daytime="16:58" dsvapp:endDaytime="17:24" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="8" number="8" order="8" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="8" number="8" order="8" gender="M" round="PRE" status="SEEDED" daytime="17:24" dsvapp:endDaytime="18:20">
               <SWIMSTYLE name="100m Freistil männlich (Vorlauf)" distance="100" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="28" agemax="28" name="Year 1998" />
@@ -150,10 +150,10 @@
                 <AGEGROUP agegroupid="14" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="8001" number="1" />
+                <HEAT heatid="8001" number="1" daytime="17:24" dsvapp:endDaytime="18:20" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="9" number="9" order="9" gender="F" round="TIM" status="SEEDED">
+            <EVENT eventid="9" number="9" order="9" gender="F" round="TIM" status="SEEDED" daytime="18:20" dsvapp:endDaytime="18:31">
               <SWIMSTYLE name="4x200m Freistil weiblich" distance="200" stroke="FREE" relaycount="4" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="126" agemax="126" name="Year 1900" />
@@ -164,10 +164,10 @@
                 <AGEGROUP agegroupid="6" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="9001" number="1" />
+                <HEAT heatid="9001" number="1" daytime="18:20" dsvapp:endDaytime="18:31" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="10" number="10" order="10" gender="M" round="TIM" status="SEEDED">
+            <EVENT eventid="10" number="10" order="10" gender="M" round="TIM" status="SEEDED" daytime="18:31" dsvapp:endDaytime="18:45">
               <SWIMSTYLE name="4x200m Freistil männlich" distance="200" stroke="FREE" relaycount="4" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="126" agemax="126" name="Year 1900" />
@@ -177,14 +177,14 @@
                 <AGEGROUP agegroupid="5" agemin="17" agemax="17" name="Year 2009" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="10001" number="1" />
+                <HEAT heatid="10001" number="1" daytime="18:31" dsvapp:endDaytime="18:45" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="2" date="2026-05-09" name="Abschnitt 2" status="SEEDED" daytime="09:30" officialmeeting="08:50" warmupfrom="08:00" course="LCM">
+        <SESSION number="2" date="2026-05-09" name="Abschnitt 2" status="SEEDED" daytime="09:30" endtime="13:43" officialmeeting="08:50" warmupfrom="08:00" course="LCM">
           <EVENTS>
-            <EVENT eventid="11" number="11" order="11" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="11" number="11" order="11" gender="F" round="PRE" status="SEEDED" daytime="09:30" dsvapp:endDaytime="09:48">
               <SWIMSTYLE name="200m Rücken weiblich (Vorlauf)" distance="200" stroke="BACK" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="18" agemax="18" name="Year 2008" />
@@ -195,10 +195,10 @@
                 <AGEGROUP agegroupid="6" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="11001" number="1" />
+                <HEAT heatid="11001" number="1" daytime="09:30" dsvapp:endDaytime="09:48" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="12" number="12" order="12" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="12" number="12" order="12" gender="M" round="PRE" status="SEEDED" daytime="09:48" dsvapp:endDaytime="10:09">
               <SWIMSTYLE name="200m Rücken männlich (Vorlauf)" distance="200" stroke="BACK" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="21" agemax="21" name="Year 2005" />
@@ -211,10 +211,10 @@
                 <AGEGROUP agegroupid="8" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="12001" number="1" />
+                <HEAT heatid="12001" number="1" daytime="09:48" dsvapp:endDaytime="10:09" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="13" number="13" order="13" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="13" number="13" order="13" gender="F" round="PRE" status="SEEDED" daytime="10:09" dsvapp:endDaytime="10:25">
               <SWIMSTYLE name="50m Schmetterling weiblich (Vorlauf)" distance="50" stroke="FLY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="25" agemax="25" name="Year 2001" />
@@ -230,10 +230,10 @@
                 <AGEGROUP agegroupid="11" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="13001" number="1" />
+                <HEAT heatid="13001" number="1" daytime="10:09" dsvapp:endDaytime="10:25" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="14" number="14" order="14" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="14" number="14" order="14" gender="M" round="PRE" status="SEEDED" daytime="10:25" dsvapp:endDaytime="11:10">
               <SWIMSTYLE name="50m Schmetterling männlich (Vorlauf)" distance="50" stroke="FLY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="35" agemax="35" name="Year 1991" />
@@ -252,10 +252,10 @@
                 <AGEGROUP agegroupid="14" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="14001" number="1" />
+                <HEAT heatid="14001" number="1" daytime="10:25" dsvapp:endDaytime="11:10" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="15" number="15" order="15" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="15" number="15" order="15" gender="F" round="PRE" status="SEEDED" daytime="11:10" dsvapp:endDaytime="11:27">
               <SWIMSTYLE name="50m Brust weiblich (Vorlauf)" distance="50" stroke="BREAST" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="27" agemax="27" name="Year 1999" />
@@ -273,10 +273,10 @@
                 <AGEGROUP agegroupid="13" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="15001" number="1" />
+                <HEAT heatid="15001" number="1" daytime="11:10" dsvapp:endDaytime="11:27" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="16" number="16" order="16" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="16" number="16" order="16" gender="M" round="PRE" status="SEEDED" daytime="11:27" dsvapp:endDaytime="11:44">
               <SWIMSTYLE name="50m Brust männlich (Vorlauf)" distance="50" stroke="BREAST" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="28" agemax="28" name="Year 1998" />
@@ -294,10 +294,10 @@
                 <AGEGROUP agegroupid="13" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="16001" number="1" />
+                <HEAT heatid="16001" number="1" daytime="11:27" dsvapp:endDaytime="11:44" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="17" number="17" order="17" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="17" number="17" order="17" gender="F" round="PRE" status="SEEDED" daytime="11:44" dsvapp:endDaytime="12:04">
               <SWIMSTYLE name="200m Lagen weiblich (Vorlauf)" distance="200" stroke="MEDLEY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="25" agemax="25" name="Year 2001" />
@@ -310,10 +310,10 @@
                 <AGEGROUP agegroupid="8" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="17001" number="1" />
+                <HEAT heatid="17001" number="1" daytime="11:44" dsvapp:endDaytime="12:04" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="18" number="18" order="18" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="18" number="18" order="18" gender="M" round="PRE" status="SEEDED" daytime="12:04" dsvapp:endDaytime="12:47">
               <SWIMSTYLE name="200m Lagen männlich (Vorlauf)" distance="200" stroke="MEDLEY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="22" agemax="22" name="Year 2004" />
@@ -327,10 +327,10 @@
                 <AGEGROUP agegroupid="9" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="18001" number="1" />
+                <HEAT heatid="18001" number="1" daytime="12:04" dsvapp:endDaytime="12:47" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="19" number="19" order="19" gender="F" round="TIM" status="SEEDED">
+            <EVENT eventid="19" number="19" order="19" gender="F" round="TIM" status="SEEDED" daytime="12:47" dsvapp:endDaytime="13:08">
               <SWIMSTYLE name="400m Freistil weiblich" distance="400" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="19" agemax="19" name="Year 2007" />
@@ -342,10 +342,10 @@
                 <AGEGROUP agegroupid="7" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="19001" number="1" />
+                <HEAT heatid="19001" number="1" daytime="12:47" dsvapp:endDaytime="13:08" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="20" number="20" order="20" gender="M" round="TIM" status="SEEDED">
+            <EVENT eventid="20" number="20" order="20" gender="M" round="TIM" status="SEEDED" daytime="13:08" dsvapp:endDaytime="13:34">
               <SWIMSTYLE name="400m Freistil männlich" distance="400" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="20" agemax="20" name="Year 2006" />
@@ -357,10 +357,10 @@
                 <AGEGROUP agegroupid="7" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="20001" number="1" />
+                <HEAT heatid="20001" number="1" daytime="13:08" dsvapp:endDaytime="13:34" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="21" number="21" order="21" gender="X" round="TIM" status="SEEDED">
+            <EVENT eventid="21" number="21" order="21" gender="X" round="TIM" status="SEEDED" daytime="13:34" dsvapp:endDaytime="13:43">
               <SWIMSTYLE name="4x100m Freistil mixed" distance="100" stroke="FREE" relaycount="4" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="126" agemax="126" name="Year 1900" />
@@ -374,86 +374,86 @@
                 <AGEGROUP agegroupid="9" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="21001" number="1" />
+                <HEAT heatid="21001" number="1" daytime="13:34" dsvapp:endDaytime="13:43" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="3" date="2026-05-09" name="Abschnitt 3" status="SEEDED" course="LCM">
+        <SESSION number="3" date="2026-05-09" name="Abschnitt 3" status="SEEDED" daytime="14:43" endtime="17:23" officialmeeting="00:10" warmupfrom="00:00" course="LCM" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
-            <EVENT eventid="22" number="119" order="22" gender="F" round="TIM" status="SEEDED">
+            <EVENT eventid="22" number="119" order="22" gender="F" round="TIM" status="SEEDED" daytime="14:43" dsvapp:endDaytime="14:51">
               <SWIMSTYLE name="400m Freistil weiblich (schnellster Lauf)" distance="400" stroke="FREE" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="23" number="120" order="23" gender="M" round="TIM" status="SEEDED">
+            <EVENT eventid="23" number="120" order="23" gender="M" round="TIM" status="SEEDED" daytime="14:51" dsvapp:endDaytime="14:59">
               <SWIMSTYLE name="400m Freistil männlich (schnellster Lauf)" distance="400" stroke="FREE" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="24" number="105" order="24" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="24" number="105" order="24" gender="F" round="FIN" status="SEEDED" daytime="14:59" dsvapp:endDaytime="15:07">
               <SWIMSTYLE name="50m Rücken weiblich (Finale)" distance="50" stroke="BACK" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="25" number="106" order="25" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="25" number="106" order="25" gender="M" round="FIN" status="SEEDED" daytime="15:07" dsvapp:endDaytime="15:15">
               <SWIMSTYLE name="50m Rücken männlich (Finale)" distance="50" stroke="BACK" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="26" number="113" order="26" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="26" number="113" order="26" gender="F" round="FIN" status="SEEDED" daytime="15:15" dsvapp:endDaytime="15:24">
               <SWIMSTYLE name="50m Schmetterling weiblich (Finale)" distance="50" stroke="FLY" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="27" number="114" order="27" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="27" number="114" order="27" gender="M" round="FIN" status="SEEDED" daytime="15:24" dsvapp:endDaytime="15:32">
               <SWIMSTYLE name="50m Schmetterling männlich (Finale)" distance="50" stroke="FLY" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="28" number="115" order="28" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="28" number="115" order="28" gender="F" round="FIN" status="SEEDED" daytime="15:32" dsvapp:endDaytime="15:40">
               <SWIMSTYLE name="50m Brust weiblich (Finale)" distance="50" stroke="BREAST" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="29" number="116" order="29" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="29" number="116" order="29" gender="M" round="FIN" status="SEEDED" daytime="15:40" dsvapp:endDaytime="15:48">
               <SWIMSTYLE name="50m Brust männlich (Finale)" distance="50" stroke="BREAST" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="30" number="117" order="30" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="30" number="117" order="30" gender="F" round="FIN" status="SEEDED" daytime="15:48" dsvapp:endDaytime="15:56">
               <SWIMSTYLE name="200m Lagen weiblich (Finale)" distance="200" stroke="MEDLEY" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="31" number="118" order="31" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="31" number="118" order="31" gender="M" round="FIN" status="SEEDED" daytime="15:56" dsvapp:endDaytime="16:04">
               <SWIMSTYLE name="200m Lagen männlich (Finale)" distance="200" stroke="MEDLEY" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="32" number="111" order="32" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="32" number="111" order="32" gender="F" round="FIN" status="SEEDED" daytime="16:04" dsvapp:endDaytime="16:12">
               <SWIMSTYLE name="200m Rücken weiblich (Finale)" distance="200" stroke="BACK" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="33" number="112" order="33" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="33" number="112" order="33" gender="M" round="FIN" status="SEEDED" daytime="16:12" dsvapp:endDaytime="16:20">
               <SWIMSTYLE name="200m Rücken männlich (Finale)" distance="200" stroke="BACK" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="34" number="107" order="34" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="34" number="107" order="34" gender="F" round="FIN" status="SEEDED" daytime="16:20" dsvapp:endDaytime="16:28">
               <SWIMSTYLE name="100m Freistil weiblich (Finale)" distance="100" stroke="FREE" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="35" number="108" order="35" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="35" number="108" order="35" gender="M" round="FIN" status="SEEDED" daytime="16:28" dsvapp:endDaytime="16:37">
               <SWIMSTYLE name="100m Freistil männlich (Finale)" distance="100" stroke="FREE" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="36" number="103" order="36" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="36" number="103" order="36" gender="F" round="FIN" status="SEEDED" daytime="16:37" dsvapp:endDaytime="16:45">
               <SWIMSTYLE name="200m Schmetterling weiblich (Finale)" distance="200" stroke="FLY" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="37" number="104" order="37" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="37" number="104" order="37" gender="M" round="FIN" status="SEEDED" daytime="16:45" dsvapp:endDaytime="16:53">
               <SWIMSTYLE name="200m Schmetterling männlich (Finale)" distance="200" stroke="FLY" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="38" number="101" order="38" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="38" number="101" order="38" gender="F" round="FIN" status="SEEDED" daytime="16:53" dsvapp:endDaytime="17:01">
               <SWIMSTYLE name="200m Brust weiblich (Finale)" distance="200" stroke="BREAST" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="39" number="102" order="39" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="39" number="102" order="39" gender="M" round="FIN" status="SEEDED" daytime="17:01" dsvapp:endDaytime="17:09">
               <SWIMSTYLE name="200m Brust männlich (Finale)" distance="200" stroke="BREAST" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="40" number="22" order="40" gender="F" round="TIM" status="SEEDED">
+            <EVENT eventid="40" number="22" order="40" gender="F" round="TIM" status="SEEDED" daytime="17:09" dsvapp:endDaytime="17:19">
               <SWIMSTYLE name="4x100m Freistil weiblich" distance="100" stroke="FREE" relaycount="4" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="126" agemax="126" name="Year 1900" />
@@ -467,10 +467,10 @@
                 <AGEGROUP agegroupid="9" agemin="14" agemax="14" name="Year 2012" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="40001" number="1" />
+                <HEAT heatid="40001" number="1" daytime="17:09" dsvapp:endDaytime="17:19" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="41" number="23" order="41" gender="M" round="TIM" status="SEEDED">
+            <EVENT eventid="41" number="23" order="41" gender="M" round="TIM" status="SEEDED" daytime="17:19" dsvapp:endDaytime="17:23">
               <SWIMSTYLE name="4x100m Freistil männlich" distance="100" stroke="FREE" relaycount="4" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="126" agemax="126" name="Year 1900" />
@@ -484,14 +484,14 @@
                 <AGEGROUP agegroupid="9" agemin="14" agemax="14" name="Year 2012" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="41001" number="1" />
+                <HEAT heatid="41001" number="1" daytime="17:19" dsvapp:endDaytime="17:23" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="4" date="2026-05-10" name="Abschnitt 4" status="SEEDED" daytime="09:30" officialmeeting="08:50" warmupfrom="08:00" course="LCM">
+        <SESSION number="4" date="2026-05-10" name="Abschnitt 4" status="SEEDED" daytime="09:30" endtime="13:49" officialmeeting="08:50" warmupfrom="08:00" course="LCM">
           <EVENTS>
-            <EVENT eventid="42" number="24" order="42" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="42" number="24" order="42" gender="F" round="PRE" status="SEEDED" daytime="09:30" dsvapp:endDaytime="09:36">
               <SWIMSTYLE name="100m Schmetterling weiblich (Vorlauf)" distance="100" stroke="FLY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="20" agemax="20" name="Year 2006" />
@@ -504,10 +504,10 @@
                 <AGEGROUP agegroupid="8" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="42001" number="1" />
+                <HEAT heatid="42001" number="1" daytime="09:30" dsvapp:endDaytime="09:36" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="43" number="25" order="43" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="43" number="25" order="43" gender="M" round="PRE" status="SEEDED" daytime="09:36" dsvapp:endDaytime="09:48">
               <SWIMSTYLE name="100m Schmetterling männlich (Vorlauf)" distance="100" stroke="FLY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="23" agemax="23" name="Year 2003" />
@@ -522,10 +522,10 @@
                 <AGEGROUP agegroupid="10" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="43001" number="1" />
+                <HEAT heatid="43001" number="1" daytime="09:36" dsvapp:endDaytime="09:48" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="44" number="26" order="44" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="44" number="26" order="44" gender="F" round="PRE" status="SEEDED" daytime="09:48" dsvapp:endDaytime="10:08">
               <SWIMSTYLE name="200m Freistil weiblich (Vorlauf)" distance="200" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="19" agemax="19" name="Year 2007" />
@@ -537,10 +537,10 @@
                 <AGEGROUP agegroupid="7" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="44001" number="1" />
+                <HEAT heatid="44001" number="1" daytime="09:48" dsvapp:endDaytime="10:08" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="45" number="27" order="45" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="45" number="27" order="45" gender="M" round="PRE" status="SEEDED" daytime="10:08" dsvapp:endDaytime="10:58">
               <SWIMSTYLE name="200m Freistil männlich (Vorlauf)" distance="200" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="22" agemax="22" name="Year 2004" />
@@ -555,10 +555,10 @@
                 <AGEGROUP agegroupid="10" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="45001" number="1" />
+                <HEAT heatid="45001" number="1" daytime="10:08" dsvapp:endDaytime="10:58" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="46" number="28" order="46" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="46" number="28" order="46" gender="F" round="PRE" status="SEEDED" daytime="10:58" dsvapp:endDaytime="11:08">
               <SWIMSTYLE name="100m Rücken weiblich (Vorlauf)" distance="100" stroke="BACK" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="23" agemax="23" name="Year 2003" />
@@ -573,10 +573,10 @@
                 <AGEGROUP agegroupid="10" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="46001" number="1" />
+                <HEAT heatid="46001" number="1" daytime="10:58" dsvapp:endDaytime="11:08" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="47" number="29" order="47" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="47" number="29" order="47" gender="M" round="PRE" status="SEEDED" daytime="11:08" dsvapp:endDaytime="11:18">
               <SWIMSTYLE name="100m Rücken männlich (Vorlauf)" distance="100" stroke="BACK" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="23" agemax="23" name="Year 2003" />
@@ -591,10 +591,10 @@
                 <AGEGROUP agegroupid="10" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="47001" number="1" />
+                <HEAT heatid="47001" number="1" daytime="11:08" dsvapp:endDaytime="11:18" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="48" number="30" order="48" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="48" number="30" order="48" gender="F" round="PRE" status="SEEDED" daytime="11:18" dsvapp:endDaytime="11:34">
               <SWIMSTYLE name="100m Brust weiblich (Vorlauf)" distance="100" stroke="BREAST" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="27" agemax="27" name="Year 1999" />
@@ -610,10 +610,10 @@
                 <AGEGROUP agegroupid="11" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="48001" number="1" />
+                <HEAT heatid="48001" number="1" daytime="11:18" dsvapp:endDaytime="11:34" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="49" number="31" order="49" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="49" number="31" order="49" gender="M" round="PRE" status="SEEDED" daytime="11:34" dsvapp:endDaytime="12:13">
               <SWIMSTYLE name="100m Brust männlich (Vorlauf)" distance="100" stroke="BREAST" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="28" agemax="28" name="Year 1998" />
@@ -630,10 +630,10 @@
                 <AGEGROUP agegroupid="12" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="49001" number="1" />
+                <HEAT heatid="49001" number="1" daytime="11:34" dsvapp:endDaytime="12:13" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="50" number="32" order="50" gender="F" round="PRE" status="SEEDED">
+            <EVENT eventid="50" number="32" order="50" gender="F" round="PRE" status="SEEDED" daytime="12:13" dsvapp:endDaytime="12:44">
               <SWIMSTYLE name="50m Freistil weiblich (Vorlauf)" distance="50" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="29" agemax="29" name="Year 1997" />
@@ -653,10 +653,10 @@
                 <AGEGROUP agegroupid="15" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="50001" number="1" />
+                <HEAT heatid="50001" number="1" daytime="12:13" dsvapp:endDaytime="12:44" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="51" number="33" order="51" gender="M" round="PRE" status="SEEDED">
+            <EVENT eventid="51" number="33" order="51" gender="M" round="PRE" status="SEEDED" daytime="12:44" dsvapp:endDaytime="13:12">
               <SWIMSTYLE name="50m Freistil männlich (Vorlauf)" distance="50" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="28" agemax="28" name="Year 1998" />
@@ -674,10 +674,10 @@
                 <AGEGROUP agegroupid="13" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="51001" number="1" />
+                <HEAT heatid="51001" number="1" daytime="12:44" dsvapp:endDaytime="13:12" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="52" number="34" order="52" gender="F" round="TIM" status="SEEDED">
+            <EVENT eventid="52" number="34" order="52" gender="F" round="TIM" status="SEEDED" daytime="13:12" dsvapp:endDaytime="13:23">
               <SWIMSTYLE name="4x100m Lagen weiblich" distance="100" stroke="MEDLEY" relaycount="4" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="126" agemax="126" name="Year 1900" />
@@ -691,10 +691,10 @@
                 <AGEGROUP agegroupid="9" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="52001" number="1" />
+                <HEAT heatid="52001" number="1" daytime="13:12" dsvapp:endDaytime="13:23" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="53" number="35" order="53" gender="M" round="TIM" status="SEEDED">
+            <EVENT eventid="53" number="35" order="53" gender="M" round="TIM" status="SEEDED" daytime="13:23" dsvapp:endDaytime="13:49">
               <SWIMSTYLE name="4x100m Lagen männlich" distance="100" stroke="MEDLEY" relaycount="4" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="126" agemax="126" name="Year 1900" />
@@ -708,54 +708,54 @@
                 <AGEGROUP agegroupid="9" agemin="16" agemax="16" name="Year 2010" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="53001" number="1" />
+                <HEAT heatid="53001" number="1" daytime="13:23" dsvapp:endDaytime="13:49" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="5" date="2026-05-10" name="Abschnitt 5" status="SEEDED" course="LCM">
+        <SESSION number="5" date="2026-05-10" name="Abschnitt 5" status="SEEDED" daytime="14:49" endtime="15:56" officialmeeting="00:10" warmupfrom="00:00" course="LCM" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
-            <EVENT eventid="54" number="132" order="54" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="54" number="132" order="54" gender="F" round="FIN" status="SEEDED" daytime="14:49" dsvapp:endDaytime="14:55">
               <SWIMSTYLE name="50m Freistil weiblich (Finale)" distance="50" stroke="FREE" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="55" number="133" order="55" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="55" number="133" order="55" gender="M" round="FIN" status="SEEDED" daytime="14:55" dsvapp:endDaytime="15:01">
               <SWIMSTYLE name="50m Freistil männlich (Finale)" distance="50" stroke="FREE" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="56" number="124" order="56" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="56" number="124" order="56" gender="F" round="FIN" status="SEEDED" daytime="15:01" dsvapp:endDaytime="15:08">
               <SWIMSTYLE name="100m Schmetterling weiblich (Finale)" distance="100" stroke="FLY" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="57" number="125" order="57" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="57" number="125" order="57" gender="M" round="FIN" status="SEEDED" daytime="15:08" dsvapp:endDaytime="15:14">
               <SWIMSTYLE name="100m Schmetterling männlich (Finale)" distance="100" stroke="FLY" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="58" number="130" order="58" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="58" number="130" order="58" gender="F" round="FIN" status="SEEDED" daytime="15:14" dsvapp:endDaytime="15:20">
               <SWIMSTYLE name="100m Brust weiblich (Finale)" distance="100" stroke="BREAST" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="59" number="131" order="59" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="59" number="131" order="59" gender="M" round="FIN" status="SEEDED" daytime="15:20" dsvapp:endDaytime="15:26">
               <SWIMSTYLE name="100m Brust männlich (Finale)" distance="100" stroke="BREAST" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="60" number="128" order="60" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="60" number="128" order="60" gender="F" round="FIN" status="SEEDED" daytime="15:26" dsvapp:endDaytime="15:32">
               <SWIMSTYLE name="100m Rücken weiblich (Finale)" distance="100" stroke="BACK" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="61" number="129" order="61" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="61" number="129" order="61" gender="M" round="FIN" status="SEEDED" daytime="15:32" dsvapp:endDaytime="15:39">
               <SWIMSTYLE name="100m Rücken männlich (Finale)" distance="100" stroke="BACK" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="62" number="126" order="62" gender="F" round="FIN" status="SEEDED">
+            <EVENT eventid="62" number="126" order="62" gender="F" round="FIN" status="SEEDED" daytime="15:39" dsvapp:endDaytime="15:45">
               <SWIMSTYLE name="200m Freistil weiblich (Finale)" distance="200" stroke="FREE" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="63" number="127" order="63" gender="M" round="FIN" status="SEEDED">
+            <EVENT eventid="63" number="127" order="63" gender="M" round="FIN" status="SEEDED" daytime="15:45" dsvapp:endDaytime="15:51">
               <SWIMSTYLE name="200m Freistil männlich (Finale)" distance="200" stroke="FREE" relaycount="1" />
               <HEATS />
             </EVENT>
-            <EVENT eventid="64" number="36" order="64" gender="X" round="TIM" status="SEEDED">
+            <EVENT eventid="64" number="36" order="64" gender="X" round="TIM" status="SEEDED" daytime="15:51" dsvapp:endDaytime="15:56">
               <SWIMSTYLE name="4x100m Lagen mixed" distance="100" stroke="MEDLEY" relaycount="4" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="126" agemax="126" name="Year 1900" />
@@ -768,7 +768,7 @@
                 <AGEGROUP agegroupid="8" agemin="13" agemax="13" name="Year 2013" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="64001" number="1" />
+                <HEAT heatid="64001" number="1" daytime="15:51" dsvapp:endDaytime="15:56" />
               </HEATS>
             </EVENT>
           </EVENTS>

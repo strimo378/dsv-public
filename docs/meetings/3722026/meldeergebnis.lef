@@ -7,7 +7,7 @@
       <AGEDATE type="YEAR" value="2026-01-01" />
       <POOL lanemin="1" lanemax="5" />
       <SESSIONS>
-        <SESSION number="1" date="2026-05-10" name="Abschnitt 1" status="SEEDED" daytime="10:00" endtime="12:46" officialmeeting="09:15" warmupfrom="09:00">
+        <SESSION number="1" date="2026-05-10" name="Abschnitt 1" status="SEEDED" daytime="10:00" endtime="12:49" officialmeeting="09:15" warmupfrom="09:00">
           <EVENTS>
             <EVENT eventid="1" number="1" order="1" gender="F" round="TIM" status="SEEDED" daytime="10:00" dsvapp:endDaytime="10:08">
               <SWIMSTYLE name="200m Rücken weiblich" distance="200" stroke="BACK" relaycount="1" />
@@ -163,16 +163,16 @@
                 <HEAT heatid="9001" number="1" daytime="10:51" dsvapp:endDaytime="11:25" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="10" number="10" order="10" gender="F" round="TIM" status="SEEDED" daytime="11:25" dsvapp:endDaytime="11:25">
+            <EVENT eventid="10" number="10" order="10" gender="F" round="TIM" status="SEEDED" daytime="11:25" dsvapp:endDaytime="11:29">
               <SWIMSTYLE name="200m Schmetterling weiblich" distance="200" stroke="FLY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="22" agemax="22" name="Year 2004" />
               </AGEGROUPS>
               <HEATS>
-                <HEAT heatid="10001" number="1" daytime="11:25" dsvapp:endDaytime="11:25" />
+                <HEAT heatid="10001" number="1" daytime="11:25" dsvapp:endDaytime="11:29" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="11" number="11" order="11" gender="M" round="TIM" status="SEEDED" dsvapp:endDaytime="11:29">
+            <EVENT eventid="11" number="11" order="11" gender="M" round="TIM" status="SEEDED" daytime="11:29" dsvapp:endDaytime="11:29">
               <SWIMSTYLE name="200m Schmetterling männlich" distance="200" stroke="FLY" relaycount="1" />
               <HEATS />
             </EVENT>
@@ -289,15 +289,15 @@
                 <HEAT heatid="18001" number="1" daytime="12:43" dsvapp:endDaytime="12:46" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="19" number="19" order="19" gender="M" round="TIM" status="SEEDED" daytime="12:46" dsvapp:endDaytime="12:46">
+            <EVENT eventid="19" number="19" order="19" gender="M" round="TIM" status="SEEDED" daytime="12:46" dsvapp:endDaytime="12:49">
               <SWIMSTYLE name="4x50m Lagen männlich" distance="50" stroke="MEDLEY" relaycount="4" />
               <HEATS>
-                <HEAT heatid="19001" number="1" daytime="12:46" dsvapp:endDaytime="12:46" />
+                <HEAT heatid="19001" number="1" daytime="12:46" dsvapp:endDaytime="12:49" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="2" date="2026-05-10" name="Abschnitt 2" status="SEEDED" daytime="01:00" endtime="15:12" officialmeeting="00:30" warmupfrom="00:00">
+        <SESSION number="2" date="2026-05-10" name="Abschnitt 2" status="SEEDED" daytime="13:49" endtime="15:15" officialmeeting="00:30" warmupfrom="00:00" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
             <EVENT eventid="20" number="20" order="20" gender="M" round="TIM" status="SEEDED" daytime="13:49" dsvapp:endDaytime="13:53">
               <SWIMSTYLE name="200m Lagen männlich" distance="200" stroke="MEDLEY" relaycount="1" />
@@ -486,10 +486,10 @@
                 <HEAT heatid="33001" number="1" daytime="15:09" dsvapp:endDaytime="15:12" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="34" number="34" order="34" gender="F" round="TIM" status="SEEDED" daytime="15:12" dsvapp:endDaytime="15:12">
+            <EVENT eventid="34" number="34" order="34" gender="F" round="TIM" status="SEEDED" daytime="15:12" dsvapp:endDaytime="15:15">
               <SWIMSTYLE name="4x50m Freistil weiblich" distance="50" stroke="FREE" relaycount="4" />
               <HEATS>
-                <HEAT heatid="34001" number="1" daytime="15:12" dsvapp:endDaytime="15:12" />
+                <HEAT heatid="34001" number="1" daytime="15:12" dsvapp:endDaytime="15:15" />
               </HEATS>
             </EVENT>
           </EVENTS>

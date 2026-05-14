@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<LENEX version="3.0">
+<LENEX xmlns:dsvapp="https://stripfsoftware.de/dsvapp/lenex" version="3.0">
   <CONSTRUCTOR name="dsv-app" version="1.0" />
   <MEETS>
     <MEET name="Bezirks-Jahrgangsmeisterschaften und Bezirksmeisterschaften der Masters 2026" city="Immenstadt" nation="GER" course="SCM" organizer="Bayerischer Schwimmverband e. V. Bezirk VII Schwaben" hostclub="TV 1860 Immenstadt" timing="AUTOMATIC" status="SEEDED">
@@ -191,7 +191,7 @@
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="2" date="2026-05-09" name="Abschnitt 2" status="SEEDED" course="SCM">
+        <SESSION number="2" date="2026-05-09" name="Abschnitt 2" status="SEEDED" officialmeeting="00:15" warmupfrom="00:00" course="SCM" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
             <EVENT eventid="11" number="11" order="11" gender="F" round="TIM" status="SEEDED">
               <SWIMSTYLE name="200m Brust weiblich" distance="200" stroke="BREAST" relaycount="1" />
@@ -522,7 +522,7 @@
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="4" date="2026-05-10" name="Abschnitt 4" status="SEEDED" course="SCM">
+        <SESSION number="4" date="2026-05-10" name="Abschnitt 4" status="SEEDED" officialmeeting="00:15" warmupfrom="00:00" course="SCM" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
             <EVENT eventid="30" number="30" order="30" gender="F" round="TIM" status="SEEDED">
               <SWIMSTYLE name="200m Rücken weiblich" distance="200" stroke="BACK" relaycount="1" />

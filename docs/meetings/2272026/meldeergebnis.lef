@@ -7,7 +7,7 @@
       <AGEDATE type="YEAR" value="2026-01-01" />
       <POOL lanemin="1" lanemax="6" />
       <SESSIONS>
-        <SESSION number="1" date="2026-04-25" name="Abschnitt 1" status="SEEDED" daytime="09:00" endtime="12:04" officialmeeting="08:15" warmupfrom="09:30">
+        <SESSION number="1" date="2026-04-25" name="Abschnitt 1" status="SEEDED" daytime="09:00" endtime="12:07" officialmeeting="08:15" warmupfrom="09:30">
           <EVENTS>
             <EVENT eventid="1" number="1" order="1" gender="F" round="TIM" status="SEEDED" daytime="10:30" dsvapp:endDaytime="10:37">
               <SWIMSTYLE name="200m Schmetterling weiblich" distance="200" stroke="FLY" relaycount="1" />
@@ -116,7 +116,7 @@
                 <HEAT heatid="5005" number="5" daytime="11:49" dsvapp:endDaytime="11:52" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="6" number="6" order="6" gender="M" round="TIM" status="SEEDED" daytime="11:52" dsvapp:endDaytime="12:04">
+            <EVENT eventid="6" number="6" order="6" gender="M" round="TIM" status="SEEDED" daytime="11:52" dsvapp:endDaytime="12:07">
               <SWIMSTYLE name="200m Lagen männlich" distance="200" stroke="MEDLEY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="18" agemax="18" name="Year 2008" />
@@ -133,12 +133,12 @@
                 <HEAT heatid="6001" number="1" daytime="11:52" dsvapp:endDaytime="11:56" />
                 <HEAT heatid="6002" number="2" daytime="11:56" dsvapp:endDaytime="12:00" />
                 <HEAT heatid="6003" number="3" daytime="12:00" dsvapp:endDaytime="12:04" />
-                <HEAT heatid="6004" number="4" daytime="12:04" dsvapp:endDaytime="12:04" />
+                <HEAT heatid="6004" number="4" daytime="12:04" dsvapp:endDaytime="12:07" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="2" date="2026-04-25" name="Abschnitt 2" status="SEEDED" daytime="00:45" endtime="15:50" officialmeeting="00:00" warmupfrom="00:00">
+        <SESSION number="2" date="2026-04-25" name="Abschnitt 2" status="SEEDED" daytime="13:07" endtime="15:55" officialmeeting="00:00" warmupfrom="00:00" dsvapp:relativeDaytime="00:45" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
             <EVENT eventid="7" number="7" order="7" gender="F" round="TIM" status="SEEDED" daytime="13:07" dsvapp:endDaytime="13:19">
               <SWIMSTYLE name="50m Brust weiblich" distance="50" stroke="BREAST" relaycount="1" />
@@ -355,7 +355,7 @@
                 <HEAT heatid="15002" number="2" daytime="15:21" dsvapp:endDaytime="15:27" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="16" number="16" order="16" gender="M" round="TIM" status="SEEDED" daytime="15:27" dsvapp:endDaytime="15:50">
+            <EVENT eventid="16" number="16" order="16" gender="M" round="TIM" status="SEEDED" daytime="15:27" dsvapp:endDaytime="15:55">
               <SWIMSTYLE name="400m Freistil männlich" distance="400" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="18" agemax="18" name="Year 2008" />
@@ -372,12 +372,12 @@
                 <HEAT heatid="16001" number="1" daytime="15:27" dsvapp:endDaytime="15:35" />
                 <HEAT heatid="16002" number="2" daytime="15:35" dsvapp:endDaytime="15:43" />
                 <HEAT heatid="16003" number="3" daytime="15:43" dsvapp:endDaytime="15:50" />
-                <HEAT heatid="16004" number="4" daytime="15:50" dsvapp:endDaytime="15:50" />
+                <HEAT heatid="16004" number="4" daytime="15:50" dsvapp:endDaytime="15:55" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="3" date="2026-04-26" name="Abschnitt 3" status="SEEDED" daytime="09:00" endtime="12:30" officialmeeting="08:15" warmupfrom="09:30">
+        <SESSION number="3" date="2026-04-26" name="Abschnitt 3" status="SEEDED" daytime="09:00" endtime="12:32" officialmeeting="08:15" warmupfrom="09:30">
           <EVENTS>
             <EVENT eventid="17" number="17" order="17" gender="F" round="TIM" status="SEEDED" daytime="10:30" dsvapp:endDaytime="10:41">
               <SWIMSTYLE name="50m Rücken weiblich" distance="50" stroke="BACK" relaycount="1" />
@@ -545,7 +545,7 @@
                 <HEAT heatid="23008" number="8" daytime="12:09" dsvapp:endDaytime="12:11" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="24" number="24" order="24" gender="M" round="TIM" status="SEEDED" daytime="12:11" dsvapp:endDaytime="12:30">
+            <EVENT eventid="24" number="24" order="24" gender="M" round="TIM" status="SEEDED" daytime="12:11" dsvapp:endDaytime="12:32">
               <SWIMSTYLE name="100m Freistil männlich" distance="100" stroke="FREE" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="45" agemax="45" name="Year 1981" />
@@ -575,12 +575,12 @@
                 <HEAT heatid="24008" number="8" daytime="12:26" dsvapp:endDaytime="12:27" />
                 <HEAT heatid="24009" number="9" daytime="12:27" dsvapp:endDaytime="12:29" />
                 <HEAT heatid="24010" number="10" daytime="12:29" dsvapp:endDaytime="12:30" />
-                <HEAT heatid="24011" number="11" daytime="12:30" dsvapp:endDaytime="12:30" />
+                <HEAT heatid="24011" number="11" daytime="12:30" dsvapp:endDaytime="12:32" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="4" date="2026-04-26" name="Abschnitt 4" status="SEEDED" daytime="00:45" endtime="14:12" officialmeeting="00:00" warmupfrom="00:00">
+        <SESSION number="4" date="2026-04-26" name="Abschnitt 4" status="SEEDED" daytime="13:17" endtime="14:14" officialmeeting="00:00" warmupfrom="00:00" dsvapp:relativeDaytime="00:45" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
             <EVENT eventid="25" number="25" order="25" gender="F" round="TIM" status="SEEDED" daytime="13:17" dsvapp:endDaytime="13:21">
               <SWIMSTYLE name="25m Rücken weiblich" distance="25" stroke="BACK" relaycount="1" />
@@ -704,7 +704,7 @@
                 <HEAT heatid="31003" number="3" daytime="14:04" dsvapp:endDaytime="14:06" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="32" number="32" order="32" gender="M" round="TIM" status="SEEDED" daytime="14:06" dsvapp:endDaytime="14:12">
+            <EVENT eventid="32" number="32" order="32" gender="M" round="TIM" status="SEEDED" daytime="14:06" dsvapp:endDaytime="14:14">
               <SWIMSTYLE name="25m R-Beine männlich" distance="25" stroke="KICK" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="14" agemax="14" name="Year 2012" />
@@ -720,12 +720,12 @@
                 <HEAT heatid="32001" number="1" daytime="14:06" dsvapp:endDaytime="14:08" />
                 <HEAT heatid="32002" number="2" daytime="14:08" dsvapp:endDaytime="14:10" />
                 <HEAT heatid="32003" number="3" daytime="14:10" dsvapp:endDaytime="14:12" />
-                <HEAT heatid="32004" number="4" daytime="14:12" dsvapp:endDaytime="14:12" />
+                <HEAT heatid="32004" number="4" daytime="14:12" dsvapp:endDaytime="14:14" />
               </HEATS>
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="5" date="2026-04-26" name="Abschnitt 5" status="SEEDED" daytime="00:10" endtime="15:36" officialmeeting="00:00" warmupfrom="00:00">
+        <SESSION number="5" date="2026-04-26" name="Abschnitt 5" status="SEEDED" daytime="14:24" endtime="15:37" officialmeeting="00:00" warmupfrom="00:00" dsvapp:relativeDaytime="00:10" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
             <EVENT eventid="33" number="33" order="33" gender="F" round="TIM" status="SEEDED" daytime="14:24" dsvapp:endDaytime="14:38">
               <SWIMSTYLE name="100m Brust weiblich" distance="100" stroke="BREAST" relaycount="1" />
@@ -833,7 +833,7 @@
                 <HEAT heatid="37003" number="3" daytime="15:30" dsvapp:endDaytime="15:32" />
               </HEATS>
             </EVENT>
-            <EVENT eventid="38" number="38" order="38" gender="M" round="TIM" status="SEEDED" daytime="15:32" dsvapp:endDaytime="15:36">
+            <EVENT eventid="38" number="38" order="38" gender="M" round="TIM" status="SEEDED" daytime="15:32" dsvapp:endDaytime="15:37">
               <SWIMSTYLE name="100m Lagen männlich" distance="100" stroke="MEDLEY" relaycount="1" />
               <AGEGROUPS>
                 <AGEGROUP agegroupid="1" agemin="25" agemax="25" name="Year 2001" />
@@ -850,7 +850,7 @@
               <HEATS>
                 <HEAT heatid="38001" number="1" daytime="15:32" dsvapp:endDaytime="15:34" />
                 <HEAT heatid="38002" number="2" daytime="15:34" dsvapp:endDaytime="15:36" />
-                <HEAT heatid="38003" number="3" daytime="15:36" dsvapp:endDaytime="15:36" />
+                <HEAT heatid="38003" number="3" daytime="15:36" dsvapp:endDaytime="15:37" />
               </HEATS>
             </EVENT>
           </EVENTS>

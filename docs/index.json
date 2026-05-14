@@ -125,9 +125,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T07:42:37+00:00",
-          "sha256": "16faeb7aab80ca50c02c2acff92f4bbc50473fb615aa4b25a37b3fcb5fe40120",
-          "size_bytes": 889586,
+          "modified": "2026-05-14T02:42:45+00:00",
+          "sha256": "06386cb77389d08526b602d3c54416c6ff688db3f5ab6368a12635b8f83bdc48",
+          "size_bytes": 890424,
           "url": "meetings/1002026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -166,7 +166,7 @@
         {
           "course": "",
           "date": "2026-04-25",
-          "daytime": "01:00",
+          "daytime": "14:48",
           "name": "Abschnitt 3",
           "number": 3
         },
@@ -180,7 +180,7 @@
         {
           "course": "",
           "date": "2026-04-26",
-          "daytime": "01:00",
+          "daytime": "13:04",
           "name": "Abschnitt 5",
           "number": 5
         }
@@ -272,9 +272,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T01:45:58+00:00",
-          "sha256": "df45b6c80338fc42b4b28f793bf23ff7656d46fcf1e78c2519c2e4aca0895ace",
-          "size_bytes": 739011,
+          "modified": "2026-05-14T02:43:03+00:00",
+          "sha256": "ca38858b40c3d0d6a980bbd6881e75f65b2097d2eebd5e5b94d6566553ecf836",
+          "size_bytes": 750300,
           "url": "meetings/1862026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -306,7 +306,7 @@
         {
           "course": "",
           "date": "2026-04-25",
-          "daytime": "01:00",
+          "daytime": "13:10",
           "name": "Abschnitt 2",
           "number": 2
         },
@@ -349,9 +349,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T06:45:16+00:00",
-          "sha256": "c21f51473e5e3b47c17fba65d156dec26d6a619a6a28cc334d2a4a340096195f",
-          "size_bytes": 244778,
+          "modified": "2026-05-14T02:43:17+00:00",
+          "sha256": "a0c0c289a8ab2b7ef1901c851d006581d7c15b93b8c88a3f32f25527d460e1c6",
+          "size_bytes": 245027,
           "url": "meetings/2272026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -383,7 +383,7 @@
         {
           "course": "",
           "date": "2026-04-25",
-          "daytime": "00:45",
+          "daytime": "13:07",
           "name": "Abschnitt 2",
           "number": 2
         },
@@ -397,14 +397,14 @@
         {
           "course": "",
           "date": "2026-04-26",
-          "daytime": "00:45",
+          "daytime": "13:17",
           "name": "Abschnitt 4",
           "number": 4
         },
         {
           "course": "",
           "date": "2026-04-26",
-          "daytime": "00:10",
+          "daytime": "14:24",
           "name": "Abschnitt 5",
           "number": 5
         }
@@ -496,9 +496,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T01:46:09+00:00",
-          "sha256": "6038dea6c5cccff43beb80fdb0c37df7863b9ed01fddc14fa63352448c5c84f2",
-          "size_bytes": 381208,
+          "modified": "2026-05-14T02:43:49+00:00",
+          "sha256": "caf7e08e4d3dfc1c44889ac5261626c0799028e16268a210afbf6ddbb0d89480",
+          "size_bytes": 381291,
           "url": "meetings/4852026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -537,7 +537,7 @@
         {
           "course": "",
           "date": "2026-04-26",
-          "daytime": "00:50",
+          "daytime": "14:05",
           "name": "Abschnitt 3",
           "number": 3
         }
@@ -566,9 +566,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T01:46:20+00:00",
-          "sha256": "6b0f6afd09e8407373588d624789604f2292b4ce4651b182b04dd0ce765d6658",
-          "size_bytes": 374749,
+          "modified": "2026-05-14T02:44:04+00:00",
+          "sha256": "5e0127c640be5764e10e3959cc7a1fc07875ced37e1246c23eccc29ae2357705",
+          "size_bytes": 374915,
           "url": "meetings/6052026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -600,7 +600,7 @@
         {
           "course": "",
           "date": "2026-04-25",
-          "daytime": "01:00",
+          "daytime": "13:30",
           "name": "Abschnitt 2",
           "number": 2
         },
@@ -614,7 +614,7 @@
         {
           "course": "",
           "date": "2026-04-26",
-          "daytime": "01:00",
+          "daytime": "13:30",
           "name": "Abschnitt 4",
           "number": 4
         }
@@ -643,9 +643,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T06:45:20+00:00",
-          "sha256": "91c7b8aad50aacf9532a13a0e381bbef42ccf9c16aa35729a6470a08d9dafa5b",
-          "size_bytes": 81834,
+          "modified": "2026-05-14T02:44:07+00:00",
+          "sha256": "2a3e3733ae53cca70a83984a0c7f68f531dc2249ffcceba6c52adb0af2016012",
+          "size_bytes": 81850,
           "url": "meetings/6062026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -699,9 +699,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T01:46:25+00:00",
-          "sha256": "520aae02531573b6cb44fd22836c1ffdba9575d941912973992029d02b01adc1",
-          "size_bytes": 147218,
+          "modified": "2026-05-14T02:44:37+00:00",
+          "sha256": "479ac53ee27d2d937433d3ad9ed9894e98a8e14397e421d6999d9c9b5986ed8f",
+          "size_bytes": 151504,
           "url": "meetings/7232026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -762,9 +762,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T01:46:35+00:00",
-          "sha256": "95a72ea55cf818565c967e1ce109e6ad6d2599c353b87e8f8d975debdc3c6a11",
-          "size_bytes": 227717,
+          "modified": "2026-05-14T02:44:47+00:00",
+          "sha256": "ddc338fe0024941b539a3e04530ac4a04c3066d73fdbc9b0035f1ebd9b0e64fa",
+          "size_bytes": 227800,
           "url": "meetings/762026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -803,7 +803,7 @@
         {
           "course": "",
           "date": "2026-04-26",
-          "daytime": "01:00",
+          "daytime": "12:28",
           "name": "Abschnitt 3",
           "number": 3
         }
@@ -965,9 +965,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-09T13:31:11+00:00",
-          "sha256": "a305ba6dd34fc0d23e064c3501638abf6b36e64468a2dc534bc4ac748cf793d8",
-          "size_bytes": 319012,
+          "modified": "2026-05-14T02:44:19+00:00",
+          "sha256": "2aa6af071bd7024d192669c8f6a2243c2da7330e95d50e1d4a77102e5d34cd95",
+          "size_bytes": 319238,
           "url": "meetings/6152026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1035,9 +1035,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-10T02:05:43+00:00",
-          "sha256": "99435576c3cb781a39fbd4edd74978444ed8339afdeb983d24c44c423c5b38d2",
-          "size_bytes": 429212,
+          "modified": "2026-05-13T00:51:55+00:00",
+          "sha256": "389bd9dba2029f09d3dfe46825c4f04805e3c7b0842a9b319f896e9d5aa66e6a",
+          "size_bytes": 433830,
           "url": "meetings/772026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1076,7 +1076,7 @@
         {
           "course": "LCM",
           "date": "2026-05-09",
-          "daytime": "",
+          "daytime": "14:43",
           "name": "Abschnitt 3",
           "number": 3
         },
@@ -1090,7 +1090,7 @@
         {
           "course": "LCM",
           "date": "2026-05-10",
-          "daytime": "",
+          "daytime": "14:49",
           "name": "Abschnitt 5",
           "number": 5
         }
@@ -1102,7 +1102,7 @@
     {
       "city": "Plettenberg",
       "counts": {
-        "athletes": 420,
+        "athletes": 419,
         "clubs": 30,
         "events": 28,
         "heats": 269,
@@ -1119,9 +1119,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-09T23:43:15+00:00",
-          "sha256": "b7d570a4aee6f57cd20288e128f1b2db0a5fc3af9368a6817cfd544a92cfb455",
-          "size_bytes": 275066,
+          "modified": "2026-05-14T02:43:11+00:00",
+          "sha256": "fc6cea9d18c77ef1946fcb5d1841e07c456afe865fc167e6996183f5b91fa5f8",
+          "size_bytes": 275081,
           "url": "meetings/2042026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1182,9 +1182,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-10T00:02:02+00:00",
-          "sha256": "bc9c42dc534904677a720353b04683979f2a40496e332ea288da29246973a965",
-          "size_bytes": 277083,
+          "modified": "2026-05-14T02:43:29+00:00",
+          "sha256": "c102bfe88fc94a6738ec05626830d9614ce00d6ab953db3db8efbb191c7fe3f2",
+          "size_bytes": 283653,
           "url": "meetings/2502026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1209,14 +1209,14 @@
         {
           "course": "LCM",
           "date": "2026-05-09",
-          "daytime": "09:30",
+          "daytime": "10:00",
           "name": "Abschnitt 1",
           "number": 1
         },
         {
           "course": "LCM",
           "date": "2026-05-09",
-          "daytime": "",
+          "daytime": "13:34",
           "name": "Abschnitt 2",
           "number": 2
         }
@@ -1378,9 +1378,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-10T01:34:57+00:00",
-          "sha256": "8b7d018f2d98364cadb38b17781219e1eabae1218f9876424321de203466cbeb",
-          "size_bytes": 204632,
+          "modified": "2026-05-14T02:43:54+00:00",
+          "sha256": "f9b4c662f5ebaf7b0bf1b172dcc19748aded4f1ce49fa7baf34172b0e6dd42a4",
+          "size_bytes": 204938,
           "url": "meetings/5412026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1515,7 +1515,7 @@
     {
       "city": "Hildesheim",
       "counts": {
-        "athletes": 525,
+        "athletes": 526,
         "clubs": 59,
         "events": 19,
         "heats": 121,
@@ -1532,9 +1532,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-10T01:40:59+00:00",
-          "sha256": "04754c46e7282c83ad240129248c6d3a974b80860d5a66f6a6e177ac7b3785f6",
-          "size_bytes": 224383,
+          "modified": "2026-05-14T02:44:24+00:00",
+          "sha256": "3d009ab572af613dae5fb2f24bf83134790f888ad717628e6f8c3ae6e8d85524",
+          "size_bytes": 224707,
           "url": "meetings/6222026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1658,9 +1658,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-09T23:31:17+00:00",
-          "sha256": "75a9b591984bb5d675ea5af40e13f22d730ce85d88714e085822c3e209e19738",
-          "size_bytes": 339203,
+          "modified": "2026-05-14T02:44:24+00:00",
+          "sha256": "90e7801f750a296fd080ee64cc112b744a209dc8ae398a58acd97c6c360772bd",
+          "size_bytes": 339565,
           "url": "meetings/7052026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1735,9 +1735,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-10T01:50:55+00:00",
-          "sha256": "ac02b5f3d7d13c61f274c811017bccd605f63010b17fa37f8b47bffdd9d942de",
-          "size_bytes": 264325,
+          "modified": "2026-05-14T02:44:32+00:00",
+          "sha256": "e067181ee0dd3461c2445a863037aaf89c8b7968d5d3cb483ecbab05af2bdfef",
+          "size_bytes": 264703,
           "url": "meetings/7122026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1783,7 +1783,7 @@
         {
           "course": "",
           "date": "2026-05-10",
-          "daytime": "09:30",
+          "daytime": "08:30",
           "name": "Abschnitt 4",
           "number": 4
         },
@@ -1802,8 +1802,8 @@
     {
       "city": "Saarbrücken",
       "counts": {
-        "athletes": 168,
-        "clubs": 28,
+        "athletes": 163,
+        "clubs": 23,
         "events": 80,
         "heats": 112,
         "relays": 4,
@@ -1819,9 +1819,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-10T02:11:59+00:00",
-          "sha256": "ff5bcc67772b1ede5726207808d9c9913ba1b07d8558ab140077ce3de98676b2",
-          "size_bytes": 174008,
+          "modified": "2026-05-14T02:45:07+00:00",
+          "sha256": "a2cc646f02b40370120963146b4520ce652be18a942aef12c42bf661042dda3c",
+          "size_bytes": 174620,
           "url": "meetings/8372026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1853,7 +1853,7 @@
         {
           "course": "LCM",
           "date": "2026-05-09",
-          "daytime": "14:16",
+          "daytime": "13:40",
           "name": "Abschnitt 2",
           "number": 2
         },
@@ -1896,9 +1896,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T17:35:25+00:00",
-          "sha256": "48e264b823c10152b6397b0cca8b6810681ccb51a71899bdd5d58a8a00bbeb14",
-          "size_bytes": 74252,
+          "modified": "2026-05-14T02:43:34+00:00",
+          "sha256": "41e4831303554d7eefd1348bed1b9df37e62f697772c23200ae7fe6f05876651",
+          "size_bytes": 74351,
           "url": "meetings/3722026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
@@ -1930,7 +1930,7 @@
         {
           "course": "",
           "date": "2026-05-10",
-          "daytime": "01:00",
+          "daytime": "13:49",
           "name": "Abschnitt 2",
           "number": 2
         }
@@ -1959,9 +1959,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-12T01:13:22+00:00",
-          "sha256": "62c552412d33fc51b6a26ecdbdc0206df64d3b583d7f6c0c4529cc9a0cd4aa1d",
-          "size_bytes": 264479,
+          "modified": "2026-05-14T02:43:23+00:00",
+          "sha256": "43ff4d4fe425a03091f849acc8f2870c132851ead59436083970fdffbdc8a458",
+          "size_bytes": 264731,
           "url": "meetings/2302026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {

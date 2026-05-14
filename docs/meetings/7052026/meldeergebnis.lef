@@ -192,7 +192,7 @@
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="2" date="2026-05-09" name="Abschnitt 2" status="SEEDED" daytime="13:33" endtime="16:08" course="LCM" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
+        <SESSION number="2" date="2026-05-09" name="Abschnitt 2" status="SEEDED" daytime="13:33" endtime="16:08" officialmeeting="00:00" warmupfrom="00:00" course="LCM" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
             <EVENT eventid="9" number="9" order="9" gender="F" round="TIM" status="SEEDED" daytime="13:33" dsvapp:endDaytime="13:55">
               <SWIMSTYLE name="50m Freistil weiblich" distance="50" stroke="FREE" relaycount="1" />
@@ -511,7 +511,7 @@
             </EVENT>
           </EVENTS>
         </SESSION>
-        <SESSION number="4" date="2026-05-10" name="Abschnitt 4" status="SEEDED" daytime="13:46" endtime="16:43" course="LCM" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
+        <SESSION number="4" date="2026-05-10" name="Abschnitt 4" status="SEEDED" daytime="13:46" endtime="16:43" officialmeeting="00:00" warmupfrom="00:00" course="LCM" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
           <EVENTS>
             <EVENT eventid="25" number="25" order="25" gender="F" round="TIM" status="SEEDED" daytime="13:46" dsvapp:endDaytime="13:54">
               <SWIMSTYLE name="50m Schmetterling weiblich" distance="50" stroke="FLY" relaycount="1" />
@@ -2822,11 +2822,13 @@
             <RELAY number="1" gender="M" agemin="-1" agemax="-1" agetotalmin="-1" agetotalmax="-1" name="SV Nikar Heidelberg C-Jgd">
               <ENTRIES>
                 <ENTRY eventid="16" entrytime="00:04:50.00" heatid="16003" lane="7" />
+                <ENTRY eventid="32" entrytime="00:00:00.00" heatid="32002" lane="7" />
               </ENTRIES>
             </RELAY>
             <RELAY number="1" gender="M" agemin="-1" agemax="-1" agetotalmin="-1" agetotalmax="-1" name="SV Nikar Heidelberg D-Jgd">
               <ENTRIES>
                 <ENTRY eventid="16" entrytime="00:05:00.00" heatid="16002" lane="5" />
+                <ENTRY eventid="32" entrytime="00:00:00.00" heatid="32001" lane="2" />
               </ENTRIES>
             </RELAY>
           </RELAYS>
@@ -3093,6 +3095,7 @@
                 <ENTRY eventid="6" agegroupid="5" entrytime="00:01:29.00" heatid="6002" lane="2" />
                 <ENTRY eventid="14" agegroupid="5" entrytime="00:01:43.05" heatid="14003" lane="5" />
                 <ENTRY eventid="18" agegroupid="5" entrytime="00:00:48.94" heatid="18004" lane="4" />
+                <ENTRY eventid="24" agegroupid="5" entrytime="00:00:00.00" heatid="24001" lane="7" />
                 <ENTRY eventid="28" agegroupid="5" entrytime="00:03:16.31" heatid="28002" lane="1" />
                 <ENTRY eventid="30" agegroupid="5" entrytime="00:01:42.70" heatid="30002" lane="6" />
               </ENTRIES>
