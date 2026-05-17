@@ -2094,6 +2094,83 @@
       "timing": "AUTOMATIC"
     },
     {
+      "city": "Köln",
+      "counts": {
+        "athletes": 219,
+        "clubs": 15,
+        "events": 32,
+        "heats": 116,
+        "relays": 0,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-17",
+      "facility": {
+        "name": "Leistungszentrum der Sporthochschule Köln",
+        "street": "Guts-Muths-Weg 1",
+        "zip": "50933 Köln"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-16T21:02:39+00:00",
+          "sha256": "39b7587b3a8bc3525cd53d96ce995702c16c8d4e72fac0168faa61e469c0a320",
+          "size_bytes": 175613,
+          "url": "meetings/5772026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-16T21:02:39+00:00",
+          "sha256": "7b20f253e8403544654042bdc06136bd0ed3638c8e365b9698b9ea2da9ff1f39",
+          "size_bytes": 491909,
+          "url": "meetings/5772026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "TPSK 1925 e.V.",
+      "meeting_id": "5772026",
+      "name": "TPSK SwimMeeting #261",
+      "nation": "GER",
+      "organizer": "TPSK 1925 e.V.",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-16",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-16",
+          "daytime": "13:05",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-17",
+          "daytime": "10:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-17",
+          "daytime": "12:39",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
       "city": "Hannover",
       "counts": {
         "athletes": 437,
@@ -2168,6 +2245,76 @@
       ],
       "start_date": "2026-05-16",
       "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Brühl",
+      "counts": {
+        "athletes": 155,
+        "clubs": 8,
+        "events": 27,
+        "heats": 128,
+        "relays": 9,
+        "sessions": 3
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-17",
+      "facility": {
+        "name": "Freibad Brühl",
+        "street": "Am Schrankenbuckel 11",
+        "zip": "68782 Brühl"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-16T21:03:14+00:00",
+          "sha256": "b2ce3e69b98c34d86049bb3b7766797994b68eaa8af848b82b47bf972607ef3f",
+          "size_bytes": 145215,
+          "url": "meetings/7032026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-16T21:03:14+00:00",
+          "sha256": "4d83b6926d99f25b0e468b7e32b8ab2babc9744845a2130b9810a18b34a7f3d3",
+          "size_bytes": 126849,
+          "url": "meetings/7032026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SV Hellas Brühl",
+      "meeting_id": "7032026",
+      "name": "38. Schwimmfest des SV Hellas Brühl / Baden",
+      "nation": "GER",
+      "organizer": "SV Hellas Brühl",
+      "pool": {
+        "lanemax": 6,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-16",
+          "daytime": "14:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-17",
+          "daytime": "09:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-17",
+          "daytime": "12:37",
+          "name": "Abschnitt 3",
+          "number": 3
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "SEEDED",
       "timing": "AUTOMATIC"
     },
     {
