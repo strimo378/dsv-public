@@ -2171,6 +2171,69 @@
       "timing": "MANUAL"
     },
     {
+      "city": "Singen",
+      "counts": {
+        "athletes": 60,
+        "clubs": 5,
+        "events": 21,
+        "heats": 66,
+        "relays": 5,
+        "sessions": 2
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-16",
+      "facility": {
+        "name": "Städtisches Hallenbad",
+        "street": "Waldeckstraße 1",
+        "zip": "78224 Singen"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-20T02:57:50+00:00",
+          "sha256": "c859a303e07900f4670824e3b2acda8dfba159a12b1c3f94e7ac45c34ed42f07",
+          "size_bytes": 62594,
+          "url": "meetings/6502026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-20T02:57:50+00:00",
+          "sha256": "9f5908738c861751dd1b2d4475c613ffafe59a59a1ea27040884b1758fa18f51",
+          "size_bytes": 90837,
+          "url": "meetings/6502026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SSF Singen e. V. 1971",
+      "meeting_id": "6502026",
+      "name": "4. Singener Frühjahrsmeeting 2026",
+      "nation": "GER",
+      "organizer": "SSF Singen e. V. 1971",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-16",
+          "daytime": "11:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-16",
+          "daytime": "13:45",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
+    },
+    {
       "city": "Hannover",
       "counts": {
         "athletes": 437,
@@ -2248,6 +2311,83 @@
       "timing": "AUTOMATIC"
     },
     {
+      "city": "Freibad Bad Soden",
+      "counts": {
+        "athletes": 502,
+        "clubs": 26,
+        "events": 30,
+        "heats": 383,
+        "relays": 6,
+        "sessions": 4
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-05-17",
+      "facility": {
+        "name": "Freibad Bad Soden",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-20T03:02:36+00:00",
+          "sha256": "9e4531e1ba2cbdcbec2b29dd1d174fb93296b709aad243dc2acae91768efaadb",
+          "size_bytes": 398130,
+          "url": "meetings/6782026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-20T03:02:36+00:00",
+          "sha256": "3328a00723da31ae7abfabaa679c9be12bb587601ef8117b29a9e1850f9c38e3",
+          "size_bytes": 379792,
+          "url": "meetings/6782026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Erster Sodener SC",
+      "meeting_id": "6782026",
+      "name": "Bezirksmeisterschaften HSV Mitte 2026",
+      "nation": "GER",
+      "organizer": "HSV Bezirk Mitte",
+      "pool": {
+        "lanemax": 6,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-16",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-16",
+          "daytime": "14:28",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-17",
+          "daytime": "09:30",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-17",
+          "daytime": "14:27",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
       "city": "Brühl",
       "counts": {
         "athletes": 155,
@@ -2316,6 +2456,139 @@
       "start_date": "2026-05-16",
       "status": "SEEDED",
       "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Wilhelmshaven",
+      "counts": {
+        "athletes": 242,
+        "clubs": 16,
+        "events": 32,
+        "heats": 209,
+        "relays": 12,
+        "sessions": 3
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-16",
+      "facility": {
+        "name": "Erlebnisbad \"Nautimo\"",
+        "street": "Friedenstraße 99",
+        "zip": "26386 Wilhelmshaven"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-20T03:00:25+00:00",
+          "sha256": "97ca575f3d0a4aa544611ffc7b7a75d84d37685fd7458a558b7fbfdd00d72d8a",
+          "size_bytes": 204069,
+          "url": "meetings/7112026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-20T03:00:25+00:00",
+          "sha256": "b4b6f3f5131d3ef0bd5eb9d933a8aaca7bf9ccd2f573bee96d929d4308f361e4",
+          "size_bytes": 256570,
+          "url": "meetings/7112026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Wilhelmshavener SSV",
+      "meeting_id": "7112026",
+      "name": "50. Internationales Vergleichsschwimmfest",
+      "nation": "GER",
+      "organizer": "Wilhelmshavener SSV",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-16",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-16",
+          "daytime": "10:30",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-16",
+          "daytime": "15:07",
+          "name": "Abschnitt 3",
+          "number": 3
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Landshut",
+      "counts": {
+        "athletes": 0,
+        "clubs": 11,
+        "events": 22,
+        "heats": 39,
+        "relays": 152,
+        "sessions": 2
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-16",
+      "facility": {
+        "name": "Stadtbad Landshut",
+        "street": "Dammstraße 28",
+        "zip": "84034 Landshut"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-20T02:58:32+00:00",
+          "sha256": "b44a10aa5d20d1690662562c98dc7864d1d3f460872e8a90f1eddd792a6b8754",
+          "size_bytes": 59063,
+          "url": "meetings/7702026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-20T02:58:32+00:00",
+          "sha256": "714c7d2e50541dfacca8b1b2d63281c30966695230f45f294c49afab79914b4b",
+          "size_bytes": 85716,
+          "url": "meetings/7702026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SC53 Landshut e.V.",
+      "meeting_id": "7702026",
+      "name": "Niederbayerische Staffelmeisterschaft",
+      "nation": "GER",
+      "organizer": "Bayerischer Schwimmverband, Bezirk II Niederbayern",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-16",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-16",
+          "daytime": "13:32",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-16",
+      "status": "SEEDED",
+      "timing": "MANUAL"
     },
     {
       "city": "Bremen",
