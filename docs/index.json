@@ -626,7 +626,7 @@
     {
       "city": "Schwimmhalle Prohlis",
       "counts": {
-        "athletes": 129,
+        "athletes": 124,
         "clubs": 8,
         "events": 26,
         "heats": 84,
@@ -643,9 +643,9 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-14T02:44:07+00:00",
-          "sha256": "2a3e3733ae53cca70a83984a0c7f68f531dc2249ffcceba6c52adb0af2016012",
-          "size_bytes": 81850,
+          "modified": "2026-05-14T02:52:56+00:00",
+          "sha256": "d8e596dffa2e89caeac37e554c95f4d94d11604701840fb647d7ad74b91da236",
+          "size_bytes": 95244,
           "url": "meetings/6062026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
