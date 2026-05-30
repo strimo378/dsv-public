@@ -3004,6 +3004,69 @@
       "timing": ""
     },
     {
+      "city": "Diepholz",
+      "counts": {
+        "athletes": 228,
+        "clubs": 14,
+        "events": 32,
+        "heats": 128,
+        "relays": 16,
+        "sessions": 2
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-30",
+      "facility": {
+        "name": "Freibad Müntepark",
+        "street": "Postdamm 9",
+        "zip": "49356 Diepholz"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T23:18:57+00:00",
+          "sha256": "779eda63616c53091faa1804d437bfcd0d7a93292ac255b3d24896388b330939",
+          "size_bytes": 191021,
+          "url": "meetings/312026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T23:18:57+00:00",
+          "sha256": "cc2ba44005c6040074591211c82d6efe29c4f62ec5283a25d0b25964128380f8",
+          "size_bytes": 168666,
+          "url": "meetings/312026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SG Diepholz 1870 und SG Barnstorf",
+      "meeting_id": "312026",
+      "name": "8. Hunte-Schwimmmeeting",
+      "nation": "GER",
+      "organizer": "SG Diepholz 1870 und SG Barnstorf",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-30",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-30",
+          "daytime": "13:42",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
       "city": "Bramsche",
       "counts": {
         "athletes": 232,
@@ -3072,6 +3135,146 @@
       "start_date": "2026-05-30",
       "status": "SEEDED",
       "timing": ""
+    },
+    {
+      "city": "Herford",
+      "counts": {
+        "athletes": 552,
+        "clubs": 28,
+        "events": 36,
+        "heats": 330,
+        "relays": 46,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "2026-05-16",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T23:18:32+00:00",
+          "sha256": "86e3e0c0f95af4407d38da1781b20e4edc9aaf77782213bd9c40de3f5ae42b11",
+          "size_bytes": 428594,
+          "url": "meetings/6242026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T23:18:32+00:00",
+          "sha256": "8c2d4a1f8ed19708df0353353a5e35d007bc41f5bd48949df9fd4d7ec7320283",
+          "size_bytes": 234914,
+          "url": "meetings/6242026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SC Herford",
+      "meeting_id": "6242026",
+      "name": "50. Internationales Schwimmfest",
+      "nation": "GER",
+      "organizer": "SC Herford",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "10:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "01:00",
+          "name": "",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "09:00",
+          "name": "",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "01:00",
+          "name": "",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Bremen",
+      "counts": {
+        "athletes": 125,
+        "clubs": 22,
+        "events": 52,
+        "heats": 101,
+        "relays": 16,
+        "sessions": 2
+      },
+      "course": "LCM",
+      "deadline": "2026-05-25",
+      "end_date": "2026-05-30",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T23:17:37+00:00",
+          "sha256": "9919764f470885568c4ae8d0b847b49fedac33549a47ccd91fe85b15f0b60284",
+          "size_bytes": 314990,
+          "url": "meetings/6822026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T23:17:37+00:00",
+          "sha256": "881da4496edaeb2ec8aa2f843b743d4f564d96ac0695cff6db597c9a73d5edcf",
+          "size_bytes": 294882,
+          "url": "meetings/6822026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Bremer Sport-Club e.V. & Special Olympics Bremen",
+      "meeting_id": "6822026",
+      "name": "Bremen-Cup 2026",
+      "nation": "GER",
+      "organizer": "Bremer Sport-Club e.V. & Special Olympics Bremen",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "10:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "00:45",
+          "name": "",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "",
+      "timing": "AUTOMATIC"
     },
     {
       "city": "Kamen",
