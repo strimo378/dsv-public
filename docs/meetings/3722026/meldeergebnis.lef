@@ -555,6 +555,14 @@
               </ENTRIES>
             </ATHLETE>
           </ATHLETES>
+          <RELAYS>
+            <RELAY number="1" gender="M" agemin="-1" agemax="-1" agetotalmin="-1" agetotalmax="-1" name="1. Mannschaft">
+              <ENTRIES>
+                <ENTRY eventid="19" entrytime="00:02:30.00" heatid="19001" lane="4" />
+                <ENTRY eventid="33" entrytime="00:02:10.00" heatid="33001" lane="3" />
+              </ENTRIES>
+            </RELAY>
+          </RELAYS>
         </CLUB>
         <CLUB name="Hövelhofer SV" nation="GER">
           <ATHLETES>
@@ -689,6 +697,7 @@
           <RELAYS>
             <RELAY number="1" gender="M" agemin="-1" agemax="-1" agetotalmin="-1" agetotalmax="-1" name="1. Mannschaft">
               <ENTRIES>
+                <ENTRY eventid="19" entrytime="00:02:09.31" heatid="19001" lane="3" />
                 <ENTRY eventid="33" entrytime="00:01:54.21" heatid="33001" lane="2" />
               </ENTRIES>
             </RELAY>
@@ -805,6 +814,12 @@
             </ATHLETE>
           </ATHLETES>
           <RELAYS>
+            <RELAY number="1" gender="F" agemin="-1" agemax="-1" agetotalmin="-1" agetotalmax="-1" name="1. Mannschaft">
+              <ENTRIES>
+                <ENTRY eventid="18" entrytime="00:02:28.80" heatid="18001" lane="4" />
+                <ENTRY eventid="34" entrytime="00:02:20.00" heatid="34001" lane="3" />
+              </ENTRIES>
+            </RELAY>
             <RELAY number="1" gender="M" agemin="-1" agemax="-1" agetotalmin="-1" agetotalmax="-1" name="1. Mannschaft">
               <ENTRIES>
                 <ENTRY eventid="19" entrytime="00:02:35.82" heatid="19001" lane="2" />
@@ -1072,6 +1087,7 @@
           <RELAYS>
             <RELAY number="1" gender="F" agemin="-1" agemax="-1" agetotalmin="-1" agetotalmax="-1" name="1. Mannschaft">
               <ENTRIES>
+                <ENTRY eventid="18" entrytime="00:02:35.00" heatid="18001" lane="3" />
                 <ENTRY eventid="34" entrytime="00:02:12.00" heatid="34001" lane="2" />
               </ENTRIES>
             </RELAY>

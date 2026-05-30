@@ -1883,7 +1883,7 @@
         "clubs": 15,
         "events": 34,
         "heats": 69,
-        "relays": 5,
+        "relays": 7,
         "sessions": 2
       },
       "course": "",
@@ -1896,13 +1896,13 @@
       },
       "files": {
         "lef": {
-          "modified": "2026-05-14T02:43:34+00:00",
-          "sha256": "41e4831303554d7eefd1348bed1b9df37e62f697772c23200ae7fe6f05876651",
-          "size_bytes": 74351,
+          "modified": "2026-05-30T22:08:16+00:00",
+          "sha256": "6d758389eafb9e09359897330f8a123c5cde512f1f49645d5c8d9e6023a0f000",
+          "size_bytes": 75294,
           "url": "meetings/3722026/meldeergebnis.lef"
         },
         "meldeergebnis_pdf": {
-          "modified": "2026-05-10T00:40:14+00:00",
+          "modified": "2026-05-30T21:39:01+00:00",
           "sha256": "1f12e22779b41a62bd9d0e11e0ff0e5701f0315869c64a9e0667b6ee36bc424d",
           "size_bytes": 505826,
           "url": "meetings/3722026/meldeergebnis.pdf"
@@ -2643,6 +2643,629 @@
         }
       ],
       "start_date": "2026-05-17",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Hannover",
+      "counts": {
+        "athletes": 494,
+        "clubs": 92,
+        "events": 55,
+        "heats": 247,
+        "relays": 75,
+        "sessions": 5
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "Deutsche Hochschulmeisterschaft Schwimmen 2026",
+        "street": "Robert-Enke-Str. 5",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:06:02+00:00",
+          "sha256": "85569d95ca1a1e88b537131568451d701016c297c95b5e334b7bb09f4e52da53",
+          "size_bytes": 382398,
+          "url": "meetings/9262026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:06:02+00:00",
+          "sha256": "36abac2fbb18297536174868a2d243b5a4ee1b1a892a07b908ade423a68d7c48",
+          "size_bytes": 456075,
+          "url": "meetings/9262026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Hochschulsport Hannover und SGS Hannover",
+      "meeting_id": "9262026",
+      "name": "Wettkampfbecken",
+      "nation": "Deutschland",
+      "organizer": "Allgemeiner Deutscher Hochschulsportverband (adh)",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-29",
+          "daytime": "16:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-30",
+          "daytime": "10:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-30",
+          "daytime": "14:27",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-31",
+          "daytime": "10:00",
+          "name": "Abschnitt 4",
+          "number": 4
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-31",
+          "daytime": "14:02",
+          "name": "Abschnitt 5",
+          "number": 5
+        }
+      ],
+      "start_date": "2026-05-29",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
+    },
+    {
+      "city": "Ü-Bad",
+      "counts": {
+        "athletes": 748,
+        "clubs": 26,
+        "events": 62,
+        "heats": 353,
+        "relays": 0,
+        "sessions": 4
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "Ü-Bad",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:28:59+00:00",
+          "sha256": "9fc7d6b152f92bbc5bba8fb54c15bd0ca36bec97be7f66062b88e17717e02cb6",
+          "size_bytes": 397857,
+          "url": "meetings/1332026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:28:59+00:00",
+          "sha256": "21d452071efbb8eff9ee186118e4bd3c460c77bf08d580f123d1045852d84886",
+          "size_bytes": 1209098,
+          "url": "meetings/1332026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SV Übach-Palenberg e.V.",
+      "meeting_id": "1332026",
+      "name": "43.Internationaler \"EWV\" Schwimmer-Fünfkampf",
+      "nation": "GER",
+      "organizer": "SV Übach-Palenberg e.V.",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "15:02",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "09:30",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "14:26",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Mölln",
+      "counts": {
+        "athletes": 79,
+        "clubs": 5,
+        "events": 26,
+        "heats": 73,
+        "relays": 0,
+        "sessions": 1
+      },
+      "course": "25m",
+      "deadline": "",
+      "end_date": "2026-05-30",
+      "facility": {
+        "name": "Aktive",
+        "street": "Sterleyer Straße 44",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:29:01+00:00",
+          "sha256": "6739e8f660db299a5cf6d2a132a4f199eed3df0bb42bb20da9a017842c1bd3b9",
+          "size_bytes": 63428,
+          "url": "meetings/2562026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:29:01+00:00",
+          "sha256": "f40dc114ecf41824adbc29739946fb03ca1708b31effe313dab925fb00ca4b0a",
+          "size_bytes": 170078,
+          "url": "meetings/2562026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Möllner SVgg. 1862",
+      "meeting_id": "2562026",
+      "name": "zum",
+      "nation": "Deutschland",
+      "organizer": "LSV Schleswig-Holstein",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "25m",
+          "date": "2026-05-30",
+          "daytime": "13:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "SEEDED",
+      "timing": "Handzeit"
+    },
+    {
+      "city": "Wilster",
+      "counts": {
+        "athletes": 104,
+        "clubs": 11,
+        "events": 26,
+        "heats": 87,
+        "relays": 0,
+        "sessions": 1
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-30",
+      "facility": {
+        "name": "Hallenbad Wilster",
+        "street": "Am Schulzentrum 4",
+        "zip": "25554 Wilster"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:29:03+00:00",
+          "sha256": "c65d7ba795dd73f394fd0e2c68c1865e1f780843339e6dbf3ad1f95c6c3524e8",
+          "size_bytes": 82519,
+          "url": "meetings/2572026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:29:03+00:00",
+          "sha256": "f067835199a70f43352f33ab860c70c1b8ae0d751b83acc1a06db20452c0f0eb",
+          "size_bytes": 532318,
+          "url": "meetings/2572026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Sport-Club Itzehoe",
+      "meeting_id": "2572026",
+      "name": "NOP Vorkampf 2026",
+      "nation": "GER",
+      "organizer": "Schleswig-Holsteinischer Schwimmverband",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-30",
+          "daytime": "14:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Hallenbad Twist",
+      "counts": {
+        "athletes": 213,
+        "clubs": 11,
+        "events": 41,
+        "heats": 243,
+        "relays": 16,
+        "sessions": 5
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "Hallenbad Twist",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:00:27+00:00",
+          "sha256": "e2cc0cda94a0633b5b98b8ad930fd681a1db0493a0eb274da3344dc1564a6b1b",
+          "size_bytes": 221674,
+          "url": "meetings/2662026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:00:27+00:00",
+          "sha256": "d73448d585f26c680bc8220f88687c3bd7aa385904f0ec34480de7a58322c7a5",
+          "size_bytes": 654172,
+          "url": "meetings/2662026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SC Twist",
+      "meeting_id": "2662026",
+      "name": "32. Int. Birkhahnschwimmfest",
+      "nation": "GER",
+      "organizer": "SC Twist",
+      "pool": {
+        "lanemax": 4,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "09:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "10:33",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "13:51",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "09:30",
+          "name": "Abschnitt 4",
+          "number": 4
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "13:48",
+          "name": "Abschnitt 5",
+          "number": 5
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Bramsche",
+      "counts": {
+        "athletes": 232,
+        "clubs": 15,
+        "events": 30,
+        "heats": 256,
+        "relays": 18,
+        "sessions": 3
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-30",
+      "facility": {
+        "name": "Hase-Bad Bramsche",
+        "street": "Malgartener Str. 49",
+        "zip": "49565 Bramsche"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:00:29+00:00",
+          "sha256": "8af4bce866447451016961f1ec3d689146d612444dbfa843213808a49dc2ac59",
+          "size_bytes": 197843,
+          "url": "meetings/6122026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:00:29+00:00",
+          "sha256": "7275a36f783b4689df7c5fb114435018dd90cc031e14fa8cd725df438930531d",
+          "size_bytes": 160156,
+          "url": "meetings/6122026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Tus Bramsche / TSV Ueffeln",
+      "meeting_id": "6122026",
+      "name": "6. Hase-Bad-Cup",
+      "nation": "GER",
+      "organizer": "TuS Bramsche / TSV Ueffeln",
+      "pool": {
+        "lanemax": 4,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-30",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-30",
+          "daytime": "00:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "SCM",
+          "date": "2026-05-30",
+          "daytime": "00:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Kamen",
+      "counts": {
+        "athletes": 319,
+        "clubs": 29,
+        "events": 51,
+        "heats": 151,
+        "relays": 0,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "Sesekebad Kamen",
+        "street": "Am Schwimmbad 8",
+        "zip": "59174 Kamen"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:02:31+00:00",
+          "sha256": "77297308fde863867e1caef46e0646e3612d32730973562220aba8b94c0eed8b",
+          "size_bytes": 214408,
+          "url": "meetings/7562026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:02:31+00:00",
+          "sha256": "58b5cb473cfad2b08302b0d8148fb7b3a10179853c47b3b2545085a116d1c474",
+          "size_bytes": 178122,
+          "url": "meetings/7562026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SV Kamen 1891 e.V.",
+      "meeting_id": "7562026",
+      "name": "40.Sparkassen-Swim-Open und 22.Sparkassen-Masterspokal",
+      "nation": "GER",
+      "organizer": "SV Kamen 1891 e.V.",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 2,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-30",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-30",
+          "daytime": "13:08",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-31",
+          "daytime": "10:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-31",
+          "daytime": "13:15",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Bad Schwartau",
+      "counts": {
+        "athletes": 116,
+        "clubs": 7,
+        "events": 26,
+        "heats": 117,
+        "relays": 0,
+        "sessions": 1
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "Schwimmhalle Bad Schwartau",
+        "street": "Ludwig-Jahn-Straße 5",
+        "zip": "23611 Bad Schwartau"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:29:00+00:00",
+          "sha256": "a6098d462130097cdd84b8101c592fe18c91801ee09312437ad4b49f11960e3f",
+          "size_bytes": 84851,
+          "url": "meetings/2582026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:29:00+00:00",
+          "sha256": "b52816aea777aba3e98eef047186246de2684f7b1c1444c7f35064a6da148e84",
+          "size_bytes": 114893,
+          "url": "meetings/2582026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SG Bad Schwartau",
+      "meeting_id": "2582026",
+      "name": "NOP Vorkampf 2026",
+      "nation": "GER",
+      "organizer": "Schleswig Holsteinischer Schwimmverband",
+      "pool": {
+        "lanemax": 4,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-31",
+          "daytime": "10:15",
+          "name": "Abschnitt 1",
+          "number": 1
+        }
+      ],
+      "start_date": "2026-05-31",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
+      "city": "Bad Homburg",
+      "counts": {
+        "athletes": 208,
+        "clubs": 47,
+        "events": 38,
+        "heats": 109,
+        "relays": 25,
+        "sessions": 2
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "Seedambad Bad Homburg",
+        "street": "Seedamweg 7",
+        "zip": "61352 Bad Homburg"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T22:02:29+00:00",
+          "sha256": "78f5dc21f7b8c0bb99a74c02b01ded84eb952df17b5f14bc11fd77f683be113e",
+          "size_bytes": 142860,
+          "url": "meetings/6492026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T22:02:29+00:00",
+          "sha256": "622151a4822d460353fec95a1dce85a6a1087042c58175d62226a4d62066af0a",
+          "size_bytes": 1113350,
+          "url": "meetings/6492026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Bad Homburger SC",
+      "meeting_id": "6492026",
+      "name": "Hessische Mastersmeisterschaften & Bezirkskindervergleich 2026",
+      "nation": "GER",
+      "organizer": "Hessischer Schwimmverband e.V.",
+      "pool": {
+        "lanemax": 8,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "10:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "14:39",
+          "name": "Abschnitt 2",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-31",
       "status": "SEEDED",
       "timing": "MANUAL"
     }
