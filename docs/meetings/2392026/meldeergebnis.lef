@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LENEX xmlns:dsvapp="https://stripfsoftware.de/dsvapp/lenex" version="3.0">
+  <CONSTRUCTOR name="dsv-app" version="1.0" />
+  <MEETS>
+    <MEET name="LAST STOP: Bochum" city="Hallenbad Querenburg" nation="GER" organizer="Team Bochum" hostclub="Team Bochum" status="SEEDED">
+      <FACILITY name="Hallenbad Querenburg" nation="GER" />
+      <AGEDATE type="YEAR" value="2026-01-01" />
+      <SESSIONS>
+        <SESSION number="1" date="2026-05-22" name="Abschnitt 1" status="SEEDED" daytime="15:45" officialmeeting="15:15" warmupfrom="15:30">
+          <EVENTS>
+            <EVENT eventid="1" number="101" order="1" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="400m Lagen weiblich *Road to DJM*" distance="400" stroke="MEDLEY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="2" number="102" order="2" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="400m Lagen männlich *Road to DJM*" distance="400" stroke="MEDLEY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="3" number="103" order="3" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="800m Freistil weiblich *Road to DJM*" distance="800" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="4" number="104" order="4" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="1500m Freistil männlich *Road to DJM*" distance="1500" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+        <SESSION number="2" date="2026-05-23" name="Abschnitt 2" status="SEEDED" daytime="09:00" officialmeeting="08:15" warmupfrom="08:00">
+          <EVENTS>
+            <EVENT eventid="5" number="1" order="5" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Lagen weiblich" distance="200" stroke="MEDLEY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="6" number="2" order="6" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Brust männlich" distance="200" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="18" agemax="18" name="Year 2008" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="6001" number="1" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="7" number="3" order="7" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Schmetterling weiblich" distance="100" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="8" number="4" order="8" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Rücken männlich" distance="100" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="9" number="5" order="9" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Rücken weiblich" distance="200" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="10" number="6" order="10" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Schmetterling männlich" distance="200" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="11" number="7" order="11" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Freistil weiblich" distance="200" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="12" number="8" order="12" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Brust männlich" distance="50" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="18" agemax="18" name="Year 2008" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="12001" number="1" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="13" number="9" order="13" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Rücken weiblich" distance="50" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="14" number="10" order="14" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Schmetterling männlich" distance="50" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="15" number="11" order="15" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Freistil weiblich" distance="50" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="16" number="12" order="16" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Freistil männlich" distance="100" stroke="FREE" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="18" agemax="18" name="Year 2008" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="16001" number="1" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="17" number="13" order="17" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Brust weiblich" distance="100" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="11" agemax="11" name="Year 2015" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="17001" number="1" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="18" number="14" order="18" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="400m Freistil männlich" distance="400" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="19" number="15" order="19" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="1500m Freistil weiblich" distance="1500" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+        <SESSION number="3" date="2026-05-23" name="Abschnitt 3" status="SEEDED" officialmeeting="00:30" warmupfrom="13:15" dsvapp:relativeDaytime="01:15" dsvapp:relativeDaytimeAnchor="previous-session-end">
+          <EVENTS>
+            <EVENT eventid="20" number="301" order="20" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Lagen weiblich *Road to DJM*" distance="200" stroke="MEDLEY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="21" number="302" order="21" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Brust männlich *Road to DJM*" distance="200" stroke="BREAST" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="22" number="303" order="22" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Schmetterling weiblich *Road to DJM*" distance="100" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="23" number="304" order="23" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Rücken männlich *Road to DJM*" distance="100" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="24" number="305" order="24" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Rücken weiblich *Road to DJM*" distance="200" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="25" number="306" order="25" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Schmetterling männlich *Road to DJM*" distance="200" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="26" number="307" order="26" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Freistil weiblich *Road to DJM*" distance="200" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="27" number="308" order="27" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Brust männlich *Road to DJM*" distance="50" stroke="BREAST" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="28" number="309" order="28" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Rücken weiblich *Road to DJM*" distance="50" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="29" number="310" order="29" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Schmetterling männlich *Road to DJM*" distance="50" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="30" number="311" order="30" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Freistil weiblich *Road to DJM*" distance="50" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="31" number="312" order="31" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Freistil männlich *Road to DJM*" distance="100" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="32" number="313" order="32" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Brust weiblich *Road to DJM*" distance="100" stroke="BREAST" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="33" number="314" order="33" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="400m Freistil männlich *Road to DJM*" distance="400" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="34" number="315" order="34" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="1500m Freistil weiblich *Road to DJM*" distance="1500" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+        <SESSION number="4" date="2026-05-24" name="Abschnitt 4" status="SEEDED" daytime="09:00" officialmeeting="08:15" warmupfrom="08:30">
+          <EVENTS>
+            <EVENT eventid="35" number="401" order="35" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Lagen männlich *Road to DJM*" distance="200" stroke="MEDLEY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="36" number="402" order="36" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Brust weiblich *Road to DJM*" distance="200" stroke="BREAST" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="37" number="403" order="37" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Schmetterling männlich *Road to DJM*" distance="100" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="38" number="404" order="38" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Rücken weiblich *Road to DJM*" distance="100" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="39" number="405" order="39" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Rücken männlich *Road to DJM*" distance="200" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="40" number="406" order="40" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Schmetterling weiblich *Road to DJM*" distance="200" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="41" number="407" order="41" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Freistil männlich *Road to DJM*" distance="200" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="42" number="408" order="42" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Brust weiblich *Road to DJM*" distance="50" stroke="BREAST" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="43" number="409" order="43" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Rücken männlich *Road to DJM*" distance="50" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="44" number="410" order="44" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Schmetterling weiblich *Road to DJM*" distance="50" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="45" number="411" order="45" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Freistil männlich *Road to DJM*" distance="50" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="46" number="412" order="46" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Freistil weiblich *Road to DJM*" distance="100" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="47" number="413" order="47" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Brust männlich *Road to DJM*" distance="100" stroke="BREAST" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="48" number="414" order="48" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="400m Freistil weiblich *Road to DJM*" distance="400" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="49" number="415" order="49" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="800m Freistil männlich *Road to DJM*" distance="800" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+        <SESSION number="5" date="2026-05-24" name="Abschnitt 5" status="SEEDED" officialmeeting="00:30" warmupfrom="12:45" dsvapp:relativeDaytime="01:00" dsvapp:relativeDaytimeAnchor="previous-session-end">
+          <EVENTS>
+            <EVENT eventid="50" number="16" order="50" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Lagen männlich" distance="200" stroke="MEDLEY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="51" number="17" order="51" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Brust weiblich" distance="200" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="16" agemax="16" name="Year 2010" />
+                <AGEGROUP agegroupid="2" agemin="11" agemax="11" name="Year 2015" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="51001" number="1" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="52" number="18" order="52" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Schmetterling männlich" distance="100" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="53" number="19" order="53" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Rücken weiblich" distance="100" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="54" number="20" order="54" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Rücken männlich" distance="200" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="55" number="21" order="55" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Schmetterling weiblich" distance="200" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="56" number="22" order="56" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="200m Freistil männlich" distance="200" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="57" number="23" order="57" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Brust weiblich" distance="50" stroke="BREAST" relaycount="1" />
+              <AGEGROUPS>
+                <AGEGROUP agegroupid="1" agemin="16" agemax="16" name="Year 2010" />
+              </AGEGROUPS>
+              <HEATS>
+                <HEAT heatid="57001" number="1" />
+              </HEATS>
+            </EVENT>
+            <EVENT eventid="58" number="24" order="58" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Rücken männlich" distance="50" stroke="BACK" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="59" number="25" order="59" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Schmetterling weiblich" distance="50" stroke="FLY" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="60" number="26" order="60" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="50m Freistil männlich" distance="50" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="61" number="27" order="61" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Freistil weiblich" distance="100" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="62" number="28" order="62" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="100m Brust männlich" distance="100" stroke="BREAST" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="63" number="29" order="63" gender="F" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="400m Freistil weiblich" distance="400" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+            <EVENT eventid="64" number="30" order="64" gender="M" round="TIM" status="SEEDED">
+              <SWIMSTYLE name="800m Freistil männlich" distance="800" stroke="FREE" relaycount="1" />
+              <HEATS />
+            </EVENT>
+          </EVENTS>
+        </SESSION>
+      </SESSIONS>
+      <CLUBS>
+        <CLUB name="Wardenburger SC" nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="1" firstname="2004" lastname="2004" birthdate="2008-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="6" agegroupid="1" entrytime="00:00:00.00" heatid="6001" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="3" firstname="2012" lastname="2012" birthdate="2008-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="16" agegroupid="1" entrytime="00:00:00.00" heatid="16001" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="6" firstname="2014" lastname="2014" birthdate="2010-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="51" agegroupid="1" entrytime="00:03:10.10" heatid="51001" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="2" firstname="Sebastian" lastname="Brehmer" birthdate="2008-01-01" gender="M" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="12" agegroupid="1" entrytime="00:00:00.00" heatid="12001" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="7" firstname="Valentina Basile da" lastname="Costa" birthdate="2010-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="57" agegroupid="1" entrytime="00:00:40.00" heatid="57001" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+        <CLUB name="Warendorfer SU" nation="GER">
+          <ATHLETES>
+            <ATHLETE athleteid="5" firstname="2016" lastname="2016" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="51" agegroupid="2" entrytime="00:03:13.43" heatid="51001" />
+              </ENTRIES>
+            </ATHLETE>
+            <ATHLETE athleteid="4" firstname="2017" lastname="2017" birthdate="2015-01-01" gender="F" nation="GER">
+              <ENTRIES>
+                <ENTRY eventid="17" agegroupid="1" entrytime="00:01:30.75" heatid="17001" />
+              </ENTRIES>
+            </ATHLETE>
+          </ATHLETES>
+        </CLUB>
+      </CLUBS>
+    </MEET>
+  </MEETS>
+</LENEX>

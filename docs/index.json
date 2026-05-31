@@ -2647,6 +2647,244 @@
       "timing": "MANUAL"
     },
     {
+      "city": "Hallenbad Querenburg",
+      "counts": {
+        "athletes": 7,
+        "clubs": 2,
+        "events": 64,
+        "heats": 6,
+        "relays": 0,
+        "sessions": 5
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-05-24",
+      "facility": {
+        "name": "Hallenbad Querenburg",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T23:51:46+00:00",
+          "sha256": "cce832a8e81eac8d628c12e9b1347531479a4b181253dc2e22b38864f954944a",
+          "size_bytes": 21192,
+          "url": "meetings/2392026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T23:51:46+00:00",
+          "sha256": "57ec846247c4aa8a0d49eabac5e4a834e77701c1412ac574f7e8648c8d1e07a8",
+          "size_bytes": 1291946,
+          "url": "meetings/2392026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Team Bochum",
+      "meeting_id": "2392026",
+      "name": "LAST STOP: Bochum",
+      "nation": "GER",
+      "organizer": "Team Bochum",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-22",
+          "daytime": "15:45",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-23",
+          "daytime": "09:00",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-23",
+          "daytime": "",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-24",
+          "daytime": "09:00",
+          "name": "Abschnitt 4",
+          "number": 4
+        },
+        {
+          "course": "",
+          "date": "2026-05-24",
+          "daytime": "",
+          "name": "Abschnitt 5",
+          "number": 5
+        }
+      ],
+      "start_date": "2026-05-22",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Erlebnisbad Hestert",
+      "counts": {
+        "athletes": 448,
+        "clubs": 28,
+        "events": 58,
+        "heats": 26,
+        "relays": 0,
+        "sessions": 4
+      },
+      "course": "",
+      "deadline": "",
+      "end_date": "2026-05-24",
+      "facility": {
+        "name": "Erlebnisbad Hestert",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T23:52:14+00:00",
+          "sha256": "0511ac55fa84ce5a587eeec9cfc5e9801762265157c913a6e9b4fccf15ef5ba0",
+          "size_bytes": 273723,
+          "url": "meetings/2902026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T23:52:14+00:00",
+          "sha256": "b87580f003e11c0ec474728f479e148acb3ccbc7608caae73efa0cf963414ac9",
+          "size_bytes": 1075156,
+          "url": "meetings/2902026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SCHWIMMVEREIN HAGEN von 1894 e.V.",
+      "meeting_id": "2902026",
+      "name": "29. Internationaler Sprint Cup",
+      "nation": "GER",
+      "organizer": "SCHWIMMVEREIN HAGEN von 1894 e.V.",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-23",
+          "daytime": "10:00",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-23",
+          "daytime": "",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-24",
+          "daytime": "09:00",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-24",
+          "daytime": "",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-23",
+      "status": "SEEDED",
+      "timing": ""
+    },
+    {
+      "city": "Berlin",
+      "counts": {
+        "athletes": 112,
+        "clubs": 26,
+        "events": 42,
+        "heats": 38,
+        "relays": 11,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "",
+      "end_date": "2026-05-24",
+      "facility": {
+        "name": "Sportbad Britz",
+        "street": "Kleiberweg 3",
+        "zip": "12359 Berlin"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T23:49:50+00:00",
+          "sha256": "b3dba4ef205dbcb49bef58dbf4abcb959c2132eb8ba40db97499ab5f00a023fd",
+          "size_bytes": 68724,
+          "url": "meetings/482026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T23:49:50+00:00",
+          "sha256": "6e9d654b3ca9617b96e65af450bc4c30b1ff95d27f807e665c9bf4876aaa5198",
+          "size_bytes": 979955,
+          "url": "meetings/482026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Schwimm-Gemeinschaft Neukölln e.V. Berlin",
+      "meeting_id": "482026",
+      "name": "29. Int. Sportbad-Pokal \"Dietrich-Bolz-Gedächtnis-Schwimmen\" der SG Neukölln e.V. Berlin",
+      "nation": "GER",
+      "organizer": "Schwimm-Gemeinschaft Neukölln e.V. Berlin",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "LCM",
+          "date": "2026-05-23",
+          "daytime": "09:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-23",
+          "daytime": "",
+          "name": "Abschnitt 2",
+          "number": 2
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-24",
+          "daytime": "09:30",
+          "name": "Abschnitt 3",
+          "number": 3
+        },
+        {
+          "course": "LCM",
+          "date": "2026-05-24",
+          "daytime": "",
+          "name": "Abschnitt 4",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-05-23",
+      "status": "SEEDED",
+      "timing": "AUTOMATIC"
+    },
+    {
       "city": "Hannover",
       "counts": {
         "athletes": 494,
