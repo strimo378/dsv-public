@@ -3471,6 +3471,83 @@
       "start_date": "2026-05-31",
       "status": "SEEDED",
       "timing": "MANUAL"
+    },
+    {
+      "city": "Mühlacker",
+      "counts": {
+        "athletes": 437,
+        "clubs": 26,
+        "events": 52,
+        "heats": 311,
+        "relays": 70,
+        "sessions": 4
+      },
+      "course": "LCM",
+      "deadline": "2026-05-26",
+      "end_date": "2026-06-07",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-30T23:58:53+00:00",
+          "sha256": "c8198cc67ef099f9f1dc10983e67ad0925b379670918fb7e4e24209b910edb59",
+          "size_bytes": 382966,
+          "url": "meetings/272026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-30T23:58:53+00:00",
+          "sha256": "4bdab7d73c890f3e122251138ce4fd01bfe58ab3363fc7c3eac0bbc2d1959008",
+          "size_bytes": 1378360,
+          "url": "meetings/272026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Wasserfreunde Mühlacker 1920 e.V.",
+      "meeting_id": "272026",
+      "name": "16. Internationaler Sendercup",
+      "nation": "GER",
+      "organizer": "Wasserfreunde Mühlacker 1920 e.V.",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-06-06",
+          "daytime": "10:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-06-06",
+          "daytime": "15:00",
+          "name": "",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-06-07",
+          "daytime": "10:00",
+          "name": "",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-06-07",
+          "daytime": "14:45",
+          "name": "",
+          "number": 4
+        }
+      ],
+      "start_date": "2026-06-06",
+      "status": "",
+      "timing": "AUTOMATIC"
     }
   ],
   "schema_version": 1
