@@ -3046,6 +3046,97 @@
       "timing": ""
     },
     {
+      "city": "Trier",
+      "counts": {
+        "athletes": 363,
+        "clubs": 21,
+        "events": 67,
+        "heats": 307,
+        "relays": 34,
+        "sessions": 6
+      },
+      "course": "LCM",
+      "deadline": "2026-05-20",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-31T00:19:09+00:00",
+          "sha256": "8125b6a646165185126318fcf8be72a4e9acae74a4ae3438827366e6a11718f5",
+          "size_bytes": 354712,
+          "url": "meetings/2282026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-31T00:19:09+00:00",
+          "sha256": "79ae6ada1ce2499259e0c0b39d7f3707d836ca1c920c205f0d6eeacfd69a8341",
+          "size_bytes": 337706,
+          "url": "meetings/2282026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "SSV Trier",
+      "meeting_id": "2282026",
+      "name": "43. Int. Peter und Paul Schwimmfest",
+      "nation": "GER",
+      "organizer": "SSV Trier",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "09:30",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "01:00",
+          "name": "",
+          "number": 2
+        },
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "00:30",
+          "name": "",
+          "number": 3
+        },
+        {
+          "course": "",
+          "date": "2026-05-30",
+          "daytime": "00:30",
+          "name": "",
+          "number": 4
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "09:30",
+          "name": "",
+          "number": 5
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "00:30",
+          "name": "",
+          "number": 6
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "",
+      "timing": "AUTOMATIC"
+    },
+    {
       "city": "Mölln",
       "counts": {
         "athletes": 79,
@@ -3592,6 +3683,62 @@
       "timing": "MANUAL"
     },
     {
+      "city": "Göttingen",
+      "counts": {
+        "athletes": 263,
+        "clubs": 27,
+        "events": 27,
+        "heats": 91,
+        "relays": 6,
+        "sessions": 1
+      },
+      "course": "SCM",
+      "deadline": "",
+      "end_date": "2026-05-30",
+      "facility": {
+        "name": "Universitätsschwimmhalle (IFL)",
+        "street": "Gutenbergstraße 60",
+        "zip": "37073 Göttingen"
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-31T00:20:22+00:00",
+          "sha256": "f4e9ae4b4f9e1306a27dcaed1e8a8689adcb61bf7b601094cb2dde5449c6cb97",
+          "size_bytes": 121943,
+          "url": "meetings/8182026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-31T00:20:22+00:00",
+          "sha256": "709be425f07c60d4097fcdc9714938ecd22edc93452f7117d89b4850767b00fc",
+          "size_bytes": 54295,
+          "url": "meetings/8182026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "TWG 1861 Göttingen/Wasserfreunde Northeim 1985 e.V.",
+      "meeting_id": "8182026",
+      "name": "1. Nachwuchsmehrkampf",
+      "nation": "GER",
+      "organizer": "TWG 1861 Göttingen/Wasserfreunde Northeim 1985 e.V.",
+      "pool": {
+        "lanemax": 5,
+        "lanemin": 1,
+        "temperature": null,
+        "type": null
+      },
+      "sessions": [
+        {
+          "course": "SCM",
+          "date": "2026-05-30",
+          "daytime": "10:30",
+          "name": "Abschnitt 1",
+          "number": 1
+        }
+      ],
+      "start_date": "2026-05-30",
+      "status": "SEEDED",
+      "timing": "MANUAL"
+    },
+    {
       "city": "Bad Schwartau",
       "counts": {
         "athletes": 116,
@@ -3646,6 +3793,69 @@
       "start_date": "2026-05-31",
       "status": "SEEDED",
       "timing": "MANUAL"
+    },
+    {
+      "city": "Marsberg",
+      "counts": {
+        "athletes": 247,
+        "clubs": 18,
+        "events": 24,
+        "heats": 213,
+        "relays": 53,
+        "sessions": 2
+      },
+      "course": "SCM",
+      "deadline": "2026-05-21",
+      "end_date": "2026-05-31",
+      "facility": {
+        "name": "",
+        "street": "",
+        "zip": ""
+      },
+      "files": {
+        "lef": {
+          "modified": "2026-05-31T00:19:10+00:00",
+          "sha256": "99f6fe6ae2450dbd21452dea126073e67ef70a68815fd32988c7dac58f12a044",
+          "size_bytes": 226170,
+          "url": "meetings/2732026/meldeergebnis.lef"
+        },
+        "meldeergebnis_pdf": {
+          "modified": "2026-05-31T00:19:10+00:00",
+          "sha256": "4d6473ae1212fd40699416dea0f36b4f70d678d6cbc7b9c11966a8adfd2c959b",
+          "size_bytes": 196728,
+          "url": "meetings/2732026/meldeergebnis.pdf"
+        }
+      },
+      "hostclub": "Schwimmverein Marsberg 1961 e.V.",
+      "meeting_id": "2732026",
+      "name": "49. Marsberger Schwimmertag",
+      "nation": "GER",
+      "organizer": "Schwimmverein Marsberg 1961 e.V.",
+      "pool": {
+        "lanemax": null,
+        "lanemin": null,
+        "temperature": null,
+        "type": ""
+      },
+      "sessions": [
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "09:00",
+          "name": "",
+          "number": 1
+        },
+        {
+          "course": "",
+          "date": "2026-05-31",
+          "daytime": "01:00",
+          "name": "",
+          "number": 2
+        }
+      ],
+      "start_date": "2026-05-31",
+      "status": "",
+      "timing": ""
     },
     {
       "city": "Bad Homburg",
